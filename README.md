@@ -1,4 +1,44 @@
-# React + TypeScript + Vite
+# Bitcoin Businesses 
+
+A React + TypeScript + Vite application to display Bitcoin businesses.
+
+## Setup
+
+clone the repository
+
+```bash
+git clone https://github.com/bitkarrot/bitcoinbiz.git
+```
+
+Build the project
+
+```bash
+pnpm install
+pnpm dev
+```
+
+Download your csv file and place it in the root directory of the project, 
+Name it bitcoinlinks.csv.
+
+Get the metadata for the project
+
+```bash
+node scripts/fetch_metadata.js
+```
+
+Build the project
+
+```bash
+pnpm run build
+```
+
+Deploy to vercel 
+
+```bash
+vercel --prod
+```
+
+## Template notes
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
