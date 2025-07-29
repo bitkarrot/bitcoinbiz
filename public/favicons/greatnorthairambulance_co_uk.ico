@@ -1,0 +1,900 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name='robots' content='noindex, follow' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v22.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Great North Air Ambulance Service</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page not found - Great North Air Ambulance Service" />
+	<meta property="og:site_name" content="Great North Air Ambulance Service" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.greatnorthairambulance.co.uk/#website","url":"https://www.greatnorthairambulance.co.uk/","name":"Great North Air Ambulance Service","description":"Charity funded, world-class critical care.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.greatnorthairambulance.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.greatnorthairambulance.co.uk\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='preload' id='font-awesome-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='font-awesome-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><style id='font-awesome-inline-css' type='text/css'>
+[data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='preload' id='woocommerce-smart-coupons-available-coupons-block-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-smart-coupons/blocks/build/style-woocommerce-smart-coupons-available-coupons-block.css?ver=9.14.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='woocommerce-smart-coupons-available-coupons-block-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-smart-coupons/blocks/build/style-woocommerce-smart-coupons-available-coupons-block.css?ver=9.14.0' type='text/css' media='all' />
+</noscript><link rel='preload' id='wp-components-css' href='https://www.greatnorthairambulance.co.uk/wp/wp-includes/css/dist/components/style.min.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='wp-components-css' href='https://www.greatnorthairambulance.co.uk/wp/wp-includes/css/dist/components/style.min.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><link rel='preload' id='woocommerce-smart-coupons-send-coupon-form-block-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-smart-coupons/blocks/build/style-woocommerce-smart-coupons-send-coupon-form-block.css?ver=9.14.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='woocommerce-smart-coupons-send-coupon-form-block-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-smart-coupons/blocks/build/style-woocommerce-smart-coupons-send-coupon-form-block.css?ver=9.14.0' type='text/css' media='all' />
+</noscript><style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='preload' id='wp-block-library-css' href='https://www.greatnorthairambulance.co.uk/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='wp-block-library-css' href='https://www.greatnorthairambulance.co.uk/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><link rel='preload' id='csb-content-slider-block-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/content-slider-block/build/view.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='csb-content-slider-block-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/content-slider-block/build/view.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><link rel='preload' id='ideabox-counter-block-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/counter-block/build/style-index.css?ver=1742813733' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ideabox-counter-block-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/counter-block/build/style-index.css?ver=1742813733' type='text/css' media='all' />
+</noscript><style id='gutena-accordion-style-inline-css' type='text/css'>
+.gutena-accordion-block{display:grid;row-gap:calc(var(--gutena--accordion-panel-spacing, 20)*1px)}.gutena-accordion-block>.gutena-accordion-block__panel{background-color:var(--gutena--accordion-panel-background-color);border:var(--gutena--accordion-panel-border);border-radius:var(--gutena--accordion-panel-border-radius);cursor:pointer;margin:0!important}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title{color:var(--gutena--accordion-panel-title-color);cursor:pointer;padding:var(--gutena--accordion-panel-padding,20px);transition:.4s}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title.editor{padding-bottom:0}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner{align-items:center;-moz-column-gap:10px;column-gap:10px;display:flex;margin:0;padding:0}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner div,.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner p{color:var(--gutena--accordion-panel-title-color,var(--wp--preset--color--tertiary))!important;font-family:var(--gutena--accordion-panel-title-font-family,var(--wp--custom--typography--font-family--secondary));font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--p));font-style:var(--gutena--accordion-panel-title-font-style,inherit);font-weight:var(--gutena--accordion-panel-title-font-weight);line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--p));text-transform:var(--gutena--accordion-panel-title-text-transform)}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-plus-minus{align-items:center;display:flex;height:20px;justify-content:center;margin-left:auto;position:relative;width:20px}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-plus-minus>.horizontal{background-color:#313233;height:2px;opacity:1;position:absolute;transform:rotate(-90deg);transition:all .2s ease-in-out;width:60%}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-plus-minus>.vertical{background-color:#313233;height:60%;transform:rotate(-90deg);transition:all .2s ease-in-out;width:2px}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-up-down{display:inline-block;height:1.1rem;margin-left:auto;position:relative;top:50%;transform:translateY(-50%);width:1.1rem}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-up-down>.horizontal{background-color:#313233;bottom:0;display:inline-block;height:.1rem;left:0;position:absolute;transform:rotate(45deg);transition:all .2s ease;width:.66rem}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-up-down>.vertical{background-color:#313233;bottom:0;display:inline-block;height:.1rem;position:absolute;right:0;transform:rotate(-45deg);transition:all .2s ease;width:.66rem}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h1{font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--hone));line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--hone))}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h1,.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h2{color:var(--gutena--accordion-panel-title-color,var(--wp--preset--color--secondary))!important;font-family:var(--gutena--accordion-panel-title-font-family,var(--wp--custom--typography--font-family--primary));font-weight:var(--gutena--accordion-panel-title-font-weight,var(--wp--custom--typography--font-weight--semi-bold));text-transform:var(--gutena--accordion-panel-title-text-transform)}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h2{font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--htwo));line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--htwo))}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h3{font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--hthree));line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--hthree))}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h3,.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h4{color:var(--gutena--accordion-panel-title-color,var(--wp--preset--color--secondary))!important;font-family:var(--gutena--accordion-panel-title-font-family,var(--wp--custom--typography--font-family--primary));font-weight:var(--gutena--accordion-panel-title-font-weight,var(--wp--custom--typography--font-weight--semi-bold));text-transform:var(--gutena--accordion-panel-title-text-transform)}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h4{font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--hfour));line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--hfour))}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h5{font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--hfive));line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--hfive))}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h5,.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h6{color:var(--gutena--accordion-panel-title-color,var(--wp--preset--color--secondary))!important;font-family:var(--gutena--accordion-panel-title-font-family,var(--wp--custom--typography--font-family--primary));font-weight:var(--gutena--accordion-panel-title-font-weight,var(--wp--custom--typography--font-weight--semi-bold));text-transform:var(--gutena--accordion-panel-title-text-transform)}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner h6{font-size:var(--gutena--accordion-panel-title-font-size,var(--wp--custom--typography--font-size--hsix));line-height:var(--gutena--accordion-panel-title-line-height,var(--wp--custom--typography--line-height--hsix))}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-content{color:var(--gutena--accordion-panel-content-color,var(--wp--preset--color--tertiary));cursor:default;font-family:var(--gutena--accordion-panel-content-font-family,var(--wp--custom--typography--font-family--secondary));font-size:var(--gutena--accordion-panel-content-font-size,var(--wp--custom--typography--line-height--p));font-style:var(--gutena--accordion-panel-content-font-style);font-weight:var(--gutena--accordion-panel-content-font-weight);line-height:var(--gutena--accordion-panel-content-line-height,var(--wp--custom--typography--line-height--p));text-transform:var(--gutena--accordion-panel-content-text-transform)}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-content .wp-block-image:last-of-type,.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-content figcaption:last-of-type{margin-bottom:0}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-content:not(.editor){max-height:0;overflow:hidden;transition:max-height .2s ease-out}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-content>.gutena-accordion-block__panel-content-inner{margin-top:calc(var(--gutena--accordion-panel-title-content-spacing)*1px);padding:var(--gutena--accordion-panel-padding,20px);padding-top:0}.gutena-accordion-block>.gutena-accordion-block__panel>.gutena-accordion-block__panel-content>.gutena-accordion-block__panel-content-inner>:last-child{margin-bottom:0}.gutena-accordion-block>.gutena-accordion-block__panel.active>.gutena-accordion-block__panel-title{padding-bottom:0}.gutena-accordion-block>.gutena-accordion-block__panel.active>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-plus-minus>.horizontal{opacity:0;transform:rotate(90deg)}.gutena-accordion-block>.gutena-accordion-block__panel.active>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-plus-minus>.vertical{transform:rotate(90deg)}.gutena-accordion-block>.gutena-accordion-block__panel.active>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-up-down>.horizontal{transform:rotate(-45deg)}.gutena-accordion-block>.gutena-accordion-block__panel.active>.gutena-accordion-block__panel-title>.gutena-accordion-block__panel-title-inner>.trigger-up-down>.vertical{transform:rotate(45deg)}
+
+</style>
+<link rel='preload' id='ilb-icon-list-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/icon-list-block/build/view.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ilb-icon-list-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/icon-list-block/build/view.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><link rel='preload' id='superblockslider-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/super-block-slider/build/style-index.css?ver=1740479961' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='superblockslider-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/super-block-slider/build/style-index.css?ver=1740479961' type='text/css' media='all' />
+</noscript><style id='tsb-team-style-inline-css' type='text/css'>
+.dashicons{font-family:dashicons!important}.columns-1{grid-template-columns:repeat(1,1fr)}.columns-2{grid-template-columns:repeat(2,1fr)}.columns-3{grid-template-columns:repeat(3,1fr)}.columns-4{grid-template-columns:repeat(4,1fr)}.columns-5{grid-template-columns:repeat(5,1fr)}.columns-6{grid-template-columns:repeat(6,1fr)}.columns-7{grid-template-columns:repeat(7,1fr)}.columns-8{grid-template-columns:repeat(8,1fr)}.columns-9{grid-template-columns:repeat(9,1fr)}.columns-10{grid-template-columns:repeat(10,1fr)}.columns-11{grid-template-columns:repeat(11,1fr)}.columns-12{grid-template-columns:repeat(12,1fr)}@media(max-width:768px){.columns-tablet-1{grid-template-columns:repeat(1,1fr)}.columns-tablet-2{grid-template-columns:repeat(2,1fr)}.columns-tablet-3{grid-template-columns:repeat(3,1fr)}.columns-tablet-4{grid-template-columns:repeat(4,1fr)}.columns-tablet-5{grid-template-columns:repeat(5,1fr)}.columns-tablet-6{grid-template-columns:repeat(6,1fr)}.columns-tablet-7{grid-template-columns:repeat(7,1fr)}.columns-tablet-8{grid-template-columns:repeat(8,1fr)}.columns-tablet-9{grid-template-columns:repeat(9,1fr)}.columns-tablet-10{grid-template-columns:repeat(10,1fr)}.columns-tablet-11{grid-template-columns:repeat(11,1fr)}.columns-tablet-12{grid-template-columns:repeat(12,1fr)}}@media(max-width:576px){.columns-mobile-1{grid-template-columns:repeat(1,1fr)}.columns-mobile-2{grid-template-columns:repeat(2,1fr)}.columns-mobile-3{grid-template-columns:repeat(3,1fr)}.columns-mobile-4{grid-template-columns:repeat(4,1fr)}.columns-mobile-5{grid-template-columns:repeat(5,1fr)}.columns-mobile-6{grid-template-columns:repeat(6,1fr)}.columns-mobile-7{grid-template-columns:repeat(7,1fr)}.columns-mobile-8{grid-template-columns:repeat(8,1fr)}.columns-mobile-9{grid-template-columns:repeat(9,1fr)}.columns-mobile-10{grid-template-columns:repeat(10,1fr)}.columns-mobile-11{grid-template-columns:repeat(11,1fr)}.columns-mobile-12{grid-template-columns:repeat(12,1fr)}}.wp-block-tsb-team .tsbTeamMembers{display:grid}.wp-block-tsb-team .tsbTeamMembers *{box-sizing:border-box}.wp-block-tsb-team .tsbTeamMembers.horizontal .tsbMember{align-items:center;display:flex}.wp-block-tsb-team .tsbTeamMembers.horizontal .tsbMember .memberPhoto{max-width:38%;width:calc(38% - 20px)}.wp-block-tsb-team .tsbTeamMembers.horizontal .tsbMember .memberDetails{padding:0 20px 0 0;width:62%}.wp-block-tsb-team .tsbTeamMembers.vertical .tsbMember .memberDetails{padding:0 20px}.wp-block-tsb-team .tsbTeamMembers .tsbMember{position:relative}.wp-block-tsb-team .tsbTeamMembers .tsbMember .memberPhoto{display:inline-block;height:auto;max-width:100%}.wp-block-tsb-team .tsbTeamMembers .tsbMember .memberName{font-weight:600;margin:0}.wp-block-tsb-team .tsbTeamMembers .tsbMember .memberTitle{margin:0}.wp-block-tsb-team .tsbTeamMembers .tsbMember .memberSeparator{display:inline-block}.wp-block-tsb-team .tsbTeamMembers .tsbMember .memberBio{display:block}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial{align-items:center;display:flex;line-height:1;list-style-type:none;margin:0;padding:5px}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial li{display:inline-block}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial li:first-child{margin-left:0!important}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial li:last-child{margin-right:0!important}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial li a{align-items:center;border-radius:50%;color:#4e4e4e;display:flex;justify-content:center;padding:8px;text-decoration:none}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial li a:focus{box-shadow:none}.wp-block-tsb-team .tsbTeamMembers .tsbMember ul.memberSocial li a i{align-items:center;display:flex;font-style:inherit;justify-content:center}
+
+</style>
+<link rel='preload' id='ib-block-countdown-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/wp-countdown-block/style.css?ver=1719926928' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ib-block-countdown-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/wp-countdown-block/style.css?ver=1719926928' type='text/css' media='all' />
+</noscript><link rel='preload' id='fontAwesome-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/icon-list-block/assets/css/font-awesome.min.css?ver=6.4.2' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='fontAwesome-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/icon-list-block/assets/css/font-awesome.min.css?ver=6.4.2' type='text/css' media='all' />
+</noscript><style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='preload' id='ed-add-product-to-basket-from-gravity-form-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-add-product-to-basket-from-gravity-form/public/css/ed-add-product-to-basket-from-gravity-form-public.css?ver=1.4.1' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-add-product-to-basket-from-gravity-form-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-add-product-to-basket-from-gravity-form/public/css/ed-add-product-to-basket-from-gravity-form-public.css?ver=1.4.1' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-events-cpt-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-cpt/public/css/ed-events-cpt-public.css?ver=1.0.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-events-cpt-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-cpt/public/css/ed-events-cpt-public.css?ver=1.0.0' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-custom-woo-emails-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-custom-woo-emails/public/css/ed-custom-woo-emails-public.css?ver=1.0.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-custom-woo-emails-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-custom-woo-emails/public/css/ed-custom-woo-emails-public.css?ver=1.0.0' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-direct-debit-for-woocommerce-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-direct-debit-for-woocommerce/public/css/ed-direct-debit-for-woocommerce-public.css?ver=1.0.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-direct-debit-for-woocommerce-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-direct-debit-for-woocommerce/public/css/ed-direct-debit-for-woocommerce-public.css?ver=1.0.0' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-donorflex-csv-export-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-donorflex-admin/public/css/ed-donorflex-csv-export-public.css?ver=1.5.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-donorflex-csv-export-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-donorflex-admin/public/css/ed-donorflex-csv-export-public.css?ver=1.5.3' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-events-module-css-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/styles/ed-events-module.min.css?ver=1.0.24' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-events-module-css-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/styles/ed-events-module.min.css?ver=1.0.24' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-featured-events-module-css-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/styles/ed-featured-events-module.min.css?ver=1.0.24' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-featured-events-module-css-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/styles/ed-featured-events-module.min.css?ver=1.0.24' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-navigation-block-module-css-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/styles/ed-navigation-block-module.min.css?ver=1.0.24' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-navigation-block-module-css-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/styles/ed-navigation-block-module.min.css?ver=1.0.24' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-gnaas-staff-portal-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-gnaas-staff-portal/public/css/ed-gnaas-staff-portal-public.css?ver=1.0.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-gnaas-staff-portal-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-gnaas-staff-portal/public/css/ed-gnaas-staff-portal-public.css?ver=1.0.0' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-lottery-system-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-lottery-system/public/css/ed-lottery-system-public.css?ver=1.3.5' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-lottery-system-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-lottery-system/public/css/ed-lottery-system-public.css?ver=1.3.5' type='text/css' media='all' />
+</noscript><link rel='preload' id='ed-woocommerce-overrides-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-woocommerce-overrides/public/css/ed-woocommerce-overrides-public.css?ver=1.3.5' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='ed-woocommerce-overrides-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/ed-woocommerce-overrides/public/css/ed-woocommerce-overrides-public.css?ver=1.3.5' type='text/css' media='all' />
+</noscript><link rel='preload' id='df-api-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/gnaas-workflow-steps/include/css/dfapi.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='df-api-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/gnaas-workflow-steps/include/css/dfapi.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><link rel='preload' id='google-language-translator-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/google-language-translator/css/style.css?ver=6.0.20' type='text/css' media='' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='google-language-translator-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/google-language-translator/css/style.css?ver=6.0.20' type='text/css' media='' />
+</noscript><link rel='preload' id='glt-toolbar-styles-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/google-language-translator/css/toolbar.css?ver=6.0.20' type='text/css' media='' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='glt-toolbar-styles-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/google-language-translator/css/toolbar.css?ver=6.0.20' type='text/css' media='' />
+</noscript><link rel='preload' id='woocommerce-layout-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.7.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='woocommerce-layout-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.7.0' type='text/css' media='all' />
+</noscript><link rel='preload' id='woocommerce-smallscreen-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.7.0' type='text/css' media='only screen and (max-width: 768px)' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.7.0' type='text/css' media='only screen and (max-width: 768px)' />
+</noscript><link rel='preload' id='woocommerce-general-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/css/woocommerce.css?ver=8.7.0' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='woocommerce-general-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/css/woocommerce.css?ver=8.7.0' type='text/css' media='all' />
+</noscript><style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='preload' id='wc-pb-checkout-blocks-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-product-bundles/assets/css/frontend/checkout-blocks.css?ver=8.1.2' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='wc-pb-checkout-blocks-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-product-bundles/assets/css/frontend/checkout-blocks.css?ver=8.1.2' type='text/css' media='all' />
+</noscript><link rel='preload' id='wc-sagepaydirect-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/gnaas-custom-woocommerce-gateway-sagepay-form/assets/css/checkout.css?ver=5.11.0' type='text/css' media='' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='wc-sagepaydirect-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/gnaas-custom-woocommerce-gateway-sagepay-form/assets/css/checkout.css?ver=5.11.0' type='text/css' media='' />
+</noscript><link rel='preload' id='wc-bundle-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-product-bundles/assets/css/frontend/woocommerce.css?ver=8.1.2' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='wc-bundle-style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-product-bundles/assets/css/frontend/woocommerce.css?ver=8.1.2' type='text/css' media='all' />
+</noscript><link rel='preload' id='sage/main.css-css' href='https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/styles/main.css' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='sage/main.css-css' href='https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/styles/main.css' type='text/css' media='all' />
+</noscript><link rel='preload' id='load-fa-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.3' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='load-fa-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.3' type='text/css' media='all' />
+</noscript><script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/w.js?ver=202531" id="woo-tracks-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/gutena-accordion/build/view.js?ver=5ee49e43fe188c4120bb" id="gutena-accordion-script-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-add-product-to-basket-from-gravity-form/public/js/ed-add-product-to-basket-from-gravity-form-public.js?ver=1.4.1" id="ed-add-product-to-basket-from-gravity-form-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-cpt/public/js/ed-events-cpt-public.js?ver=1.0.0" id="ed-events-cpt-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-custom-woo-emails/public/js/ed-custom-woo-emails-public.js?ver=1.0.0" id="ed-custom-woo-emails-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-direct-debit-for-woocommerce/public/js/ed-direct-debit-for-woocommerce-public.js?ver=1.0.0" id="ed-direct-debit-for-woocommerce-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-gnaas-staff-portal/public/js/ed-gnaas-staff-portal-public.js?ver=1.0.0" id="ed-gnaas-staff-portal-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-lottery-system/public/js/ed-lottery-system-public.js?ver=1.3.5" id="ed-lottery-system-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-raffle-system/dist/main.js?ver=1.1.4" id="ed-raffle-system-scripts-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-woocommerce-overrides/public/js/ed-woocommerce-overrides-public.js?ver=1.3.5" id="ed-woocommerce-overrides-js"></script>
+<script type="text/javascript" id="dfapi_js-js-extra">
+/* <![CDATA[ */
+var my_ajax_object = {"ajax_url":"https:\/\/www.greatnorthairambulance.co.uk\/wp\/wp-admin\/admin-ajax.php"};
+var myScript = {"pluginsUrl":"https:\/\/www.greatnorthairambulance.co.uk\/app\/plugins"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/gnaas-workflow-steps/include/js/dfapi.js?ver=6.4.3" id="dfapi_js-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.7.0" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.greatnorthairambulance.co.uk\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.7.0" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.7.0" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.7.0" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="WCPAY_ASSETS-js-extra">
+/* <![CDATA[ */
+var wcpayAssets = {"url":"https:\/\/www.greatnorthairambulance.co.uk\/app\/plugins\/woocommerce-payments\/dist\/"};
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.greatnorthairambulance.co.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.greatnorthairambulance.co.uk/wp/xmlrpc.php?rsd" />
+<style>p.hello{font-size:12px;color:darkgray;}#google_language_translator,#flags{text-align:left;}#google_language_translator{clear:both;}#flags{width:165px;}#flags a{display:inline-block;margin-right:2px;}#google_language_translator{width:auto!important;}div.skiptranslate.goog-te-gadget{display:inline!important;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator select.goog-te-combo{color:#32373c;}#google_language_translator{color:transparent;}body{top:0px!important;}#goog-gt-{display:none!important;}font font{background-color:transparent!important;box-shadow:none!important;position:initial!important;}#glt-translate-trigger{left:20px;right:auto;}#glt-translate-trigger > span{color:#ffffff;}#glt-translate-trigger{background:#f89406;}.goog-te-gadget .goog-te-combo{width:100%;}</style><style></style><style>
+                .lmp_load_more_button.br_lmp_button_settings .lmp_button:hover {
+                    background-color: #9999ff!important;
+                    color: #111111!important;
+                }
+                .lmp_load_more_button.br_lmp_prev_settings .lmp_button:hover {
+                    background-color: #9999ff!important;
+                    color: #111111!important;
+                }li.product.lazy, .berocket_lgv_additional_data.lazy{opacity:0;}</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"404-error"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5N3GTDN');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+		
+    <script>(function(n,t,i,r){var u,f;n[i]=n[i]||{},n[i].initial={accountCode:"GREAT11172",host:"GREAT11172.pcapredict.com"},n[i].on=n[i].on||function(){(n[i].onq=n[i].onq||[]).push(arguments)},u=t.createElement("script"),u.async=!0,u.src=r,f=t.getElementsByTagName("script")[0],f.parentNode.insertBefore(u,f)})(window,document,"pca","//GREAT11172.pcapredict.com/js/sensor.js")</script>
+
+    
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/favicons/favicon-128.png" sizes="128x128" />
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+
+    
+    <!-- Google Tag Manager -->
+    <script>
+        var banner = jQuery('#cookie-banner');
+        var prefUpdate = jQuery('#cookie-pref-update');
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}        
+        var savedConsent = localStorage.getItem('consentMode');
+        var defaultConsent = {
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied',
+            'functionality_storage': 'denied',
+        }
+        
+        var consentMode = null;
+        if(savedConsent) {
+            try {
+                var parsedConsent = JSON.parse(savedConsent);
+
+                if(parsedConsent) {
+                    prefUpdate.show();
+                    consentMode = parsedConsent;
+                } else {
+                    banner.show();
+                    consentMode = defaultConsent;
+                }
+            } catch (e) {
+                banner.show();
+                consentMode = defaultConsent;
+            }
+        } else {
+            banner.show();
+            consentMode = defaultConsent;
+        }
+
+        // send consent data from local storage to GTM on page load
+        gtag('consent', 'default', consentMode);
+        
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5N3GTDN');        
+    </script>
+    <!-- End Google Tag Manager -->
+    	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+  <body class="error404 theme-gnaas/resources woocommerce-no-js app-data index-data 404-data">
+        <header class="banner">
+    <div class="mobile-donate-button donate-button">
+                <a href=/support-us/donations/donate-online-2/ >Make a Donation</a>
+            </div>
+    <div class="container">
+        <div class="header-section">
+            <div class="icon-holder nav-holder">
+                <nav class="nav-top-menu dt-only">
+                                            <div class="menu-main-nav-container"><ul id="menu-main-nav" class="nav"><li id="menu-item-209" class="support-us-nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://www.greatnorthairambulance.co.uk/support-us/">Support Us</a></li>
+<li id="menu-item-210" class="our-work-nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://www.greatnorthairambulance.co.uk/our-work/">Our Work</a></li>
+</ul></div>
+                                        <div class="hide-staff-portal-menu" style="display: none;">
+                                            </div>
+                </nav>
+                <div class="mb-only icon-wrapper">
+                    <a href="/our-work/contact/">
+                        <div class="icon">
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg class="icon" width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-home" transform="translate(-1330.000000, -22.000000)" fill="#25C24D" fill-rule="nonzero">
+            <g id="menu-links" transform="translate(50.000000, 19.000000)">
+                <g id="phone-icon" transform="translate(1280.000000, 3.000000)">
+                    <path d="M12.0142076,16.9997438 C11.5524527,16.9997438 11.056052,16.9288439 10.4875198,16.7509002 C8.78334329,16.2170691 6.79646257,14.8296776 4.48910806,12.5165519 C0.051887853,7.99571431 -1.11989326,4.61478404 1.08075498,2.40863806 C2.74886579,0.736252002 3.99128745,0.0953699772 4.06199899,0.0953699772 C4.41697661,-0.0825737215 4.84266577,-0.0116738342 5.12693184,0.3094576 L8.07353005,3.61949511 C8.32173749,3.90448262 8.35778902,4.3312699 8.18030021,4.65099914 L6.97394428,6.67927259 C7.18748462,7.03515999 7.61318797,7.71077663 8.46456629,8.56576051 C9.3159446,9.41932084 9.99125402,9.84752456 10.3462316,10.0602029 L12.3693201,8.81459698 C12.6882462,8.60050936 13.115341,8.6727972 13.3981872,8.92164079 L16.699763,11.8757909 C16.984022,12.1607784 17.0908064,12.5875657 16.9133034,12.9434531 C16.8772518,12.979597 16.2394138,14.2599518 14.6059488,15.9323378 C14.0734824,16.4661689 13.2207197,17 12.0143283,17 L12.0142076,16.9997438 Z M4.27534054,2.01617256 C3.81358566,2.33591603 3.13969615,2.83499828 2.32296365,3.653824 C0.51200984,5.46941915 3.70680839,9.17007866 5.76596255,11.2345815 C7.85976252,13.3337477 9.63450862,14.6155117 11.0544191,15.0422207 C12.3675523,15.4690009 13.006796,15.0422207 13.3617736,14.6501752 C14.1785061,13.8313494 14.6749068,13.1557328 14.9952386,12.6927945 L12.7239498,10.7006436 L10.8783502,11.8044639 C10.6648099,11.9462637 10.4165953,11.9462637 10.168395,11.8753638 C10.0269577,11.8392199 8.85526175,11.4485837 7.22179675,9.81093222 C5.58833175,8.17328077 5.19870832,6.9999912 5.16264259,6.85678211 C5.09192395,6.60793852 5.12659107,6.35910917 5.23336123,6.14500731 L6.33435981,4.29467756 L4.27534054,2.01617256 Z" id="Shape"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>                        </div>
+                    </a>
+                </div>
+                <div class="icon-wrapper mb-only">
+                    <a href="#" class="search-toggle">
+                        <div class="icon">
+                        <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg class="icon" height="16px" id="Layer_1" style="enable-background:new 0 0 16 16;" version="1.1" viewBox="0 0 16 16" width="16px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.7,14.3l-3.105-3.105C13.473,10.024,14,8.576,14,7c0-3.866-3.134-7-7-7S0,3.134,0,7s3.134,7,7,7  c1.576,0,3.024-0.527,4.194-1.405L14.3,15.7c0.184,0.184,0.38,0.3,0.7,0.3c0.553,0,1-0.447,1-1C16,14.781,15.946,14.546,15.7,14.3z   M2,7c0-2.762,2.238-5,5-5s5,2.238,5,5s-2.238,5-5,5S2,9.762,2,7z"/></svg>                        </div>
+                    </a>
+                </div>
+            </div>
+            <a class="brand" href="https://www.greatnorthairambulance.co.uk/">
+                <img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/great-north-logo.svg" class="site-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/great-north-logo.svg" class="site-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="site-logo" src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/great-north-logo.svg" /></noscript></noscript>
+                <img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/gnaas-logo.png" class="site-logo__android lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/gnaas-logo.png" class="site-logo__android lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="site-logo__android" src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/gnaas-logo.png" /></noscript></noscript>
+            </a>
+            <div class="icon-holder">
+                <div class="icon-wrapper dt-only">
+                    <a href="/our-work/contact/">
+                        <div class="icon">
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg class="icon" width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-home" transform="translate(-1330.000000, -22.000000)" fill="#25C24D" fill-rule="nonzero">
+            <g id="menu-links" transform="translate(50.000000, 19.000000)">
+                <g id="phone-icon" transform="translate(1280.000000, 3.000000)">
+                    <path d="M12.0142076,16.9997438 C11.5524527,16.9997438 11.056052,16.9288439 10.4875198,16.7509002 C8.78334329,16.2170691 6.79646257,14.8296776 4.48910806,12.5165519 C0.051887853,7.99571431 -1.11989326,4.61478404 1.08075498,2.40863806 C2.74886579,0.736252002 3.99128745,0.0953699772 4.06199899,0.0953699772 C4.41697661,-0.0825737215 4.84266577,-0.0116738342 5.12693184,0.3094576 L8.07353005,3.61949511 C8.32173749,3.90448262 8.35778902,4.3312699 8.18030021,4.65099914 L6.97394428,6.67927259 C7.18748462,7.03515999 7.61318797,7.71077663 8.46456629,8.56576051 C9.3159446,9.41932084 9.99125402,9.84752456 10.3462316,10.0602029 L12.3693201,8.81459698 C12.6882462,8.60050936 13.115341,8.6727972 13.3981872,8.92164079 L16.699763,11.8757909 C16.984022,12.1607784 17.0908064,12.5875657 16.9133034,12.9434531 C16.8772518,12.979597 16.2394138,14.2599518 14.6059488,15.9323378 C14.0734824,16.4661689 13.2207197,17 12.0143283,17 L12.0142076,16.9997438 Z M4.27534054,2.01617256 C3.81358566,2.33591603 3.13969615,2.83499828 2.32296365,3.653824 C0.51200984,5.46941915 3.70680839,9.17007866 5.76596255,11.2345815 C7.85976252,13.3337477 9.63450862,14.6155117 11.0544191,15.0422207 C12.3675523,15.4690009 13.006796,15.0422207 13.3617736,14.6501752 C14.1785061,13.8313494 14.6749068,13.1557328 14.9952386,12.6927945 L12.7239498,10.7006436 L10.8783502,11.8044639 C10.6648099,11.9462637 10.4165953,11.9462637 10.168395,11.8753638 C10.0269577,11.8392199 8.85526175,11.4485837 7.22179675,9.81093222 C5.58833175,8.17328077 5.19870832,6.9999912 5.16264259,6.85678211 C5.09192395,6.60793852 5.12659107,6.35910917 5.23336123,6.14500731 L6.33435981,4.29467756 L4.27534054,2.01617256 Z" id="Shape"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>                        </div>
+                    </a>
+                </div>
+                <div class="icon-wrapper dt-only">
+                    <a href="#" class="search-toggle">
+                        <div class="icon">
+                            <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg class="icon" height="16px" id="Layer_1" style="enable-background:new 0 0 16 16;" version="1.1" viewBox="0 0 16 16" width="16px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.7,14.3l-3.105-3.105C13.473,10.024,14,8.576,14,7c0-3.866-3.134-7-7-7S0,3.134,0,7s3.134,7,7,7  c1.576,0,3.024-0.527,4.194-1.405L14.3,15.7c0.184,0.184,0.38,0.3,0.7,0.3c0.553,0,1-0.447,1-1C16,14.781,15.946,14.546,15.7,14.3z   M2,7c0-2.762,2.238-5,5-5s5,2.238,5,5s-2.238,5-5,5S2,9.762,2,7z"/></svg>                        </div>
+                    </a>
+                </div>
+                <div class="icon-wrapper">
+                    <a href="/cart/">
+                        <div class="icon">
+                            <?xml version="1.0" encoding="UTF-8"?>
+<svg class="icon" width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-home" transform="translate(-1427.000000, -21.000000)" fill="#25C24D" fill-rule="nonzero">
+            <g id="menu-links" transform="translate(50.000000, 19.000000)">
+                <g id="basket-icon" transform="translate(1377.000000, 2.000000)">
+                    <path d="M13.9007711,5.87268285 L15.8893331,5.87268285 L16.1729312,5.87268285 L15.3436844,5.05361273 L15.3436844,5.92594274 L15.3436844,8.0023029 L15.3436844,10.4635811 L15.3436844,12.5211116 C15.3436844,12.8282577 15.3503184,13.1354247 15.3436844,13.4401174 C15.3395381,13.5810003 15.3287576,13.7251627 15.3105141,13.8660289 C15.3204652,13.7939498 15.3312455,13.720233 15.3395384,13.6489633 C15.2922699,13.9864298 15.2027111,14.3165153 15.0675525,14.63186 C15.0940888,14.5663336 15.123941,14.5008071 15.1504772,14.4352807 C15.017796,14.7424268 14.8477943,15.0291076 14.6404932,15.2936877 C14.6836135,15.2379912 14.727566,15.1831126 14.7715164,15.1282339 C14.5708366,15.382141 14.3403131,15.6098585 14.08323,15.8064379 C14.1396185,15.7638467 14.195179,15.7204336 14.2507395,15.6770226 C13.9920005,15.873602 13.7075745,16.0374286 13.4065474,16.166825 C13.472888,16.1406144 13.5392286,16.1111285 13.6055692,16.0849179 C13.2887902,16.2176085 12.9546034,16.3077079 12.6121161,16.3535659 C12.6850908,16.3437369 12.7597234,16.3330889 12.8318786,16.3248978 C12.4562316,16.3740437 12.073112,16.3592987 11.6957879,16.3592987 L9.82167135,16.3592987 L7.48733147,16.3592987 L5.50955373,16.3592987 C5.20438698,16.3592987 4.89756437,16.3674894 4.59074176,16.3576604 C4.45640258,16.3535651 4.32372351,16.3429171 4.18855852,16.3248972 C4.26153318,16.3347262 4.33616582,16.3453744 4.40832104,16.3535653 C4.06666165,16.3068769 3.73247487,16.2159597 3.41321208,16.0849173 C3.47955267,16.1111279 3.54589327,16.1406137 3.61223387,16.1668243 C3.30955091,16.0374091 3.02512489,15.8736013 2.76473008,15.677022 C2.82111853,15.7196131 2.87667904,15.7630262 2.93223956,15.8064372 C2.66687717,15.6033053 2.42805102,15.3682383 2.22155662,15.1061325 C2.26467694,15.1618289 2.30862945,15.2167076 2.35257983,15.2715863 C2.14692398,15.0078449 1.97527697,14.7187108 1.84507956,14.4099082 C1.8716158,14.4754347 1.90146801,14.5409611 1.92800425,14.6064876 C1.79946908,14.2993415 1.71074675,13.9774337 1.66429772,13.6498014 C1.67424881,13.7218805 1.6850291,13.7955973 1.693322,13.866867 C1.64356549,13.4835425 1.65849371,13.0903838 1.65849371,12.7054028 L1.65849371,10.7543502 L1.65849371,8.30124965 L1.65849371,6.13227179 C1.65849371,5.77842897 1.66678639,5.42376838 1.65849371,5.06910779 L1.65849371,5.05436424 L0.829246857,5.87343435 L2.83604463,5.87343435 L3.12463154,5.87343435 C3.5575119,5.87343435 3.97461912,5.49665204 3.95387839,5.05436424 C3.93314701,4.61041993 3.58899449,4.23529412 3.12463154,4.23529412 L1.11783376,4.23529412 L0.829246857,4.23529412 C0.381442515,4.23529412 0,4.6104409 0,5.05436424 L0,5.75058013 L0,7.45590332 L0,9.62488118 L0,11.6873183 L0,13.0756612 C0,13.6178847 0.0348282831,14.1609469 0.194875771,14.6851585 C0.539018948,15.7991081 1.30608609,16.767264 2.3220207,17.3594763 C3.06834711,17.7935864 3.91999055,18 4.78500826,18 L5.9476352,18 L7.97517369,18 L10.1602738,18 L11.8270892,18 C12.2790332,18 12.7143974,17.9934474 13.1638576,17.9197306 C13.7153231,17.8296312 14.2626277,17.618309 14.7394521,17.3316281 C15.2701769,17.010559 15.705541,16.5985497 16.081188,16.1128362 C16.6882098,15.3265188 17,14.3288813 17,13.34437 L17,12.4802386 L17,10.6717087 L17,8.48469791 L17,6.49024058 L17,5.23049723 L17,5.05685319 C17,4.61454443 16.6201921,4.23778307 16.1707531,4.23778307 L14.1821911,4.23778307 L13.898593,4.23778307 C13.4657126,4.23778307 13.0486054,4.61456539 13.0693461,5.05685319 C13.0925664,5.49834419 13.4367138,5.87265223 13.901098,5.87265223 L13.9007711,5.87268285 Z" id="Shape"/>
+                    <path d="M6.91276773,6.59146542 L6.91276773,4.00292303 C6.91276773,3.80008792 6.91276773,3.60051911 6.93838372,3.39932762 C6.92877752,3.47130137 6.91837108,3.54491036 6.91036598,3.61607591 C6.94638821,3.35027032 7.01443042,3.09263047 7.11689233,2.84726019 C7.09127634,2.91269087 7.06245938,2.97812155 7.03684339,3.04355223 C7.1353051,2.81290123 7.25937461,2.59372415 7.40907445,2.3933283 C7.36744949,2.44894333 7.32502122,2.50374179 7.28259499,2.55854024 C7.43869268,2.35406989 7.61879973,2.17003904 7.81893233,2.01055568 C7.76449937,2.05308458 7.71086564,2.09643423 7.65723191,2.1397818 C7.85335407,1.98601865 8.06708773,1.86007349 8.29363554,1.75946728 C8.22959557,1.78563955 8.1655556,1.81508231 8.10151562,1.84125458 C8.34326908,1.73738416 8.5962321,1.66786433 8.85399043,1.63024326 C8.78354646,1.64005765 8.711502,1.65069029 8.64184905,1.65886944 C8.89960738,1.62451886 9.16218152,1.62451886 9.41993985,1.65886944 C9.34949588,1.64905484 9.27745142,1.63842241 9.20779847,1.63024326 C9.46795446,1.66704775 9.72011826,1.73656759 9.96027328,1.84125458 C9.8962333,1.81508231 9.83219333,1.78563955 9.76815336,1.75946728 C9.99390195,1.86006721 10.2084205,1.98683104 10.404557,2.1397818 C10.350124,2.0972529 10.2964903,2.05390325 10.2428566,2.01055568 C10.442981,2.17004323 10.6231003,2.35406152 10.7791939,2.55854024 C10.737569,2.50292521 10.6951407,2.44812676 10.6527145,2.3933283 C10.8032074,2.5937095 10.9264777,2.81208465 11.0249455,3.04355223 C10.9993295,2.97812155 10.9705126,2.91269087 10.9448966,2.84726019 C11.0465593,3.09426362 11.1146015,3.35272004 11.1514229,3.61607591 C11.1418169,3.54410216 11.1314105,3.47049317 11.1234052,3.39932762 C11.1714362,3.78782883 11.1490212,4.18857866 11.1490212,4.57871301 L11.1490212,6.20221045 L11.1490212,6.59071166 C11.1490212,7.0176547 11.5172561,7.42904094 11.9495106,7.40858469 C12.383384,7.38813766 12.75,7.04870548 12.75,6.59071166 L12.75,4.3089083 C12.75,3.89015194 12.75,3.48938118 12.679556,3.07227891 C12.5498756,2.29938031 12.1312099,1.54691702 11.5668589,1.01938871 C11.2802877,0.751133389 10.9568705,0.51884924 10.6022632,0.359365884 C10.1715867,0.164709087 9.75373873,0.0526687311 9.2830398,0.0117562355 C8.5001537,-0.0553096881 7.66201902,0.167154624 7.00956953,0.612901917 C6.30353139,1.09382265 5.7863958,1.77593487 5.50461992,2.5938079 C5.34451999,3.0616425 5.3125,3.55481186 5.3125,4.04718558 L5.3125,6.52936385 L5.3125,6.59315929 C5.3125,7.02010233 5.68073497,7.43148857 6.11298942,7.41103232 C6.54606358,7.38813263 6.91267961,7.04951996 6.91267961,6.5915052 L6.91276773,6.59146542 Z" id="Shape"/>
+                    <path d="M4.89354419,7.41176638 C4.89354419,7.42799919 4.89206324,7.44496943 4.88984164,7.46193929 C4.89872788,7.39700842 4.9083546,7.33060231 4.91576009,7.26640055 C4.90983592,7.29001178 4.90465223,7.31214778 4.89724712,7.33649568 C4.92094378,7.27746761 4.94760156,7.21843954 4.97129821,7.15941147 C4.95796894,7.18892551 4.94315797,7.21475052 4.92316368,7.24057554 C4.96166979,7.19040263 5.00091903,7.14096638 5.04016637,7.09153014 C5.02387483,7.10997637 5.00906499,7.12473319 4.98981193,7.14170305 C5.04016637,7.10333576 5.08978147,7.06422801 5.13939657,7.02512215 C5.11347812,7.04356837 5.08755967,7.06053899 5.05793886,7.07308316 C5.11718049,7.04947194 5.17642212,7.02291025 5.23566375,6.99929902 C5.2119671,7.00815323 5.18975101,7.01405604 5.16531502,7.01774525 C5.23048082,7.00889123 5.29712717,6.99929902 5.36156121,6.99192023 C5.32823804,6.99560944 5.29639542,6.99560944 5.26159168,6.99192023 C5.32675747,7.00077444 5.39340383,7.01036646 5.45783787,7.01774525 C5.43414122,7.01184244 5.41192513,7.00667763 5.38748914,6.99929902 C5.44673077,7.02291025 5.5059724,7.04947194 5.56521403,7.07308316 C5.53559322,7.05980194 5.50967477,7.04504436 5.48375632,7.02512215 C5.53411075,7.06348945 5.58372586,7.1025972 5.63334096,7.14170305 C5.614828,7.12547043 5.60001778,7.11071379 5.58298652,7.09153014 C5.62149263,7.14170305 5.66074187,7.1911393 5.69998921,7.24057554 C5.68147625,7.21475052 5.66444423,7.18892551 5.65185468,7.15941147 C5.67555133,7.21843954 5.70220911,7.27746761 5.72590577,7.33649568 C5.71701952,7.31288445 5.71109536,7.29074845 5.7073928,7.26640055 C5.71627905,7.33133143 5.72590577,7.39773753 5.73331125,7.46193929 C5.72960851,7.42873624 5.72960851,7.39700842 5.73331125,7.36233014 C5.72442501,7.42726101 5.71479829,7.49366711 5.7073928,7.55786887 C5.71331697,7.53425765 5.71850066,7.51212165 5.72590577,7.48777375 C5.70220911,7.54680182 5.67555133,7.60582989 5.65185468,7.66485795 C5.66518414,7.63534392 5.67999493,7.6095189 5.69998921,7.58369389 C5.6614831,7.6338668 5.62223386,7.68330304 5.58298652,7.73273928 C5.59927787,7.71429287 5.6140879,7.69953623 5.63334096,7.68256637 C5.58298652,7.72093367 5.53337142,7.76004142 5.48375632,7.79914728 C5.50967477,7.78070105 5.53559322,7.76373044 5.56521403,7.75118626 C5.5059724,7.77479749 5.44673077,7.80135918 5.38748914,7.8249704 C5.4111858,7.81611619 5.43340188,7.81021339 5.45783787,7.80652418 C5.39267207,7.81537839 5.32602572,7.8249704 5.26159168,7.8323492 C5.29491486,7.82865999 5.32675747,7.82865999 5.36156121,7.8323492 C5.29639542,7.82349517 5.22974906,7.81390297 5.16531502,7.80652418 C5.18901168,7.81242699 5.21122776,7.81759199 5.23566375,7.8249704 C5.17642212,7.80135918 5.11718049,7.77479749 5.05793886,7.75118626 C5.08755967,7.76446767 5.11347812,7.77922507 5.13939657,7.79914728 C5.08904214,7.76077998 5.03942703,7.72167223 4.98981193,7.68256637 C5.00832489,7.698799 5.02313511,7.71355564 5.04016637,7.73273928 C5.00166026,7.68256637 4.96241102,7.63313013 4.92316368,7.58369389 C4.94167664,7.6095189 4.95870866,7.63534392 4.97129821,7.66485795 C4.94760156,7.60582989 4.92094378,7.54680182 4.89724712,7.48777375 C4.90613318,7.51138498 4.91205734,7.53352098 4.91576009,7.55786887 C4.90687384,7.492938 4.89724712,7.4265319 4.88984164,7.36233014 C4.89354419,7.37782496 4.89354419,7.39479652 4.89354419,7.41176638 C4.90094949,7.60507621 4.97129954,7.79543937 5.1097714,7.93416005 C5.23714185,8.06107134 5.44893684,8.15920338 5.63405508,8.14960777 C5.82510697,8.14075356 6.02504983,8.07729886 6.15833876,7.93416005 C6.28792911,7.79249269 6.38197828,7.60949624 6.37456597,7.41176638 C6.36345812,7.12401163 6.26200687,6.85984923 6.05466117,6.65547045 C5.86213061,6.46363395 5.58220681,6.35441786 5.31265265,6.35294452 C4.73504203,6.35146891 4.25,6.83844801 4.25,7.41176638 C4.25,7.98729476 4.73504203,8.47058824 5.31265265,8.47058824 C5.58664282,8.47058824 5.85915431,8.35991014 6.05466117,8.16806231 C6.26201635,7.96515687 6.36419631,7.69731111 6.37456597,7.41176638 C6.38937638,7.02660116 6.02281287,6.65768046 5.63405508,6.67392498 C5.22158168,6.6916334 4.91056787,6.9985888 4.89354419,7.41176638 Z" id="Shape"/>
+                    <path d="M7.23683718,6.35294118 L8.70066282,6.35294118 C9.15015335,6.35294118 9.58326551,5.86586934 9.56172894,5.29411765 C9.54020207,4.72022456 9.18284397,4.23529412 8.70066282,4.23529412 L7.23683718,4.23529412 C6.78734665,4.23529412 6.35423449,4.72236595 6.37577106,5.29411765 C6.39729793,5.86906788 6.75465603,6.35294118 7.23683718,6.35294118 Z" id="Shape"/>
+                    <path d="M11.2685442,7.41176638 C11.2685442,7.42799919 11.2670632,7.44496943 11.2648416,7.46193929 C11.2737279,7.39700842 11.2833546,7.33060231 11.2907601,7.26640055 C11.2848359,7.29001178 11.2796522,7.31214778 11.2722469,7.33649568 C11.2959436,7.27746761 11.3226014,7.21843954 11.346298,7.15941147 C11.3329688,7.18892551 11.3181578,7.21475052 11.2981635,7.24057554 C11.3366696,7.19040263 11.3759188,7.14096638 11.4151662,7.09153014 C11.3988746,7.10997637 11.3840648,7.12473319 11.3648098,7.14170305 C11.4151662,7.10333576 11.4647794,7.06422801 11.5143945,7.02512215 C11.488476,7.04356837 11.4625576,7.06053899 11.4329368,7.07308316 C11.4921784,7.04947194 11.55142,7.02291025 11.6106617,6.99929902 C11.586965,7.00815323 11.5647489,7.01405604 11.5403129,7.01774525 C11.6054787,7.00889123 11.6721251,6.99929902 11.7365591,6.99192023 C11.7032359,6.99560944 11.6713933,6.99560944 11.6365896,6.99192023 C11.7017554,7.00077444 11.7684017,7.01036646 11.8328358,7.01774525 C11.8091391,7.01184244 11.786923,7.00667763 11.7624871,6.99929902 C11.8217287,7.02291025 11.8809703,7.04947194 11.9402119,7.07308316 C11.9105911,7.05980194 11.8846727,7.04504436 11.8587542,7.02512215 C11.9091087,7.06348945 11.9587238,7.1025972 12.0083389,7.14170305 C11.9898259,7.12547043 11.9750157,7.11071379 11.9579844,7.09153014 C11.9964905,7.14170305 12.0357398,7.1911393 12.0749871,7.24057554 C12.0564742,7.21475052 12.0394421,7.18892551 12.0268526,7.15941147 C12.0505492,7.21843954 12.077207,7.27746761 12.1009037,7.33649568 C12.0920174,7.31288445 12.0860933,7.29074845 12.0823907,7.26640055 C12.091277,7.33133143 12.1009037,7.39773753 12.1083092,7.46193929 C12.1046064,7.42873624 12.1046064,7.39700842 12.1083092,7.36233014 C12.0994227,7.42726101 12.089796,7.49366711 12.0823907,7.55786887 C12.0883149,7.53425765 12.0934984,7.51212165 12.1009037,7.48777375 C12.077207,7.54680182 12.0505492,7.60582989 12.0268526,7.66485795 C12.0401819,7.63534392 12.0549928,7.6095189 12.0749871,7.58369389 C12.036481,7.6338668 11.9972318,7.68330304 11.9579844,7.73273928 C11.9742758,7.71429287 11.9890858,7.69953623 12.0083389,7.68256637 C11.9579844,7.72093367 11.9083693,7.76004142 11.8587542,7.79914728 C11.8846727,7.78070105 11.9105911,7.76373044 11.9402119,7.75118626 C11.8809703,7.77479749 11.8217287,7.80135918 11.7624871,7.8249704 C11.7861837,7.81611619 11.8083998,7.81021339 11.8328358,7.80652418 C11.76767,7.81537839 11.7010236,7.8249704 11.6365896,7.8323492 C11.6699128,7.82865999 11.7017554,7.82865999 11.7365591,7.8323492 C11.6713933,7.82349517 11.604747,7.81390297 11.5403129,7.80652418 C11.5640096,7.81242699 11.5862257,7.81759199 11.6106617,7.8249704 C11.55142,7.80135918 11.4921784,7.77479749 11.4329368,7.75118626 C11.4625576,7.76446767 11.488476,7.77922507 11.5143945,7.79914728 C11.4640401,7.76077998 11.4144249,7.72167223 11.3648098,7.68256637 C11.383323,7.698799 11.398133,7.71355564 11.4151662,7.73273928 C11.3766582,7.68256637 11.3374108,7.63313013 11.2981635,7.58369389 C11.3166765,7.6095189 11.3337085,7.63534392 11.346298,7.66485795 C11.3226014,7.60582989 11.2959436,7.54680182 11.2722469,7.48777375 C11.2811332,7.51138498 11.2870573,7.53352098 11.2907601,7.55786887 C11.2818737,7.492938 11.2722469,7.4265319 11.2648416,7.36233014 C11.2685442,7.37782496 11.2685442,7.39479652 11.2685442,7.41176638 C11.2759493,7.60507621 11.3462995,7.79543937 11.4847714,7.93416005 C11.6121418,8.06107134 11.8239368,8.15920338 12.0090551,8.14960777 C12.200107,8.14075356 12.4000498,8.07729886 12.5333388,7.93416005 C12.6629291,7.79249269 12.7569783,7.60949624 12.749566,7.41176638 C12.7384581,7.12401163 12.6370069,6.85984923 12.4296612,6.65547045 C12.2371306,6.46363395 11.9572068,6.35441786 11.6876527,6.35294452 C11.110042,6.35146891 10.625,6.83844801 10.625,7.41176638 C10.625,7.98729476 11.110042,8.47058824 11.6876527,8.47058824 C11.9616428,8.47058824 12.2341543,8.35991014 12.4296612,8.16806231 C12.6370164,7.96515687 12.7391963,7.69731111 12.749566,7.41176638 C12.7643764,7.02660116 12.3978129,6.65768046 12.0090551,6.67392498 C11.5958423,6.6916334 11.2855679,6.9985888 11.2685442,7.41176638 Z" id="Shape"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>                        </div>
+                    </a>
+                </div>
+                <div class="icon-wrapper lg-down">
+                    <div class="icon ed-menu-icon">
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg class="icon" width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-home" transform="translate(-1477.000000, -25.000000)" fill="#25C24D" fill-rule="nonzero">
+            <g id="menu-links" transform="translate(50.000000, 19.000000)">
+                <g id="menu-icon" transform="translate(1427.000000, 6.000000)">
+                    <path d="M1.51980144e-15,0.792365431 C1.51980144e-15,0.354702386 0.37432858,0 0.843097122,0 L12.6319139,0 C13.0972156,0 13.4750111,0.351441485 13.4750111,0.792365431 C13.4750111,1.23002848 13.1006825,1.58473086 12.6319139,1.58473086 L0.843097122,1.58407768 C0.377102043,1.58407768 8.8817842e-16,1.23263619 8.8817842e-16,0.792364428 L1.51980144e-15,0.792365431 Z M7.89528773e-16,5.53202372 C7.89528773e-16,5.09436067 0.379875505,4.73965829 0.837532418,4.73965829 L15.1624676,4.73965829 C15.6249958,4.73965829 16,5.09109977 16,5.53202372 C16,5.96968676 15.6201245,6.32438915 15.1624676,6.32438915 L0.837532418,6.32373596 C0.375004167,6.32373596 0,5.97229448 0,5.53202271 L7.89528773e-16,5.53202372 Z M4.4408921e-15,10.2076346 C4.4408921e-15,9.76997152 0.37918214,9.41526914 0.847950682,9.41526914 L10.9421106,9.41526914 C11.4101858,9.41526914 11.7900613,9.76671062 11.7900613,10.2076346 C11.7900613,10.6452976 11.4108792,11 10.9421106,11 L0.847950682,11 C0.379875505,11 5.86204389e-15,10.6485585 4.4408921e-15,10.2076346 Z" id="Shape"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>                    </div>
+                </div>
+                <div class="icon-wrapper" style="display: none;">
+                    <div class="icon ed-menu-close-icon">
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M310.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L160 210.7 54.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L114.7 256 9.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 301.3 265.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L205.3 256 310.6 150.6z"/></svg>                    </div>
+                </div>
+
+                                <div class="donate-button">
+                    <a href=/support-us/donations/donate-online-2/ >Make a Donation</a>
+                </div>
+                            </div>
+        </div>
+        <!-- <div class="left-hand-title">
+        <p>Great North Air Ambulance Service</p>
+        </div> -->
+        <nav class="ed-nav">
+    <nav class="nav-top-menu mb-only mobile-nav-select">
+                    <div class="menu-main-nav-container"><ul id="menu-main-nav-1" class="nav"><li class="support-us-nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://www.greatnorthairambulance.co.uk/support-us/">Support Us</a></li>
+<li class="our-work-nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://www.greatnorthairambulance.co.uk/our-work/">Our Work</a></li>
+</ul></div>
+            </nav>
+    <div class="ed-inner-nav ed-our-work-nav animated">
+        <!-- <p class="ed-nav-intro dt-only">""</p> -->
+        <div class="menu-our-work-container"><ul id="menu-our-work" class="nav"><li id="menu-item-4957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4957"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/">Who we are</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/our-team/">The critical care team</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/airbase/">Our bases</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/history/">Our history</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-283640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283640"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/our-values/">Our Values</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/the-helicopters/">The helicopters</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/rapid-response-cars/">The rapid response cars</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-250235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250235"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/our-ambassadors/">Our Ambassadors</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-4958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4958"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/">What We Do</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-273608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273608"><a href="https://www.greatnorthairambulance.co.uk/isleofman/">Isle of Man</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-5574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5574"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/major-incident-response/">Major incident response</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-4956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4956"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/">How we do it</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/leading-innovation/">Leading innovation</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/how-we-are-called-out/">How we are called out</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-3974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3974"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/how-we-are-regulated/">How we are regulated</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-2343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2343"><a href="https://www.greatnorthairambulance.co.uk/support-us/make-a-difference/where-your-money-goes/">Where your donations go</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-24463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24463"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/">News</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-241016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241016"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/">Latest news</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://www.greatnorthairambulance.co.uk/our-work/our-impact/patient-stories/">Patient stories</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-214885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214885"><a href="https://www.greatnorthairambulance.co.uk/app/uploads/2022/10/GNAAS_Safeguarding_Policy.pdf">Safeguarding</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-4146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4146"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/newsletter/">Sign up for our newsletter</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-241026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-241026"><a href="https://www.greatnorthairambulance.co.uk/training/">Training</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-241034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241034"><a href="https://www.greatnorthairambulance.co.uk/training/phemcc/">PHEMCC</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Get in touch</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-241017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241017"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Contact us</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="https://www.greatnorthairambulance.co.uk/our-work/join-our-team/">Join our team</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-52130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52130"><a href="https://www.greatnorthairambulance.co.uk/support-us/room-hire/">Hire a room for your event</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/request-a-speaker/">Request a speaker</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-5634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5634"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/feedback/">Feedback</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+</ul></div>
+    </div>
+    <div class="ed-inner-nav ed-support-us-nav animated">
+        <!-- <p class="ed-nav-intro dt-only">""</p> -->
+        <div class="menu-support-us-container"><ul id="menu-support-us" class="nav"><li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-399"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/">Donate</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-3945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3945"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/donate-online-2/">Donate Online</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/regular-giving/">Regular Giving</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-63566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63566"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/gifts-in-wills/">Giving in your Will</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/in-memory/">Giving in memory</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-2512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2512"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/in-celebration/">Giving in celebration</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-267373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267373"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/bitcoin/">Donate Bitcoin</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/more-ways-to-donate/">More Ways to Donate</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-94982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94982"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/gift-aid/">Gift Aid your donation</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-400"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/">Fundraise</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-2924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/your-fundraising/">Your Fundraising</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-4123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4123"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/collection-boxes/">Collection boxes</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-104246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104246"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/corporate-giving/">Corporate giving</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-285412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285412"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/corporate-giving/corporate-partner-2/">Our Corporate Partners</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-2353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2353"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/fundraise-in-school/">School fundraising</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-3441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3441"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/paying-in-your-fundraising/">Paying in your fundraising</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-5455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5455"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/talk/">Request a talk</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-34332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34332"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery-and-raffle/">Lottery and Raffle</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-298016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298016"><a href="https://www.greatnorthairambulance.co.uk/support-us/take-flight-raffle/">Take Flight Raffle</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-34335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34335"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/">Play our lottery</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-4227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4227"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/winning-numbers/">Winning lottery numbers</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-34349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34349"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/raffle/previous-raffle-winners/">Previous raffle winners</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-212172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212172"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/24-7/">24/7 Lottery</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-6200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6200"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/responsible-gambling/">Responsible gambling</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://www.greatnorthairambulance.co.uk/support-us/volunteer/regular-opportunities/">Volunteer</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-290388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290388"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/">News</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-69932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-69932"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/">Events</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-240899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240899"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/get-active/">Get active</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-240898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240898"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/be-social/">Be social</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-283075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283075"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/gnaas-open-days/">Open Days</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-69940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69940"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/">All events</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-286352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286352"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/great-north-run/">Great North Run 2025</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-2352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2352"><a href="https://www.greatnorthairambulance.co.uk/?page_id=339">Recycle</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-20657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20657"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/recycle/clothing-collections/">Clothing Collections</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-5628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5628"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/recycle/info-for-buyers/">Info for buyers</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-588"><a href="https://www.greatnorthairambulance.co.uk/support-us/shop/">Shop</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-241144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241144"><a href="https://www.greatnorthairambulance.co.uk/shop/">All items</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-122408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122408"><a href="https://www.greatnorthairambulance.co.uk/product-category/new-arrivals/">New arrivals</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-4860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4860"><a href="https://www.greatnorthairambulance.co.uk/product-category/stationery/">Stationery</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-4360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4360"><a href="/product-category/clothing/">Clothing</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-142170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142170"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/">Event tickets</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-269766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269766"><a href="https://www.greatnorthairambulance.co.uk/support-us/shop/virtual-gifts/">Virtual Gifts</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-241987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-241987"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Get in touch</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li id="menu-item-241988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241988"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Contact us</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-241986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241986"><a href="https://www.greatnorthairambulance.co.uk/our-work/join-our-team/">Join our team</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-241990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241990"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/request-a-speaker/">Request a speaker</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-274291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274291"><a href="https://www.greatnorthairambulance.co.uk/support-us/room-hire/">Hire a Room</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li id="menu-item-241989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241989"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/feedback/">Feedback</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+</ul></div>
+    </div>
+    <span class="ed-inner-nav-divide"></span>
+</nav>        <div class="search-input-overflow">
+  <div class="search-input-wrapper">
+    <form method="get" action="https://www.greatnorthairambulance.co.uk">
+      <input name="s" type="text" placeholder="Search" />
+      <input type="submit" value="Search" />
+    </form>
+    <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M310.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L160 210.7 54.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L114.7 256 9.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 301.3 265.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L205.3 256 310.6 150.6z"/></svg>  </div>
+</div>
+    </div>
+    <div id="cookie-banner" style="display: none;">
+        <p>We use cookies to improve your experience. Full details can be viewed in our <a href="https://www.greatnorthairambulance.co.uk/privacy-policy-2/">Privacy Policy</a>.</p>
+        <form id="cookie-form">
+            <div class="form-options">
+                             
+                    <label class="cookie-checkbox-label"><input type="checkbox" name="analyticsConsent"> Analytics</label>
+                                             
+                    <label class="cookie-checkbox-label"><input type="checkbox" name="marketingConsent"> Marketing</label>
+                                        </div>
+            <div class="form-buttons">
+                <button type="submit" name="accept" value="accept">Save Preferences</button>
+                <button type="submit" name="acceptAll" value="acceptAll">Accept</button>
+            </div>
+        </form>
+    </div>
+    <div id="cookie-pref-update">
+        <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="22.78" viewBox="0 0 25 22.78">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_169" data-name="Rectangle 169" width="25" height="22.78" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-4 -16)">
+    <g id="Group_2-2" data-name="Group 2" transform="translate(4 16)" clip-path="url(#clip-path)">
+      <path id="Path_5" data-name="Path 5" d="M18.461,42.471c-.235,0-.47-.007-.705-.022a10.984,10.984,0,0,1-6.181-2.39,11.1,11.1,0,0,1,4.989-19.64.634.634,0,0,1,.5.124.643.643,0,0,1,.246.454A2.279,2.279,0,0,0,19.4,23.067h.024a.64.64,0,0,1,.606.845,2.232,2.232,0,0,0,.371,1.765,2.248,2.248,0,0,0,3.3.438.639.639,0,0,1,.988.207,2.28,2.28,0,0,0,1.891,1.271,2.231,2.231,0,0,0,1.379-.359.64.64,0,0,1,.949.317,11.119,11.119,0,0,1-10.448,14.92M16.168,21.807a9.819,9.819,0,0,0-3.8,17.251,9.714,9.714,0,0,0,5.463,2.114,9.841,9.841,0,0,0,10.092-12.5,3.546,3.546,0,0,1-4-1.168A3.56,3.56,0,0,1,18.7,24.244a3.584,3.584,0,0,1-2.535-2.437" transform="translate(-6.221 -19.691)"/>
+      <path id="Path_6" data-name="Path 6" d="M17.755,51.985a1.657,1.657,0,1,1,1.659-1.655,1.657,1.657,0,0,1-1.659,1.655m0-2.034a.377.377,0,1,0,.38.38.378.378,0,0,0-.38-.38" transform="translate(-11.23 -35.9)"/>
+      <path id="Path_7" data-name="Path 7" d="M21.289,33.864A1.657,1.657,0,1,1,22.948,32.2a1.661,1.661,0,0,1-1.659,1.659m0-2.034a.377.377,0,1,0,.38.375.378.378,0,0,0-.38-.375" transform="translate(-13.255 -25.507)"/>
+      <path id="Path_8" data-name="Path 8" d="M31.179,45.124a1.657,1.657,0,1,1,1.655-1.655,1.659,1.659,0,0,1-1.655,1.655m0-2.034a.377.377,0,1,0,0,.755.377.377,0,0,0,0-.755" transform="translate(-18.927 -31.965)"/>
+      <path id="Path_9" data-name="Path 9" d="M33.566,60.775a1.657,1.657,0,1,1,1.659-1.655,1.657,1.657,0,0,1-1.659,1.655m0-2.034a.378.378,0,0,0-.375.38.372.372,0,0,0,.375.375.377.377,0,1,0,0-.755" transform="translate(-20.298 -40.941)"/>
+      <path id="Path_10" data-name="Path 10" d="M45.955,46.538a1.659,1.659,0,1,1,1.659-1.659,1.659,1.659,0,0,1-1.659,1.659m0-2.039a.38.38,0,1,0,.38.38.378.378,0,0,0-.38-.38" transform="translate(-27.403 -32.773)"/>
+    </g>
+  </g>
+</svg>        <p>Cookie Preferences</p>
+    </div>
+</header>
+    <div class="wrap container" role="document">
+      <div class="content">
+        <main class="main">
+                <div class="ed-not-found">
+      <h1>We can't find what you're looking for</h1>
+      <p>The link you clicked may be broken or the page might have been removed.</p>
+
+      <a href="/" class="ed-cta-button-block">Go home</a>
+    </div>
+        </main>
+              </div>
+    </div>
+        <footer class="content-info">
+  <div class="footer-upper">
+    <div class="container">
+      <div class="footer-menus fadeInUp">
+        <div class="footer-menu">
+          <p><a href="#" class="footer-menu-expand">Our Work</a><span class="footer-menu-extend-img"></span></p>
+          <div class="menu-our-work-container"><ul id="menu-our-work-1" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4957"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/">Who we are</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/our-team/">The critical care team</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/airbase/">Our bases</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/history/">Our history</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283640"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/our-values/">Our Values</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/the-helicopters/">The helicopters</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/rapid-response-cars/">The rapid response cars</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250235"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/our-ambassadors/">Our Ambassadors</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4958"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/">What We Do</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273608"><a href="https://www.greatnorthairambulance.co.uk/isleofman/">Isle of Man</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5574"><a href="https://www.greatnorthairambulance.co.uk/our-work/what-we-do/major-incident-response/">Major incident response</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4956"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/">How we do it</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="https://www.greatnorthairambulance.co.uk/our-work/how-we-do-it/leading-innovation/">Leading innovation</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/how-we-are-called-out/">How we are called out</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3974"><a href="https://www.greatnorthairambulance.co.uk/our-work/who-we-are/how-we-are-regulated/">How we are regulated</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2343"><a href="https://www.greatnorthairambulance.co.uk/support-us/make-a-difference/where-your-money-goes/">Where your donations go</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24463"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/">News</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241016"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/">Latest news</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://www.greatnorthairambulance.co.uk/our-work/our-impact/patient-stories/">Patient stories</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214885"><a href="https://www.greatnorthairambulance.co.uk/app/uploads/2022/10/GNAAS_Safeguarding_Policy.pdf">Safeguarding</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4146"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/newsletter/">Sign up for our newsletter</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-241026"><a href="https://www.greatnorthairambulance.co.uk/training/">Training</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241034"><a href="https://www.greatnorthairambulance.co.uk/training/phemcc/">PHEMCC</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Get in touch</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241017"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Contact us</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="https://www.greatnorthairambulance.co.uk/our-work/join-our-team/">Join our team</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52130"><a href="https://www.greatnorthairambulance.co.uk/support-us/room-hire/">Hire a room for your event</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/request-a-speaker/">Request a speaker</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5634"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/feedback/">Feedback</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+</ul></div>
+        </div>
+        <div class="footer-menu">
+          <p><a href="#" class="footer-menu-expand">Support Us</a><span class="footer-menu-extend-img"></span></p>
+          <div class="menu-support-us-container"><ul id="menu-support-us-1" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-399"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/">Donate</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3945"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/donate-online-2/">Donate Online</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/regular-giving/">Regular Giving</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63566"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/gifts-in-wills/">Giving in your Will</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/in-memory/">Giving in memory</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2512"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/in-celebration/">Giving in celebration</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267373"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/bitcoin/">Donate Bitcoin</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/more-ways-to-donate/">More Ways to Donate</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94982"><a href="https://www.greatnorthairambulance.co.uk/support-us/donations/gift-aid/">Gift Aid your donation</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-400"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/">Fundraise</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/your-fundraising/">Your Fundraising</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4123"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/collection-boxes/">Collection boxes</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104246"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/corporate-giving/">Corporate giving</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285412"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/corporate-giving/corporate-partner-2/">Our Corporate Partners</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2353"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/fundraise-in-school/">School fundraising</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3441"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/paying-in-your-fundraising/">Paying in your fundraising</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5455"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/talk/">Request a talk</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34332"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery-and-raffle/">Lottery and Raffle</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298016"><a href="https://www.greatnorthairambulance.co.uk/support-us/take-flight-raffle/">Take Flight Raffle</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34335"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/">Play our lottery</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4227"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/winning-numbers/">Winning lottery numbers</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34349"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/raffle/previous-raffle-winners/">Previous raffle winners</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212172"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/24-7/">24/7 Lottery</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6200"><a href="https://www.greatnorthairambulance.co.uk/support-us/lottery/responsible-gambling/">Responsible gambling</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://www.greatnorthairambulance.co.uk/support-us/volunteer/regular-opportunities/">Volunteer</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290388"><a href="https://www.greatnorthairambulance.co.uk/our-work/news/">News</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-69932"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/">Events</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240899"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/get-active/">Get active</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240898"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/be-social/">Be social</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283075"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/gnaas-open-days/">Open Days</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69940"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/">All events</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286352"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/great-north-run/">Great North Run 2025</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2352"><a href="https://www.greatnorthairambulance.co.uk/?page_id=339">Recycle</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20657"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/recycle/clothing-collections/">Clothing Collections</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5628"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising/recycle/info-for-buyers/">Info for buyers</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-588"><a href="https://www.greatnorthairambulance.co.uk/support-us/shop/">Shop</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241144"><a href="https://www.greatnorthairambulance.co.uk/shop/">All items</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122408"><a href="https://www.greatnorthairambulance.co.uk/product-category/new-arrivals/">New arrivals</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4860"><a href="https://www.greatnorthairambulance.co.uk/product-category/stationery/">Stationery</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4360"><a href="/product-category/clothing/">Clothing</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142170"><a href="https://www.greatnorthairambulance.co.uk/support-us/fundraising-events/">Event tickets</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269766"><a href="https://www.greatnorthairambulance.co.uk/support-us/shop/virtual-gifts/">Virtual Gifts</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+<span class="ed-manual-nav-spacer"></span><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-241987"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Get in touch</a><span class="ed-mobile-nav-view-pages-icon"></span>
+<ul class="sub-menu">
+<span class="ed-mobile-nav-back-icon"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241988"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/">Contact us</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241986"><a href="https://www.greatnorthairambulance.co.uk/our-work/join-our-team/">Join our team</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241990"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/request-a-speaker/">Request a speaker</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274291"><a href="https://www.greatnorthairambulance.co.uk/support-us/room-hire/">Hire a Room</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-mobile-nav-back-icon"></span><span class="ed-manual-nav-spacer"></span>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241989"><a href="https://www.greatnorthairambulance.co.uk/our-work/contact/feedback/">Feedback</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul>
+</li>
+</ul></div>
+        </div>
+      </div>
+      <div class="footer-misc fadeInUp">
+        <div class="footer-menu">
+          <p><a href="/our-work/contact/">Contact Us</a></p>
+        </div>
+        <div class="footer-address">
+          <p>Progress House, Urlay Nook Road, Eaglescliffe, TS16 0QB.</p>
+
+        </div>
+        <div class="footer-charity-number">
+          <p>Registered Charity No: 1092204</p>
+          <p>Isle of Man Registered Charity No: 1329</p>
+        </div>
+        <div class="footer-social-icons">
+                                    <a href="https://twitter.com/gnairambulance/" target="_blank">
+                                    <svg class="icon" width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+</svg>                              </a>
+                          <a href="https://instagram.com/gnairambulance/" target="_blank">
+                                    <?xml version="1.0" encoding="utf-8"?>
+<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56.7 56.7" enable-background="new 0 0 56.7 56.7" xml:space="preserve">
+<g>
+	<path d="M28.2,16.7c-7,0-12.8,5.7-12.8,12.8s5.7,12.8,12.8,12.8S41,36.5,41,29.5S35.2,16.7,28.2,16.7z M28.2,37.7
+		c-4.5,0-8.2-3.7-8.2-8.2s3.7-8.2,8.2-8.2s8.2,3.7,8.2,8.2S32.7,37.7,28.2,37.7z"/>
+	<circle cx="41.5" cy="16.4" r="2.9"/>
+	<path d="M49,8.9c-2.6-2.7-6.3-4.1-10.5-4.1H17.9c-8.7,0-14.5,5.8-14.5,14.5v20.5c0,4.3,1.4,8,4.2,10.7c2.7,2.6,6.3,3.9,10.4,3.9
+		h20.4c4.3,0,7.9-1.4,10.5-3.9c2.7-2.6,4.1-6.3,4.1-10.6V19.3C53,15.1,51.6,11.5,49,8.9z M48.6,39.9c0,3.1-1.1,5.6-2.9,7.3
+		s-4.3,2.6-7.3,2.6H18c-3,0-5.5-0.9-7.3-2.6C8.9,45.4,8,42.9,8,39.8V19.3c0-3,0.9-5.5,2.7-7.3c1.7-1.7,4.3-2.6,7.3-2.6h20.6
+		c3,0,5.5,0.9,7.3,2.7c1.7,1.8,2.7,4.3,2.7,7.2V39.9L48.6,39.9z"/>
+</g>
+</svg>                              </a>
+                          <a href="https://facebook.com/GNairambulance/" target="_blank">
+                                    <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg class="icon" enable-background="new 0 0 56.693 56.693" height="56.693px" id="Layer_1" version="1.1" viewBox="0 0 56.693 56.693" width="56.693px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M40.43,21.739h-7.645v-5.014c0-1.883,1.248-2.322,2.127-2.322c0.877,0,5.395,0,5.395,0V6.125l-7.43-0.029  c-8.248,0-10.125,6.174-10.125,10.125v5.518h-4.77v8.53h4.77c0,10.947,0,24.137,0,24.137h10.033c0,0,0-13.32,0-24.137h6.77  L40.43,21.739z"/></svg>                              </a>
+                          <a href="https://www.linkedin.com/company/gnairambulance/" target="_blank">
+                                    <svg class="icon" width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="24" width="24" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_14">
+   <g transform="matrix(0.153443, 0, 0, 0.153443, 1.30601, 1.30599)" id="svg_12">
+    <title>background</title>
+    <rect x="0.93491" y="0.93489" width="131" height="131" id="svg_10" fill="none"/>
+   </g>
+   <g transform="matrix(0.153443, 0, 0, 0.153443, 1.30601, 1.30599)" id="svg_13">
+    <title>Layer 1</title>
+    <polygon class="fil1" points="4.368560791015625,66.48388671875 4.368560791015625,126.48388671875 33.368560791015625,126.48388671875 33.368560791015625,61.48388671875 33.368560791015625,44.48388671875 4.368560791015625,44.48388671875 " id="svg_9" fill="#66ac5b"/>
+    <path class="fil1" d="m19.36857,3.48389c-8,0 -15,7 -15,15c0,7 7,14 15,14c7,0 14,-7 14,-14c0,-8 -7,-15 -14,-15z" id="svg_8" fill="#66ac5b"/>
+    <path class="fil1" d="m126.36857,69.48389c-2,-15 -9,-25 -30,-25c-12,0 -20,5 -24,11l0,0l0,-11l-23,0l0,16l0,66l24,0l0,-41c0,-10 2,-21 15,-21c13,0 14,13 14,22l0,40l25,0l0,-45l0,0c0,-4 0,-8 -1,-12z" id="svg_7" fill="#66ac5b"/>
+   </g>
+  </g>
+ </g>
+</svg>                              </a>
+                              </div>
+        <div class="footer-images">
+                    <div class="footer-accreditation-img">
+            <img data-src='https://www.greatnorthairambulance.co.uk/app/uploads/2023/03/1-CQC-Regulated-by-WHITE-copy.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img src="https://www.greatnorthairambulance.co.uk/app/uploads/2023/03/1-CQC-Regulated-by-WHITE-copy.png" /></noscript>
+          </div>
+                    <div class="footer-fundraising-icon">
+            
+          </div>
+        </div>   
+      </div>
+    </div>
+  </div>
+  <div class="footer-lower">
+    <div class="container">
+      <div class="footer-logo fadeInUp">
+        <img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/great-north-logo.svg" class="site-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/great-north-logo.svg" class="site-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="site-logo" src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/great-north-logo.svg" /></noscript></noscript>
+        <img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/gnaas-logo.png" class="site-logo__android lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  data-src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/gnaas-logo.png" class="site-logo__android lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="site-logo__android" src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/images/gnaas-logo.png" /></noscript></noscript>
+      </div>
+      <div class="footer-logo-background"></div>
+      <div class="footer-meta-links fadeInUp">
+        <div class="menu-footer-meta-menu-container"><ul id="menu-footer-meta-menu" class="nav"><li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="https://www.greatnorthairambulance.co.uk/terms-and-conditions/">Terms and Conditions</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+<span class="ed-manual-nav-spacer"></span><li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-492"><a href="https://www.greatnorthairambulance.co.uk/privacy-policy-2/">Privacy Policy</a><span class="ed-mobile-nav-view-pages-icon"></span></li>
+</ul></div>
+      </div>
+    </div>
+  </div>
+</footer>
+    <div id="glt-translate-trigger"><span class="notranslate">Translate »</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="English"><a href="#" title="English" class="nturl notranslate en flag united-states"></a></li></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-en"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en', autoDisplay: false}, 'google_language_translator');}</script>
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe  height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true" data-src="https://www.googletagmanager.com/ns.html?id=GTM-5N3GTDN" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='preload' id='berocket_lmp_style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/load-more-products-for-woocommerce/css/load_products.css?ver=1.2' type='text/css' media='all' as='style' onload="this.rel='stylesheet'" />
+<noscript><link rel='stylesheet' id='berocket_lmp_style-css' href='https://www.greatnorthairambulance.co.uk/app/plugins/load-more-products-for-woocommerce/css/load_products.css?ver=1.2' type='text/css' media='all' />
+</noscript><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=18930074" id="google-tag-manager-js" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/wp/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="woocommerce-google-analytics-integration-js-before">
+/* <![CDATA[ */
+var wcgai = {config: {"gtag_id":"18930074","tracker_function_name":"gtag","track_404":true,"allow_google_signals":true,"logged_in":false,"linker":{"domains":[],"allow_incoming":false},"custom_map":{"dimension1":"logged_in"},"events":["purchase","add_to_cart","remove_from_cart","view_item_list","select_content","view_item","begin_checkout"],"identifier":null,"consent_modes":[{"analytics_storage":"denied","ad_storage":"denied","ad_user_data":"denied","ad_personalization":"denied","region":["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE","GB","CH"]}],"developer_id":"dOGY3NW"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce-google-analytics-integration/assets/js/build/main.js?ver=2f4286f693253b9c6378" id="woocommerce-google-analytics-integration-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/counter-block/assets/js/jquery-numerator.min.js?ver=1a02d7682baa739dcb7c28aa3031bf1f" id="ideabox-jquery-numerator-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/counter-block/assets/js/counter.js?ver=1a02d7682baa739dcb7c28aa3031bf1f" id="ideabox-counter-block-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/super-block-slider/build/superblockslider.js?ver=c9249127679974706fd8510f9f0164c4" id="superblockslider-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-donorflex-admin/public/js/ed-donorflex-csv-export-public.js?ver=1.5.3" id="ed-donorflex-csv-export-js"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js?ver=1.12.0" id="jquery-ui-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/scripts/ed-events-module.js?ver=1.0.24" id="ed-events-module-js-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/themes/gnaas/dist/scripts/main.js" id="sage/main.js-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/ed-events//dist/scripts/ed-featured-events-module.js?ver=1.0.24" id="ed-featured-events-module-js-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/google-language-translator/js/scripts.js?ver=6.0.20" id="scripts-js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit" id="scripts-google-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.7.0" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"ajaxurl":"https:\/\/www.greatnorthairambulance.co.uk\/wp\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.7.0" id="wc-order-attribution-js"></script>
+<script type="text/javascript" id="google-invisible-recaptcha-js-before">
+/* <![CDATA[ */
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6LeZnbUUAAAAAIDtc_2qvUxiXAQA64LBS-r-0xnl', 'size': 'invisible', 'badge' : 'bottomright',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" async defer src="https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&amp;render=explicit" id="google-invisible-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20.2" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.15.5" id="smush-lazy-load-js"></script>
+<script type="text/javascript" id="berocket_lmp_js-js-extra">
+/* <![CDATA[ */
+var the_lmp_js_data = {"type":"more_button","update_url":"1","use_mobile":"","mobile_type":"","mobile_width":"","is_AAPF":"","buffer":"50","use_prev_btn":"","load_image":"<div class=\"lmp_products_loading\"><i class=\"fa fa-spinner lmp_rotate\"><\/i><span class=\"\"><\/span><\/div>","load_img_class":".lmp_products_loading","load_more":"<div class=\"lmp_load_more_button br_lmp_button_settings\"><a class=\"lmp_button \" style=\"font-size: 22px;color: #333333;background-color: #aaaaff;padding-top:15px;padding-right:25px;padding-bottom:15px;padding-left:25px;margin-top:px;margin-right:px;margin-bottom:px;margin-left:px; border-top: 0px solid #000; border-bottom: 0px solid #000; border-left: 0px solid #000; border-right: 0px solid #000; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;\" href=\"#load_next_page\">Load More<\/a><\/div>","load_prev":"<div class=\"lmp_load_more_button br_lmp_prev_settings\"><a class=\"lmp_button \" style=\"font-size: 22px;color: #333333;background-color: #aaaaff;padding-top:15px;padding-right:25px;padding-bottom:15px;padding-left:25px;margin-top:px;margin-right:px;margin-bottom:px;margin-left:px; border-top: 0px solid #000; border-bottom: 0px solid #000; border-left: 0px solid #000; border-right: 0px solid #000; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;\" href=\"#load_next_page\">Load Previous<\/a><\/div>","lazy_load":"","lazy_load_m":"","LLanimation":"","end_text":"<div class=\"lmp_products_loading\"><span class=\"\"><\/span><\/div>","javascript":{"before_update":"","after_update":""},"products":"ul.products","item":"li.product","pagination":".woocommerce-pagination","next_page":".woocommerce-pagination a.next","prev_page":".woocommerce-pagination a.prev"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.greatnorthairambulance.co.uk/app/plugins/load-more-products-for-woocommerce/js/load_products.js?ver=1.2" id="berocket_lmp_js-js"></script>
+<script type="text/javascript" id="woocommerce-google-analytics-integration-data-js-after">
+/* <![CDATA[ */
+wcgai.trackClassicPages( {"cart":{"items":[],"coupons":[],"totals":{"currency_code":"GBP","total_price":0,"currency_minor_unit":2}}} );
+/* ]]> */
+</script>
+  </body>
+</html>

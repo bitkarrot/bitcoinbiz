@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>404 | MissPrint</title>
+<meta name="description" content="Buy now from a family business producing striking modern wallpaper designs, fabrics and accessories. Bold designs and hand-drawn illustrations. UK based.">
+<meta name="keywords" content="">
+<meta name="author" content="360ss.com" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/favicons/site.webmanifest">
+<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+<link href="/fonts/fontawesome/css/all.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="/fonts/Amatic_SC/stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7136872/6741212/css/fonts.css" />
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/bootstrap-theme.min.css"/>
+
+<link rel="stylesheet" type="text/css" href="/css/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/css/slick/slick-theme.css"/>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+<link rel="stylesheet" type="text/css" href="/css/main_style.css?ver=22025073000"/>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6Le-m8UUAAAAAHn9ocQsaCDPRWPauhiHC2sKi010"></script>
+
+<link href="https://www.missprint.co.uk/css/cookies_notification.css?v=2025073000" media="all" type="text/css" rel="stylesheet">
+
+</head>
+<body>
+	
+<!-- GDPR Modal -->
+<div class="modal fade" id="gdpr_modal">
+  	<div class="modal-dialog modal-lg">
+    	<div class="modal-content">
+			<div class="modal-body">
+				<div id="gdpr-initial-panel">
+					<h2>We use cookies on our website</h2>
+					<p>Please be aware that MissPrint uses cookies to improve your experience. Cookies are files which are issued by a web server to be stored by a web browser that contain information relating to website usage.</p>
+					<p>We use cookies for the following purposes: (i) measuring the performance of our website; (ii) storing favourited items; (iii) storing basket contents; (iv) enabling marketing activity, including on other websites.</p>
+					<div class="button-group">
+					<button class="button dark-button gdpr_agree">I Agree</button>
+						<button class="button" id="gdpr_learn_more">Learn More</button>
+					</div>
+				</div>
+				<div id="gdpr-learnmore-panel" style="display:none;">
+					<h2>Our usage of cookies</h2>
+					<div class="row">
+						<div class="col-lg-6">
+							<h4>Measuring the performance of our website and making an order:</h4>
+							<p>
+								We use Google Analytics cookies to analyse activity and performance of our website.
+								This is for statistical purposes only and customers remain anonymous in this process.
+								Google stores this information and has their own privacy policy <a href="http://www.google.com/privacypolicy.html" target="_blank">http://www.google.com/privacypolicy.html</a>.
+								Cookies are also used for storing your favourite items as well as keeping track of your shopping basket contents.
+							</p>
+							<p>
+								These cookies are switched on by default when you visit our websites, and this cannot be changed.
+								You can disable cookies in your web browser and this will not prevent you from using our website but will stop you making an order along with other restrictions.
+							</p>
+						</div>
+						<div class="col-lg-6">
+							<h4>Enabling marketing cookies, including on third-party websites:</h4>
+							<p>
+								Cookies are also used to enable and measure marketing activity such as email marketing, online advertising and social media use.
+								Information can also be passed to selected third-party websites so that they can offer you more relevant offers based on your interests.
+							</p>
+							<p>
+								These cookies used to enable marketing activity, including on third-party websites are not automatically switched on even though they may provide a useful service to you.
+								Please indicate whether you agree for us to switch on cookies to enable these marketing activities.
+							</p>
+							<div class="button-group">
+								<button class="button dark-button gdpr_agree">I Agree</button>
+								<button class="button" id="gdpr_disagree">I disagree</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+    	</div>
+  	</div>
+</div>
+
+
+<div class="header">
+	<div class="container">
+		<div id="mobile_menu">
+			<a href="#null"><img src="/img/Menu.svg"></a>
+		</div>
+		<div class="row">
+			<div class="col-3">
+									<a href="/account/signin" id="login">Log in /</a> <a href="/account/register" id="register">Register</a>
+							</div>
+
+			<div class="col-6 logo">
+				<!-- <a href="/">MissPrint<span>®</span></a> -->
+				<a href="/"><img src="/img/missprint_logo.svg" alt="MissPrint" class="header-logo"></a>
+			</div>
+
+			<div class="col-3 d-flex">
+				<div class="header-search desktop">
+					<form accept-charset="UTF-8" method="GET" action="/search">
+						<button type="submit" id="submit_search"></button>
+						<input type="text" name="s" placeholder="Enter search term" id="search_text" autocomplete="off"/>
+					</form>
+					<!-- <div id="suggestions"></div> -->
+				</div>
+
+				<a href="/favourites"><img src="/img/icon_favourite.svg"></a>
+				<a href="/basket" class="mini-basket" style="" id="miniBasketTotalItems">0</a>
+			</div>
+		</div>
+	</div>
+	<div class="nav-container">
+							<div id="offcanvas">
+				<div id="offcanvas_menu">
+					<div class="mobile-login">
+													<a href="/account/signin" id="login">Log in</a>
+							<a href="/account/register" id="register">Register</a>
+											</div>
+					<div class="header-search mobile">
+						<form accept-charset="UTF-8" method="GET" action="/search/">
+							<button type="submit" id="submit_search"></button>
+							<input type="text" name="s" placeholder="Enter search term" id="search_text" autocomplete="off"/>
+						</form>
+						<!-- <div id="suggestions"></div> -->
+					</div>
+					<ul class="nav nav-wrp" >
+																												<li class="  has-dropdown">
+																			<a href="/wallpaper/c/1" >
+												Wallpaper										</a>
+																											
+										<div class="dropdown-wrp mega-dropdown-wrp " >
+																							<div class="container">
+																																						<ul class="dropdown-list explore-all-mobile">
+															<li>
+																<a href="/wallpaper/c/1" >
+																	Explore all Wallpaper																</a>
+															</li>
+														</ul>
+																										<ul class="dropdown-list">
+																																																																										<li class="" >
+																																			<h3 class="heading">Sort by Colour</h3>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/yellow-wallpaper/c/10">
+																			Yellow Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/green-wallpaper/c/11">
+																			Green Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/pink-wallpaper/c/13">
+																			Pink Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/blue-wallpaper/c/12">
+																			Blue Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/dark-wallpaper/c/14">
+																			Dark Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/monochrome-wallpaper/c/15">
+																			Monochrome Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/black-wallpaper/c/39">
+																			Black Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/grey-wallpaper/c/40">
+																			Grey Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/white-wallpaper/c/41">
+																			White Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/orange-red-wallpaper/c/42">
+																			Orange & Red Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/natural-wallpaper/c/43">
+																			Natural Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/metallic-wallpaper/c/44">
+																			Metallic Wallpaper																		</a>
+																																	</li>
+																																																													</ul><ul class="dropdown-list">
+																																														<li class="" >
+																																			<h3 class="heading">Sort by Room</h3>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/bedroom-wallpaper/c/24">
+																			Bedroom Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/living-room-wallpaper/c/23">
+																			Living Room Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/hallway-wallpaper/c/25">
+																			Hallway Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/kids-room-wallpaper/c/45">
+																			Kids Room Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/bathroom-wallpaper/c/46">
+																			Bathroom Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/office-wallpaper/c/47">
+																			Office Wallpaper																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/kitchen-wallpaper/c/26">
+																			Kitchen Wallpaper																		</a>
+																																	</li>
+																																																													</ul><ul class="dropdown-list">
+																																														<li class="nav-image-elem" >
+																																																						<div class="nav-image-bg" style="background-image: url('/images_navigation/M_122_9ff83bc17bcfa161ddea4f23e04ee493.jpg')">
+																				<div class="nav-image-cta">
+																					<a href="/wallpaper/c/1"  class="button dark-button">
+																						Explore all wallpaper																					</a>
+																				</div>
+																			</div>
+																																																			</li>
+																																											</ul>
+																							</div>
+																					</div>
+																	</li>
+																																			<li class=" non-mega ">
+																			<a href="/fabric/c/2" >
+												Fabric										</a>
+																																			</li>
+																																			<li class=" non-mega ">
+																			<a href="/cushions/c/5" >
+												Cushions										</a>
+																																			</li>
+																																			<li class=" non-mega ">
+																			<a href="/lampshades/c/4" >
+												Lampshades										</a>
+																																			</li>
+																																																							<li class=" non-mega ">
+																			<a href="/homeware/c/320" >
+												Homeware										</a>
+																																			</li>
+																																			<li class=" non-mega ">
+																			<a href="/gift/c/321" >
+												Stationery & Accessories										</a>
+																																			</li>
+																																			<li class=" non-mega has-dropdown">
+																			<a href="#" >
+												Information										</a>
+																											
+										<div class="dropdown-wrp" >
+																																					<ul class="dropdown-list">
+																																																																										<li class="" >
+																																			<a href="/about-us">
+																			About Us																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/basket">
+																			Shopping cart																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/delivery-and-returns">
+																			Delivery and Returns																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/trade-information">
+																			Trade Information																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/faq">
+																			Frequently asked questions																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/wallpaper-calculator">
+																			Wallpaper calculator																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/contact-us">
+																			Contact Us																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/stockists">
+																			Stockists																		</a>
+																																	</li>
+																																																																												<li class="" >
+																																			<a href="/news">
+																			News																		</a>
+																																	</li>
+																																											</ul>
+																					</div>
+																	</li>
+																								</ul>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+				<div class="clearfix"></div>
+	</div>
+</div>
+
+	  
+	<div class="container">
+	
+		<h1 class="page-title">404</h1>
+					
+		<div class="row">
+			<div class="col-xs-12 col-sm-12">
+				404
+			</div>
+		</div> 
+		
+	</div> 
+	<div class="custom-border"></div>
+<div id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4 order-2 order-lg-1">
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-lg-12">
+						<div class="social">
+							<p>MissPrint Social</p>
+							<a href="https://www.instagram.com/missprint_ltd" target="_blank"><span class="fab fa-instagram"></span></a>
+							<a href="https://twitter.com/MissPrint_Ltd" target="_blank"><span class="fab fa-twitter"></span></a>
+							<a href="https://www.facebook.com/missprinthome/" target="_blank"><span class="fab fa-facebook-f"></span></a>
+							<a href="https://www.pinterest.com/MissPrintHome/" target="_blank"><span class="fab fa-pinterest-p"></span></a>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-lg-12">
+						<a name="mailing_list"></a>
+						<div class="mailing-list mb-4">
+							<p>Mailing list</p>
+															<form accept-charset="UTF-8" method="GET" action="/post-newsletter-request" class="mailing-list-form">
+									<input type="hidden" name="csrf_token" value="AcGdbN4nLxr58aBV0VXJFUgAnkYJisd7wVuXG9Hs">									<input type="text" name="sign_up" placeholder="email" id="email" autocomplete="off"/>
+									<button type="submit" id="sign_up">sign up</button>
+								</form>
+														</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-8 order-1 order-lg-2">
+				<div class="row">
+
+				
+																																								<div class="col-lg-4">
+									<div class="collapsable collapsed" href="#i0" data-toggle="collapse" aria-expanded="true" aria-controls="i0">
+										<p class="mb-0">Products</p>
+									</div>
+									<div id="i0" class="collapse">
+										<ul>
+																																										<li >
+									<a href="/wallpaper/c/1">Wallpaper</a>
+								</li>
+																																										<li >
+									<a href="/fabric/c/2">Fabric</a>
+								</li>
+																																										<li >
+									<a href="/cushions/c/5">Cushions</a>
+								</li>
+																																										<li >
+									<a href="/gift/c/321">Stationery & Accessories</a>
+								</li>
+																																										<li >
+									<a href="/lampshades/c/4">Lampshades</a>
+								</li>
+																																										<li >
+									<a href="/homeware/c/320">Homeware</a>
+								</li>
+																																																			</ul>
+									</div>
+									</div>
+																<div class="col-lg-4">
+									<div class="collapsable collapsed" href="#i7" data-toggle="collapse" aria-expanded="true" aria-controls="i7">
+										<p class="mb-0">Help</p>
+									</div>
+									<div id="i7" class="collapse">
+										<ul>
+																																										<li >
+									<a href="/delivery-and-returns">Delivery and Returns</a>
+								</li>
+																																										<li >
+									<a href="/faq">Frequently asked questions</a>
+								</li>
+																																										<li >
+									<a href="/trade-information">Trade Information</a>
+								</li>
+																																										<li >
+									<a href="/contact-us">Contact Us</a>
+								</li>
+																																										<li >
+									<a href="/wallpaper-calculator">Wallpaper calculator</a>
+								</li>
+																																																			</ul>
+									</div>
+									</div>
+																<div class="col-lg-4">
+									<div class="collapsable collapsed" href="#i13" data-toggle="collapse" aria-expanded="true" aria-controls="i13">
+										<p class="mb-0">Good to know</p>
+									</div>
+									<div id="i13" class="collapse">
+										<ul>
+																																										<li >
+									<a href="/about-us">About Us</a>
+								</li>
+																																										<li >
+									<a href="/privacy-policy">Privacy Policy</a>
+								</li>
+																																										<li >
+									<a href="/terms-and-conditions">Terms and Conditions</a>
+								</li>
+																																										<li >
+									<a href="/basket">Shopping Cart</a>
+								</li>
+																																										<li >
+									<a href="/samples">Samples</a>
+								</li>
+																																										<li >
+									<a href="/news">News</a>
+								</li>
+																																										<li >
+									<a href="/stockists">Stockists</a>
+								</li>
+																																										<li class="_360cookieChangeMindCookies">
+									<a href="#">Change cookie preferences</a>
+								</li>
+																						</ul></div></div>
+																													</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer-copyright">
+		<p>2025 Web Design by <a href="http://www.360ss.com/" target="_blank">360</a></p>
+	</div>
+</div>
+
+<script src="/js/jquery3.6.4.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+
+<!-- image zoom functionality - see http://www.elevateweb.co.uk/image-zoom -->
+<script type="text/javascript" src="/js/jquery.elevateZoom-3.0.8.min.js?v=2"></script>
+
+<script src="/js/velocity.min.js"></script>
+<script src="/js/velocity.ui.min.js"></script>
+
+<script type="text/javascript" src="/js/slick/slick.min.js"></script>
+<script src="/js/jquery.matchHeight.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/main.js?v=22025073000"></script>
+
+
+<div class="_360cookieDialog _360cookie_animate__animated _360cookie_animate__slideInUp" id="_360cookieDialogID">
+	<div class="_360cookieContainer">
+		<div class="_360cookieNotification">
+			<div class="_360cookieContent">
+				<div class="_360cookieTitle">
+					Cookie Policy
+				</div>
+				<div class="_360cookieInfo">
+					<p>We use cookies to remember your settings, personalise content, improve website performance, analyse traffic and assist with our general marketing efforts. <a href="#" class="_360cookieLearnMore">Learn more</a></p>
+				</div>
+			</div>
+			<div class="_360cookieActions">
+				<button class="_360cookieBtn _360cookieBtnColoured _360cookieAcceptAllCookies">Accept all cookies</button>
+				<button class="_360cookieBtn _360cookieBtnOutline _360cookieManageCookies">Manage cookies</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="_360cookieModal _360cookieModalFade _360cookie_animate__animated _360cookie_animate__slideInUp" id="_360cookieModalID" tabindex="-1" role="dialog" aria-labelledby="_360cookieModalTitle" aria-hidden="true">
+	<div class="_360cookieModalDialog" role="document">
+		<div class="_360cookieModalContent">
+			<div class="_360cookieModalBody">
+				<div class="_360cookieModalTitle" id="_360cookieModalTitle">Manage Cookies</div>
+				<p>Cookies are small text files that can be used by websites to improve your experience and to remember settings. The law requires that your consent is given for any cookies that are not strictly necessary for the operation of this website.</p>
+				<div class="_360cookieTabList">
+					<div class="_360cookieTab">
+						<div class="_360cookieTabTitle">
+							Necessary Cookies
+						</div>
+						<div class="_360cookieTabContent">
+							<p>Necessary cookies are cookies that are required for the operation of this website.</p>
+						</div>
+					</div>
+					<div class="_360cookieTab">
+						<div class="_360cookieTabTitle">
+							Other Cookies
+						</div>
+						<div class="_360cookieTabContent">
+							<p><strong>Other cookies not strictly necessary for the operation of this website</strong></p>
+							<p>Selecting this option will allow us to use cookies for marketing and analytics purposes. For example Google Analytics.</p>
+						</div>
+					</div>
+									</div>
+			</div>
+			<div class="_360cookieModalFooter">
+				<div class="_360cookieModalFooterContainer">
+					<div class="_360cookieModalFooterRow">
+						<div class="_360cookieModalFooterCol">
+							<button class="_360cookieBtn _360cookieBtnColoured _360cookieAcceptAllCookies">Accept all cookies</button>
+						</div>
+						<div class="_360cookieModalFooterCol">
+							<button class="_360cookieBtn _360cookieBtnOutline _360cookieAcceptNecessaryCookies">Accept only necessary cookies</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="_360cookieModalBackdrop _360cookieModalFade"></div>
+
+<script>
+	//Cookies
+	function create360Cookie(name, value, days) {
+		$.ajax({
+			url: "/cookie/create",
+			type: "POST",
+			async: false,
+			cache: false,
+			data: {name: name, value: value, days: days}
+		});
+	}
+	function read360Cookie(name) {
+		$.ajax({
+			url: "/cookie/read",
+			type: "POST",
+			async: false,
+			cache: false,
+			data: {name: name},
+			success: function(response){
+				if(!response){
+					show360CookieDialog();
+				}
+			}
+		});
+	}
+	function erase360Cookie(name) {
+		$.ajax({
+			url: "/cookie/erase",
+			type: "POST",
+			async: false,
+			cache: false,
+			data: {name: name}
+		});
+	}
+
+	// Modal
+	function show360CookieModal(){
+		// open modal
+		$('#_360cookieModalID').addClass('_360cookieModalShow');
+		$('#_360cookieModalID').css('display','block');
+		$('._360cookieModalBackdrop').addClass('_360cookieModalShow');
+		$('body').addClass('_360cookie__modal-open');
+	}
+	function hide360CookieModal(){
+		// hide modal
+		$('#_360cookieModalID').removeClass('_360cookieModalShow');
+		$('#_360cookieModalID').css('display','none');
+		$('._360cookieModalBackdrop').removeClass('_360cookieModalShow');
+		$('body').removeClass('_360cookie__modal-open');
+	}
+
+	// Dialog
+	function show360CookieDialog(){
+		// open modal
+		$('#_360cookieDialogID').css('display','block');
+	}
+	function hide360CookieDialog(){
+		// hide modal
+		$('#_360cookieDialogID').css('display','none');
+	}
+
+	$(function() {
+		// modal close - click out modal
+		$(document).click(function(event) {
+			$target = $(event.target);
+			if( !$target.hasClass('_360cookieManageCookies') && 
+				!$target.hasClass('_360cookieLearnMore') && 
+				!$target.closest('._360cookieModalContent').length && 
+				$('._360cookieModalContent').is(":visible") &&
+				!$target.hasClass('_360cookieChangeMindCookies')) {
+				
+				hide360CookieModal();
+				show360CookieDialog();
+			}
+		});
+
+		// modal tabs - open/close
+		$('._360cookieTabTitle').click(function(){
+			qa = $(this).closest('._360cookieTab');
+			content = $(qa).find('._360cookieTabContent');
+
+			if($(this).hasClass('_360cookieTabOpen')){
+				$(this).removeClass('_360cookieTabOpen');
+				$(content).slideUp();
+			}
+			else{
+				$(this).addClass('_360cookieTabOpen');
+				$(content).slideDown();
+			}
+		});
+
+		// no cookie selection - show cookie dialog
+		read360Cookie("cookie_response");
+
+		// buttons
+		// manage cookies button - open modal/close dialog
+		$('._360cookieManageCookies').click(function(){
+			show360CookieModal();
+			hide360CookieDialog();
+		});
+
+		// learn more link - open modal/close dialog
+		$('._360cookieLearnMore').click(function(e){
+			e.preventDefault();
+			show360CookieModal();
+			hide360CookieDialog();
+		});
+
+		// accept all button
+		$('._360cookieAcceptAllCookies').click(function(){
+			create360Cookie('cookie_response', 'all', 365);
+			create360Cookie('gdpr_decision', 1, 365);
+			hide360CookieModal();
+			hide360CookieDialog();
+		});
+
+		$('._360cookieAcceptNecessaryCookies').click(function(){
+			create360Cookie('cookie_response', 'necessary', 365);
+			create360Cookie('gdpr_decision', 2, 365);
+			hide360CookieModal();
+			hide360CookieDialog();
+		});
+
+		// change mind cookies button
+		$('._360cookieChangeMindCookies').click(function(e){
+			e.preventDefault();
+			erase360Cookie('cookie_response');
+			show360CookieModal();
+		});
+
+	});
+</script></body>
+</html>

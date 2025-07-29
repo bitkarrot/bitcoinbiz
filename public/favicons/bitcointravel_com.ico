@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon-CSP1qHZf.jpg" />
+  <meta name="google" content="notranslate">
+  <meta name="description"
+    content="Book your travel with exclusive Bitcoin payments using our web3 platform services. Find your flight tickets, hotels, activities, tours & the best Esim data plans online today to purchase with Bitcoin.">
+  <meta name="keywords" content="
+  Bitcoin, BitcoinTravel, Bitcoin Travel, Travel, Travel agency bitcoin, Flight with bitcoin, 
+  hotels accepting bitcoin, Travel with bitcoin, El Salvador Bitcoin, Book flights with bitcoin, 
+  Book hotels with bitcoin, Book tours with bitcoin, Book activities with bitcoin, Travel bitcoin, 
+  Bitcoin tours, Bitcoin travel El Salvador, Bitcoin tourism, Pay with bitcoin, Pay with bitcoin travel, 
+  Bitcoin only, Bitcoin friendly, Vacation with bitcoin, Safe travel, Safe travel booking, Safe travel with 
+  bitcoin, BitcoinTravel deals, BitcoinTravel safe payments, Bitcoin payment, How to book with bitcoin?, Benefits of bitcoin, 
+  Top bitcoin travel destionations">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta property="og:title"
+    content="Book Flights, Hotel, Tours, Activities & eSIMs with Bitcoin. Secure & fast transactions today on BitcoinTravel.com">
+  <meta property="og:description"
+    content="Book your travel with exclusive Bitcoin payments using our web3 platform services. Find your flight tickets, hotels, activities, tours & the best Esim data plans online today to purchase with Bitcoin.">
+  <meta property="og:image" content="https://bitcointravel.com/assets/banner-logo-BChBLva7.png">
+  <meta property="og:image:alt" content="BitcoinTravel">
+  <meta property="og:url" content="https://bitcointravel.com/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="BitcoinTravel">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title"
+    content="Book Flights, Hotel, Tours, Activities & eSIMs with Bitcoin. Secure & fast transactions today on BitcoinTravel.com">
+  <meta name="twitter:description"
+    content="Book your travel with exclusive Bitcoin payments using our web3 platform services. Find your flight tickets, hotels, activities, tours & the best Esim data plans online today to purchase with Bitcoin.">
+  <meta name="twitter:image" content="https://bitcointravel.com/assets/banner-logo-BChBLva7.png">
+  <meta name="twitter:image:alt" content="BitcoinTravel">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link rel="canonical" href="https://bitcointravel.com/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+  <title>Book Flights, Hotel, Tours, Activities & eSIMs with Bitcoin. Secure & fast transactions today on
+    BitcoinTravel.com</title>
+
+  <!-- Google tag (gtag.js) -->
+  <script async nonce="randomvalue" src="https://www.googletagmanager.com/gtag/js?id=G-V6562SY2Q2"></script>
+  <script nonce="randomvalue">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-V6562SY2Q2');
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://bitcointravel.com", 
+    "logo": ""
+  }
+  </script>
+
+  <script type="module" crossorigin src="/assets/index-DdKdemrS.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-WsSt0OEg.css">
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+</html>

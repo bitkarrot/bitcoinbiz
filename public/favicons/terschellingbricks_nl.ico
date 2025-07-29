@@ -1,0 +1,8 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script defer src="/.cloud/rum/beacon.js?v=1.0.8" class="elementor-browser-metrics" data-request-info='{"traceparent":"00-967059638baccf6d0000001753831250-967059638baccf6d-01","version":"1.0.8","endpoint":"/.cloud/rum/analytics","status":404,"ecSource":"static","instanceId":"unknown","userAgent":"curl/8.6.0"}'></script>
+</body>
+</html>

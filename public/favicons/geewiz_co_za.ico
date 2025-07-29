@@ -1,0 +1,1731 @@
+<!doctype html>
+<html lang="en"  class="default" >
+
+  <head>
+		<!-- // MOD 058.2: Add GTag script. -->
+<!--  	
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--			<script async src="https://www.googletagmanager.com/gtag/js?id='UA-16190543-1'"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+			  gtag('config', 'UA-16190543-1');
+			</script>
+		
+		<!-- // MOD 058.2 END -->
+<!--
+<script> 
+function initFreshChat() {
+window.fcWidget.init({
+token: "3baf7de2-2ea7-4156-991f-72466ec5629d",
+host: "https://wchat.freshchat.com"
+});
+}
+function initialize(i,t){
+var e;
+i.getElementById(t) ? initFreshChat() :
+((e=i.createElement("script")).id=t,
+e.async=!0,e.src="https://wchat.freshchat.com/js/widget.js",
+e.onload=initFreshChat,i.head.appendChild(e))
+}
+function initiateCall() {
+initialize(document,"freshchat-js-sdk")
+}
+window.addEventListener ?
+window.addEventListener("load",initiateCall,!1):
+window.attachEvent("load",initiateCall,!1);
+</script>-->
+
+
+    
+      <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+  <title>GeeWiz</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="pn6opfld6c7kj269uhuy6oxy1jrlgt" />
+<meta name="google-site-verification" content="fKSrxrlZQVxCaVFdUyjAk6JUzMSsrMKRbTXtrLbKfx8" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1666873966">
+<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1666873966">
+
+
+    <link rel="stylesheet" href="https://www.geewiz.co.za/themes/leo_bicmart/assets/cache/theme-5db6031525.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var LEO_COOKIE_THEME = "LEO_BICMART_PANEL_CONFIG";
+        var add_cart_error = "An error occurred while processing your request. Please try again";
+        var buttonwishlist_title_add = "Add to Wishlist";
+        var buttonwishlist_title_remove = "Remove from WishList";
+        var enable_dropdown_defaultcart = 1;
+        var enable_flycart_effect = 1;
+        var enable_notification = 0;
+        var height_cart_item = "135";
+        var isLogged = false;
+        var leo_token = "b7815dd67f8155f1463837c8a5d282d9";
+        var lf_is_gen_rtl = false;
+        var number_cartitem_display = 3;
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"R0.00"},"total_including_tax":{"type":"total","label":"Total (VAT incl.)","amount":0,"value":"R0.00"},"total_excluding_tax":{"type":"total","label":"Total (VAT excl.)","amount":0,"value":"R0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"R0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":"Free"},"tax":null},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"South African Rand","iso_code":"ZAR","iso_code_num":"710","sign":"R"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"d\/m\/Y","date_format_full":"d\/m\/Y H:i:s","id":1},"page":{"title":"The page you are looking for was not found.","canonical":null,"meta":{"title":"GeeWiz","description":"","keywords":"","robots":"index"},"page_name":"pagenotfound","body_classes":{"lang-en":true,"lang-rtl":false,"country-ZA":true,"currency-ZAR":true,"layout-full-width":true,"page-pagenotfound":true,"tax-display-enabled":true},"admin_notifications":[]},"shop":{"name":"GeeWiz","logo":"\/img\/geewiz-logo-1666872110.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/www.geewiz.co.za\/","current_url":"https:\/\/www.geewiz.co.za\/favicon.ico","shop_domain_url":"https:\/\/www.geewiz.co.za","img_ps_url":"https:\/\/www.geewiz.co.za\/img\/","img_cat_url":"https:\/\/www.geewiz.co.za\/img\/c\/","img_lang_url":"https:\/\/www.geewiz.co.za\/img\/l\/","img_prod_url":"https:\/\/www.geewiz.co.za\/img\/p\/","img_manu_url":"https:\/\/www.geewiz.co.za\/img\/m\/","img_sup_url":"https:\/\/www.geewiz.co.za\/img\/su\/","img_ship_url":"https:\/\/www.geewiz.co.za\/img\/s\/","img_store_url":"https:\/\/www.geewiz.co.za\/img\/st\/","img_col_url":"https:\/\/www.geewiz.co.za\/img\/co\/","img_url":"https:\/\/www.geewiz.co.za\/themes\/leo_bicmart\/assets\/img\/","css_url":"https:\/\/www.geewiz.co.za\/themes\/leo_bicmart\/assets\/css\/","js_url":"https:\/\/www.geewiz.co.za\/themes\/leo_bicmart\/assets\/js\/","pic_url":"https:\/\/www.geewiz.co.za\/upload\/","pages":{"address":"https:\/\/www.geewiz.co.za\/address","addresses":"https:\/\/www.geewiz.co.za\/addresses","authentication":"https:\/\/www.geewiz.co.za\/authentication","cart":"https:\/\/www.geewiz.co.za\/cart","category":"https:\/\/www.geewiz.co.za\/index.php?controller=category","cms":"https:\/\/www.geewiz.co.za\/index.php?controller=cms","contact":"https:\/\/www.geewiz.co.za\/contactus","discount":"https:\/\/www.geewiz.co.za\/discount","guest_tracking":"https:\/\/www.geewiz.co.za\/guest-tracking","history":"https:\/\/www.geewiz.co.za\/order-history","identity":"https:\/\/www.geewiz.co.za\/identity","index":"https:\/\/www.geewiz.co.za\/","my_account":"https:\/\/www.geewiz.co.za\/my-account","order_confirmation":"https:\/\/www.geewiz.co.za\/index.php?controller=order-confirmation","order_detail":"https:\/\/www.geewiz.co.za\/index.php?controller=order-detail","order_follow":"https:\/\/www.geewiz.co.za\/order-follow","order":"https:\/\/www.geewiz.co.za\/order","order_return":"https:\/\/www.geewiz.co.za\/index.php?controller=order-return","order_slip":"https:\/\/www.geewiz.co.za\/order-slip","pagenotfound":"https:\/\/www.geewiz.co.za\/index.php?controller=pagenotfound","password":"https:\/\/www.geewiz.co.za\/forgot-your-password","pdf_invoice":"https:\/\/www.geewiz.co.za\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/www.geewiz.co.za\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/www.geewiz.co.za\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/www.geewiz.co.za\/specials","product":"https:\/\/www.geewiz.co.za\/index.php?controller=product","search":"https:\/\/www.geewiz.co.za\/search","sitemap":"https:\/\/www.geewiz.co.za\/sitemap","stores":"https:\/\/www.geewiz.co.za\/stores","supplier":"https:\/\/www.geewiz.co.za\/suppliers","register":"https:\/\/www.geewiz.co.za\/authentication?create_account=1","order_login":"https:\/\/www.geewiz.co.za\/order?login=1"},"alternative_langs":{"en-us":"https:\/\/www.geewiz.co.za\/index.php?controller=pagenotfound"},"theme_assets":"\/themes\/leo_bicmart\/assets\/","actions":{"logout":"https:\/\/www.geewiz.co.za\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-small_default.jpg","width":100,"height":100},"cart_default":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-home_default.jpg","width":300,"height":300},"medium_default":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-small_default.jpg","width":100,"height":100},"medium":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-home_default.jpg","width":300,"height":300},"large":{"url":"https:\/\/www.geewiz.co.za\/img\/p\/en-default-large_default.jpg","width":800,"height":800},"legend":""},"loyaltyeditpoints_ajax_controller":"https:\/\/www.geewiz.co.za\/module\/loyaltyeditpoints\/ajax"},"configuration":{"display_taxes_label":true,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"price","label":"Price"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"https:\/\/www.geewiz.co.za\/"}],"count":1},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1753831317,"static_token":"b7815dd67f8155f1463837c8a5d282d9","token":"26929a5fd31003f496141cc2a09b7720"};
+        var prestashopFacebookAjaxController = "https:\/\/www.geewiz.co.za\/module\/ps_facebook\/Ajax";
+        var show_popup = 1;
+        var type_dropdown_defaultcart = "slidebar_right";
+        var type_flycart_effect = "fade";
+        var url_leoproductattribute = "https:\/\/www.geewiz.co.za\/module\/leofeature\/LeoProductAttribute";
+        var width_cart_item = "270";
+        var wishlist_add = "The product was successfully added to your wishlist";
+        var wishlist_cancel_txt = "Cancel";
+        var wishlist_confirm_del_txt = "Delete selected item?";
+        var wishlist_del_default_txt = "Cannot delete default wishlist";
+        var wishlist_email_txt = "Email";
+        var wishlist_loggin_required = "You must be logged in to manage your wishlist";
+        var wishlist_ok_txt = "Ok";
+        var wishlist_quantity_required = "You must enter a quantity";
+        var wishlist_remove = "The product was successfully removed from your wishlist";
+        var wishlist_reset_txt = "Reset";
+        var wishlist_send_txt = "Send";
+        var wishlist_send_wishlist_txt = "Send wishlist";
+        var wishlist_url = "https:\/\/www.geewiz.co.za\/module\/leofeature\/mywishlist";
+        var wishlist_viewwishlist = "View your wishlist";
+      </script>
+<script type="text/javascript">
+	var choosefile_text = "Choose file";
+	var turnoff_popup_text = "Do not show this popup again";
+
+	var size_item_quickview = 81;
+	var style_scroll_quickview = 'horizontal';
+	
+	var size_item_page = 105;
+	var style_scroll_page = 'horizontal';
+	
+	var size_item_quickview_attr = 81;	
+	var style_scroll_quickview_attr = 'horizontal';
+	
+	var size_item_popup = 150;
+	var style_scroll_popup = 'vertical';
+</script>
+
+
+
+  <!-- emarketing start -->
+
+
+<!-- emarketing end --><script type="text/javascript">
+	
+	var FancyboxI18nClose = "Close";
+	var FancyboxI18nNext = "Next";
+	var FancyboxI18nPrev = "Previous";
+	var current_link = "http://www.geewiz.co.za/";		
+	var currentURL = window.location;
+	currentURL = String(currentURL);
+	currentURL = currentURL.replace("https://","").replace("http://","").replace("www.","").replace( /#\w*/, "" );
+	current_link = current_link.replace("https://","").replace("http://","").replace("www.","");
+	var text_warning_select_txt = "Please select One to remove?";
+	var text_confirm_remove_txt = "Are you sure to remove footer row?";
+	var close_bt_txt = "Close";
+	var list_menu = [];
+	var list_menu_tmp = {};
+	var list_tab = [];
+	var isHomeMenu = 0;
+	
+</script>
+<style>
+    
+    @media only screen and (min-width: 100px) and (max-width: 568px) {
+        #popuppro {
+            display: none;
+        }
+
+        #popuppro_tablet {
+            display: none;
+        }
+
+        #popuppro_mobile {
+            display: block !important;
+        }
+    }
+
+    @media only screen and (min-width: 569px) and (max-width: 1025px) {
+        #popuppro {
+            display: none;
+        }
+
+        #popuppro_tablet {
+            display: block !important;
+        }
+
+        #popuppro_mobile {
+            display: none;
+        }
+    }
+
+    @media (min-width: 1026px) {
+        #popuppro {
+            display: block !important;
+        }
+
+        #popuppro_tablet {
+            display: none;
+        }
+
+        #popuppro_mobile {
+            display: none;
+        }
+    }
+
+    
+</style>
+                                                        
+                
+                
+
+                                
+
+                                
+                
+    
+                
+        
+        
+        
+    
+    
+                
+        
+                                                
+    
+                        
+                
+        
+                                                                
+                
+                
+
+                                
+
+                                
+                
+    
+                
+        
+        
+        
+    
+    
+                
+        
+                                                
+    
+                        
+                
+        
+                                                                
+                
+                
+
+                                
+
+                                
+                
+    
+                
+        
+        
+        
+    
+    
+                
+        
+                                                
+    
+                        
+                
+        
+                                                                
+                
+                
+
+                                
+
+                                
+                
+    
+                
+        
+        
+        
+    
+    
+                
+        
+                                                
+    
+                        
+                
+        
+                                                                
+                
+                
+
+                                
+
+                                
+                
+    
+                
+        
+        
+        
+    
+    
+                
+        
+                                                
+    
+                        
+                
+        
+        
+<style>
+    .alert-loyalty {
+        background-color: #1ac969;
+        border-color: #1ac969;
+        color: #333e48;
+    }
+
+    </style>
+
+<script type="text/javascript">
+    
+</script>
+
+<style>
+    .alert-loyalty {
+    font-weight: 500;
+    border-radius: 5px !important;
+}
+</style>
+<script language="javascript" type="text/javascript">
+	var currencySign = "R";
+	var currencyFormat = 1;
+	var currencyBlank = 1;
+	var priceDisplayPrecision = 2;
+</script>
+<script src="/modules/askforaquotemodul/views/js/tools.js"></script>
+            <script language="javascript" type="text/javascript">
+                var askquote_base_url="/";
+                var num_display="5";
+            </script>
+<script type="text/javascript" data-keepinline="true">
+    // instantiate object
+    var oGsr = {};
+    var bt_msgs = {"delay":"You have not filled out a numeric for delay option","fbId":"You have not filled out a numeric for Facebook App ID option","fbsecret":"You have not filled out Facebook App Secret option","reviewDate":"You have not filled out the review's date","title":"You have not filled out the title","comment":"You have not filled out the comment","report":"You have not filled out the report comment","rating":"You have not selected the rating for the review","checkreview":"You have not selected one review","email":"You have not filled out your email","status":"You didn't select any status","vouchercode":"You have not filled out the voucher code","voucheramount":"You have left 0 as value for voucher's value","voucherminimum":"Minimum amount is not a numeric","vouchermaximum":"Maximum quantity is not a numeric","vouchervalidity":"You have left 0 as value for voucher's validity","importMatching":"You have not filled the number of columns out","reviewModerationTxt":{"1":"You have not filled out your legal text for using a moderation with language English (English). Click on the language drop-down list in order to fill out the correct language field(s)."},"reviewModifyTxt":{"1":"You have not filled out your legal text for using a review modification tool with language English (English). Click on the language drop-down list in order to fill out the correct language field(s)."},"emailTitle":{"1":"You have not filled out your title or text with language English (English). Click on the language drop-down list in order to fill out the correct language field(s)."},"emaillCategory":{"1":"You have not filled out your category label with language English (English). Click on the language drop-down list in order to fill out the correct language field(s)."},"emaillProduct":{"1":"You have not filled out your product label with language English (English). Click on the language drop-down list in order to fill out the correct language field(s)."},"emaillSentence":{"1":"You have not filled out your custom body sentence with language English (English). Click on the language drop-down list in order to fill out the correct language field(s)."}};
+    var bt_sImgUrl = '/modules/gsnippetsreviews/views/img/';
+    var bt_sWebService = '/modules/gsnippetsreviews/ws-gsnippetsreviews.php?bt_token=3fdf871f2d73a99a5cc5b70623982830';
+    var sGsrModuleName = 'gsr';
+    var bt_aFancyReviewForm = {};
+    var bt_aFancyReviewTabForm = {};
+    var bt_oScrollTo = {};
+    bt_oScrollTo.execute = false;
+    var bt_oUseSocialButton = {};
+    bt_oUseSocialButton.run = false;
+    var bt_oActivateReviewTab = {};
+    bt_oActivateReviewTab.run = false;
+    var bt_oDeactivateReviewTab = {};
+    bt_oDeactivateReviewTab.run = false;
+    var bt_aReviewReport = new Array();
+    var bt_oCallback = {};
+    bt_oCallback.run = false;
+    var bt_aStarsRating = new Array();
+    var bt_oBxSlider = {};
+    bt_oBxSlider.run = false;
+</script>    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#ffffff",
+                        "text": "#000000"
+                    },
+                    "button": {
+                                                "background": "#00da2d",
+                        "text": "#ffffff"
+                                            }
+                },
+                                                                                                                "content": {
+                    "message": "We use cookies to offer you a better user experience and analyse site traffic. By continuing to use this website, you consent to the use of cookies in accordance with our Privacy Policy",
+                    "dismiss": "Got It",
+                    "link": "Learn More",
+                    "href": "https://www.geewiz.co.za/content/10-privacy-policy"
+                                    }
+            })});
+    </script>
+<!--Module: ets_socicallogin -->
+<script type="text/javascript">
+    var ets_solo_callbackUrl = 'https://www.geewiz.co.za/module/ets_sociallogin/oauth';
+</script>
+<!-- // MOD 110.1: Remove redundant front.js script. Causes HTTP over HTTPS error. -->
+<!-- // MOD 110.1 END -->
+<!--/Module: ets_socicallogin-->
+
+
+
+
+
+<script type="text/javascript">
+
+    const ETS_AC_LINK_SUBMIT_LEAD_FORM = "https://www.geewiz.co.za/lead/";
+
+    const ETS_AC_TRANS = {};
+
+    ETS_AC_TRANS.captchv2_invalid = "Please verify captcha";
+
+</script>
+
+<script type="text/javascript">
+
+	/*---init defines---*/
+
+
+
+    var ets_abancart_has_browser="";var ets_abancart_close_title="Close";var copied_translate="Copied";
+	var ETS_ABANCART_LINK_AJAX='https://www.geewiz.co.za/module/ets_abandonedcart/request';
+	
+    
+    var ETS_ABANCART_LINK_SHOPPING_CART='https://www.geewiz.co.za/my-shopping-carts';
+
+
+    /*---end init defines---*/
+
+	/*---init favicon---*/
+
+
+
+    
+    
+    
+    
+
+
+	/*---end init favicon---*/
+
+
+
+</script>    <script src="//code.tidio.co/6irtekyv4vbqdjkn5hhzbmumxfqqsmmk.js" async></script>
+
+
+    <meta id="js-rcpgtm-tracking-config" data-tracking-data="%7B%22bing%22%3A%7B%22tracking_id%22%3A%22%22%2C%22feed%22%3A%7B%22id_product_prefix%22%3A%22%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%7D%2C%22context%22%3A%7B%22browser%22%3A%7B%22device_type%22%3A1%7D%2C%22localization%22%3A%7B%22id_country%22%3A30%2C%22country_code%22%3A%22ZA%22%2C%22id_currency%22%3A1%2C%22currency_code%22%3A%22ZAR%22%2C%22id_lang%22%3A1%2C%22lang_code%22%3A%22en%22%7D%2C%22page%22%3A%7B%22controller_name%22%3A%22pagenotfound%22%2C%22products_per_page%22%3A30%2C%22category%22%3A%5B%5D%2C%22search_term%22%3A%22%22%7D%2C%22shop%22%3A%7B%22id_shop%22%3A1%2C%22shop_name%22%3A%22GeeWiz%22%2C%22base_dir%22%3A%22https%3A%2F%2Fwww.geewiz.co.za%2F%22%7D%2C%22tracking_module%22%3A%7B%22module_name%22%3A%22rcpgtagmanager%22%2C%22checkout_module%22%3A%7B%22module%22%3A%22default%22%2C%22controller%22%3A%22order%22%7D%2C%22service_version%22%3A%227%22%2C%22token%22%3A%229ee9bf20a2c56b211830a32b9f9791d6%22%7D%2C%22user%22%3A%5B%5D%7D%2C%22criteo%22%3A%7B%22tracking_id%22%3A%22%22%2C%22feed%22%3A%7B%22id_product_prefix%22%3A%22%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%7D%2C%22facebook%22%3A%7B%22tracking_id%22%3A%22129815851952218%22%2C%22feed%22%3A%7B%22id_product_prefix%22%3A%22%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%7D%2C%22ga4%22%3A%7B%22tracking_id%22%3A%22G-HB2LV0CFR8%22%2C%22is_data_import%22%3Afalse%7D%2C%22gads%22%3A%7B%22tracking_id%22%3A%221017924707%22%2C%22merchant_id%22%3A%22118920271%22%2C%22conversion_labels%22%3A%7B%22create_account%22%3A%22%22%2C%22product_view%22%3A%22%22%2C%22add_to_cart%22%3A%22%22%2C%22begin_checkout%22%3A%22%22%2C%22purchase%22%3A%22kCq_CPqLuoYDEOOYseUD%22%7D%7D%2C%22gfeeds%22%3A%7B%22retail%22%3A%7B%22is_enabled%22%3Atrue%2C%22id_product_prefix%22%3A%22SHOPZA%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22v%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%2C%22custom%22%3A%7B%22is_enabled%22%3Atrue%2C%22id_product_prefix%22%3A%22SHOP%7BCOUNTY%7D%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22v%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%2C%22is_id2%22%3Atrue%7D%7D%2C%22gtm%22%3A%7B%22tracking_id%22%3A%22GTM-TW5N38J%22%2C%22is_disable_tracking%22%3Afalse%2C%22server_url%22%3A%22https%3A%2F%2Fcarwingmirrorglass.co.uk%2Fwp-content%2Fuploads%2F2021%2F10%2Fjqeury.js%22%7D%2C%22optimize%22%3A%7B%22tracking_id%22%3A%22%22%2C%22is_async%22%3Afalse%2C%22hiding_class_name%22%3A%22optimize-loading%22%2C%22hiding_timeout%22%3A3000%7D%2C%22pinterest%22%3A%7B%22tracking_id%22%3A%22%22%2C%22feed%22%3A%7B%22id_product_prefix%22%3A%22%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%7D%2C%22tiktok%22%3A%7B%22tracking_id%22%3A%22%22%2C%22feed%22%3A%7B%22id_product_prefix%22%3A%22%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%7D%2C%22twitter%22%3A%7B%22tracking_id%22%3A%22%22%2C%22events%22%3A%7B%22add_to_cart_id%22%3A%22%22%2C%22payment_info_id%22%3A%22%22%2C%22checkout_initiated_id%22%3A%22%22%2C%22product_view_id%22%3A%22%22%2C%22lead_id%22%3A%22%22%2C%22purchase_id%22%3A%22%22%2C%22search_id%22%3A%22%22%7D%2C%22feed%22%3A%7B%22id_product_prefix%22%3A%22%22%2C%22id_product_source_key%22%3A%22id_product%22%2C%22id_variant_prefix%22%3A%22%22%2C%22id_variant_source_key%22%3A%22id_attribute%22%7D%7D%7D">
+    <script type="text/javascript" data-keepinline="true" data-cfasync="false" src="/modules/rcpgtagmanager/views/js/hook/trackingClient.bundle.js"></script>
+<!-- @file modules\appagebuilder\views\templates\hook\header -->
+
+<script>
+	/**
+	 * List functions will run when document.ready()
+	 */
+	var ap_list_functions = [];
+	/**
+	 * List functions will run when window.load()
+	 */
+	var ap_list_functions_loaded = [];
+
+	/**
+	 * List functions will run when document.ready() for theme
+	 */
+
+	var products_list_functions = [];
+</script>
+
+
+<script type='text/javascript'>
+	var leoOption = {
+		category_qty:1,
+		product_list_image:1,
+		product_one_img:1,
+		productCdown: 1,
+		productColor: 0,
+		homeWidth: 300,
+		homeheight: 300,
+	}
+
+	ap_list_functions.push(function(){
+		if (typeof $.LeoCustomAjax !== "undefined" && $.isFunction($.LeoCustomAjax)) {
+			var leoCustomAjax = new $.LeoCustomAjax();
+			leoCustomAjax.processAjax();
+		}
+	});
+</script>
+
+
+	
+	
+  </head>
+<!--<script>
+	(function(d,t) {
+		var BASE_URL="http://chatwoot-rails-api-service:80";
+		var CDN_URL="https://chat-widget.hiverhq.com/chat-widget";
+		var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+		g.src=CDN_URL+"/js/sdk.js";
+		g.defer = true;
+		g.async = true;
+		s.parentNode.insertBefore(g,s);
+		g.onload=function(){
+			window.chatwootSDK.run({
+				websiteToken: 'XA9mE1qvBRVazHBB19rbNswY',
+				baseUrl: BASE_URL
+			})
+		}
+	})(document,"script");
+</script>-->
+
+  <body id="pagenotfound" class="lang-en country-za currency-zar layout-full-width page-pagenotfound tax-display-enabled  keep-header ">
+
+    
+      
+    
+
+    <main id="page" class="full-width-page">
+      
+              
+      <header id="header">
+        <div class="header-container">
+          
+            
+  <div class="header-banner">
+          <div class="container">
+              <div class="inner"><!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+    <div        class="row ApRow  "
+                            style=""                >
+                                            <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-xs-12 col-sp-12 group-left-header p-0 ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApGeneral -->
+<div     class="block ApRawHtml">
+	                    <div class="d-flex align-center"><i class="fa fa-truck mr-1" title="FREE Shipping over R650*"></i><span class="">FREE Shipping<br />over R650*</span></div><div class="d-flex align-center ml-2"><i class="fa fa-lock mr-1" title="Secure Checkout"></i><span class="">Secure<br />Checkout</span></div><div class="d-flex align-center ml-2 hidden-lg-down"><i class="fa fa-certificate mr-1" title="Satisfaction Guarantee"></i><span class="">Satisfaction<br />Guarantee</span></div><div class="d-flex align-center ml-2 hidden-xl-down"><i class="fa fa-handshake-o mr-1" title="700+ Positive Google Reviews"></i><span class="">700+ Positive<br />Google Reviews</span></div><div class="d-flex align-center ml-2 hidden-xs-down"><i class="fa fa-thumbs-o-up mr-1" title="7 Day Returns*"></i><span class="">7 Day<br/>Returns*</span></div>    	</div>
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-12 col-sp-12 group-right-header p-0 ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+<div class="userinfo-selector links dropdown js-dropdown popup-over">
+  <a href="javascript:void(0)" data-toggle="dropdown" class="popup-title" title="Account">
+    <i class="material-icons">settings</i>
+    <i class="fa fa-angle-down icon-arrown-down"></i>
+ </a>
+  <!-- MOD 126.0 -->
+  <div class="popup-content-x dropdown-menu">
+  <!-- MOD 126.0 -->
+    <ul class="user-info">
+              <li>
+          <a
+            class="signin dropdown-item"
+            href="https://www.geewiz.co.za/my-account"
+            title="Log in to your customer account"
+            rel="nofollow"
+          >
+            <span>Sign in</span>
+          </a>
+        </li>
+            <li>
+        <a
+          class="myacount dropdown-item"
+          href="https://www.geewiz.co.za/my-account"
+          title="My account"
+          rel="nofollow"
+        >
+          <span>My account</span>
+        </a>
+      </li>
+      <!-- // MOD 009.2: Add additional menu item. -->
+      <li>
+        <a
+          class="return-manager dropdown-item"
+          href="https://www.geewiz.co.za/module/wkrma/rmarequests"
+          title="My account"
+          rel="nofollow"
+        >
+          <span>Returns Manager</span>
+        </a>
+      </li>
+      <!-- // MOD 009.2 END -->
+              <li>
+          <a
+            class="ap-btn-wishlist dropdown-item"
+            href="//www.geewiz.co.za/module/leofeature/mywishlist"
+            title="Wishlist"
+            rel="nofollow"
+          >
+            <span>Wishlist</span>
+    		    <span class="ap-total-wishlist ap-total"></span>
+          </a>
+        </li>
+    	    	      <li>
+        <a
+          class="checkout dropdown-item"
+          href="//www.geewiz.co.za/cart?action=show"
+          title="Checkout"
+          rel="nofollow"
+        >
+          <span>Checkout</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+<!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+<div id="cart-block">
+  <div class="blockcart cart-preview inactive" data-refresh-url="//www.geewiz.co.za/module/ps_shoppingcart/ajax">
+    <div class="header">
+              <i class="shopping-cart"></i>
+        <span class="hidden-sm-down title-cart">Cart</span>
+        <span class="cart-products-count">0</span>
+          </div>
+  </div>
+</div>
+<!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+<!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+
+    </div>            </div>
+    </div>
+          </div>
+        </div>
+
+
+
+  <nav class="header-nav">
+    <div class="topnav">
+            <div class="container">
+              <div class="inner"></div>
+            </div>
+          </div>
+    <div class="bottomnav">
+              <div class="container">
+              <div class="inner"><script language="javascript" type="text/javascript">
+    var token_askaquotemodule = "cb10f35b125ba39ec248ed8303ca83c1";
+    var option_show_captcha = "0";
+    var check_id_customer = "0";
+    var ss_id = "317af9c25bca54b227d38be04d381736";
+    var url_php = "https://www.geewiz.co.za/";
+    var sign_currency = "R";
+    var option_addtocart = "0";
+    var success = "Su solicitud de cotización está completa, Gracias.";
+    var quote_l = "Quotes";
+    var empty_l = "(empty)";
+    var product_l = "product";
+    var products_l = "products";
+    var cart_total_l = "Cart total:";
+    var table_header_sku = "SKU:";
+    var table_header_Total_2 = "Total:";
+    var x_l = "x";
+    var success_message = "Your message has been successfully sent to our team.";
+    var click_ask_success = "Product successfully added to your quote cart!";
+    var no_product_in_quote = "No product in your quote";
+    var check_vs = "1";
+</script>
+<style type="text/css">@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/greek/600/normal.woff2);unicode-range:U+0370-03FF;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/cyrillic-ext/600/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/greek-ext/600/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/latin/600/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/latin-ext/600/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/cyrillic/600/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/hebrew/600/normal.woff2);unicode-range:U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/vietnamese/600/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style>
+<link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+
+<div class="ask_quote td_quote_top  hookdisplayNav2">
+	<div class = "td_ask_quote">
+		<div class = "quotes" >
+			<a  href = "https://www.geewiz.co.za/module/askforaquotemodul/quotes" style = "font-size:17px;cursor:pointer;" class="td_cart_quote" >
+				<i id="bag" class="ion-bag"></i>
+			</a>
+								<span style = "font-size:11px;cursor:pointer;" class = "number_product_dbboo td_number_product_dbboo" id= "0">0</span>
+					
+		</div>
+	<span class = "block_quotes td_block_quotes">
+		<div class="quotes_cart_block td_quotes_cart_block" id="box-body"  style="display:none"  >
+    		<div class = "quote_body td_quote_body">
+    							
+    								<div class="td_quotes-cart-prices quotes-cart-prices">
+						<span class="td_total" style="float: left;width: 50px;font-weight: 700;">Total: </span>
+						<span class="quotes-cart-total td_total" style = "float:right;">
+							R0.00
+						</span>
+					</div>
+	                				
+    		</div>
+    		<div class = "quote_button check_box td_quote_button">
+				<div class = "btn_quote check_box td_btn_quote">
+					<a class = "btn btn-default_mine td_view_list" href= "https://www.geewiz.co.za/module/askforaquotemodul/quotes" >
+						View list
+					</a>
+				</div>
+			</div>
+    	</div>
+		
+    </span>
+	</div>
+</div>
+	
+<div class="ets_solo_social_wrapper hover slw_and_alw slw pos_right mobile">
+                <div class="ets_solo_slide_widget">
+            <span class="ets_solo_title">
+                            <i class="material-icons">perm_identity</i>
+            <br/>
+            Sign In</span>
+        </div>
+        <style type="text/css">
+            
+            .ets_solo_slide_widget:not(.active){
+                background-color:#2fb5d2;
+                color:#ffffff;
+            }
+            
+            .ets_solo_slide_widget:not(.active):hover{
+                background-color:#2592a9;
+            }
+        </style>
+                        <span class="ets_solo_account_close button" title="">
+                <span class="text_close">Close</span>
+            </span>
+            <span class="ets_solo_account_close overlay">
+
+            </span>
+            <div class="ets_solo_wrapper_content slw_and_alw slw">
+
+                                <h3 class="ets_solo_social_title">
+                Log in with social account
+            </h3>
+                    
+                <ul class="ets_solo_social">
+                                                                                        <li class="ets_solo_social_item item_type_custom facebook active google_new_desginer"  data-auth="Facebook">
+
+                        <span class="ets_solo_social_btn medium rounded custom">
+
+                                                                                
+                                <i title="Facebook"
+                                   class="">
+
+                                                                            <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z"/></svg>
+                                                                    </i>
+                                                                                                                                                                                                                Login with Facebook                                            </span>
+                    </li>
+                                                                                <li class="ets_solo_social_item item_type_custom google active google_new_desginer"  data-auth="Google">
+
+                        <span class="ets_solo_social_btn medium rounded custom">
+
+                                                                                                                <i class="svg_gl">
+                                <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="96px" height="96px">
+                                <path fill="#FFC107" d="M43.611,20.083H42V20H24v8h11.303c-1.649,4.657-6.08,8-11.303,8c-6.627,0-12-5.373-12-12c0-6.627,5.373-12,12-12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C12.955,4,4,12.955,4,24c0,11.045,8.955,20,20,20c11.045,0,20-8.955,20-20C44,22.659,43.862,21.35,43.611,20.083z"/>
+                                <path fill="#FF3D00" d="M6.306,14.691l6.571,4.819C14.655,15.108,18.961,12,24,12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C16.318,4,9.656,8.337,6.306,14.691z"/>
+                                <path fill="#4CAF50" d="M24,44c5.166,0,9.86-1.977,13.409-5.192l-6.19-5.238C29.211,35.091,26.715,36,24,36c-5.202,0-9.619-3.317-11.283-7.946l-6.522,5.025C9.505,39.556,16.227,44,24,44z"/>
+                                <path fill="#1976D2" d="M43.611,20.083H42V20H24v8h11.303c-0.792,2.237-2.231,4.166-4.087,5.571c0.001-0.001,0.002-0.001,0.003-0.002l6.19,5.238C36.971,39.205,44,34,44,24C44,22.659,43.862,21.35,43.611,20.083z"/>
+                                </svg>
+                                </i>
+                                                                                                                                                                                                                Login with Google                                            </span>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                    
+                            <div class="ets_solo_or"><span>Or</span></div>
+            <section class="solo-login-form">
+                <form class="solo-login-form-slw" data-hook="slw" action="https://www.geewiz.co.za/module/ets_sociallogin/oauth" method="post">
+                    <section>
+                        <div class="form-group row ">
+                            <div class="col-md-12">
+                                <input class="form-control" name="email" value="" placeholder="Enter your email..." required="" type="email">
+                            </div>
+                        </div>
+                        <div class="form-group row ">
+                            <div class="col-md-12">
+                                <input class="form-control js-child-focus js-visible-password" placeholder="Enter your password..." name="password" value="" pattern=".{5,}" required="" type="password">
+                            </div>
+                        </div>
+                    </section>
+                    <footer class="form-footer text-sm-center clearfix">
+                                                <input name="ajax" value="1" type="hidden">
+                        <input name="solo_submitLogin" value="1" type="hidden">
+                                                <button class="solo-submit-login-slw btn btn-primary" data-link-action="sign-in" type="submit">Login</button>
+                        <div class="forgot-password">
+                            <a href="https://www.geewiz.co.za/forgot-your-password" rel="nofollow">Forgot your password?</a>
+                        </div>
+                        <div class="no-account">
+                            <a href="https://www.geewiz.co.za/authentication?create_account=1" data-link-action="display-register-form">No account? Create one here</a>
+                        </div>
+                    </footer>
+                </form>
+            </section>
+                            </div>
+    </div>
+
+</div>
+              </div>
+          </div>
+  </nav>
+
+
+
+  <div class="header-top">
+          <div class="inner"><!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+    <div        class="row box-header gw-custom-header ApRow  has-bg bg-boxed"
+                            style="background: no-repeat;"        data-bg_data=" no-repeat"        >
+                                            <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-2 col-lg-2 col-md-12 col-sm-12 col-xs-12 col-sp-12 group-left-header ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApGenCode -->
+
+	<a href="https://www.geewiz.co.za/" title="GeeWiz"><img class="logo img-fluid" src="/img/geewiz-logo-1666872110.jpg" alt="GeeWiz"/></a>
+
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-7 col-lg-8 col-md-10 col-sm-10 col-xs-6 col-sp-10 group-center-header ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApSlideShow -->
+<div id="memgamenu-form_36559723632386995" class="ApMegamenu">
+			    
+                <nav data-megamenu-id="36559723632386995" class="leo-megamenu cavas_menu navbar navbar-default enable-canvas horizontal-top-menu" role="navigation">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header">
+                                    <button type="button" class="navbar-toggler hidden-lg-up" data-toggle="collapse" data-target=".megamenu-off-canvas-36559723632386995">
+                                            <span class="sr-only">Toggle navigation</span>
+                                            &#9776;
+                                            <!--
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            -->
+                                    </button>
+                            </div>
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                                                        <div class="leo-top-menu collapse navbar-toggleable-md megamenu-off-canvas megamenu-off-canvas-36559723632386995"><ul class="nav navbar-nav megamenu horizontal"><li data-menu-type="url" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za" target="_self">
+                    
+                    <span class="menu-title">Home</span>
+                                    </a>
+</li><li data-menu-type="controller" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/index.php?controller=pricesdrop" target="_self">
+                    
+                    <span class="menu-title">Specials</span>
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/1246-load-shedding-solutions" target="_self">
+                    
+                    <span class="menu-title">Load Shedding Solutions</span>
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/1938-bargain-bin" target="_self">
+                    
+                    <span class="menu-title">Bargain Bin</span>
+                                    </a>
+</li><li data-menu-type="controller" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/contactus" target="_self">
+                    
+                    <span class="menu-title">Contact Us</span>
+                                    </a>
+</li><li data-menu-type="cms" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/content/4-about-us" target="_self">
+                    
+                    <span class="menu-title">About Us</span>
+                                    </a>
+</li><li data-menu-type="cms" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/content/13-payabill" target="_self">
+                    
+                    <span class="menu-title">B2B Finance</span>
+                                    </a>
+</li><li data-menu-type="controller" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/index.php?controller=bestsales" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="url" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/module/myyotpo/testimonials" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="controller" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/index.php?controller=pricesdrop" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li><li data-menu-type="category" class="nav-item  " >
+    <a class="nav-link has-category" href="https://www.geewiz.co.za/2-categories" target="_self">
+                    
+                                    </a>
+</li></ul></div>
+            </nav>
+            <script type="text/javascript">
+            // <![CDATA[				
+                            // var type="horizontal";
+                            // checkActiveLink();
+                            // checkTarget();
+                            list_menu_tmp.id = '36559723632386995';
+                            list_menu_tmp.type = 'horizontal';
+            // ]]>
+            
+                                						
+                                    // offCanvas();
+                                    // var show_cavas = 1;
+                                    // console.log('testaaa');
+                                    // console.log(show_cavas);
+                                    list_menu_tmp.show_cavas =1;
+
+                    
+                                        
+                    list_menu_tmp.list_tab = list_tab;
+                    list_menu.push(list_menu_tmp);
+                    list_menu_tmp = {};	
+                    list_tab = {};
+                    
+            </script>
+    
+	</div>
+
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-3 col-lg-2 col-md-2 col-sm-2 col-xs-5 col-sp-2 group-right-header ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+<!-- Block search module TOP -->
+<div id="search_widget" class="search-widget popup-over" data-search-controller-url="//www.geewiz.co.za/search">
+	<a data-target="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="float-xs-right hidden-xl-up popup-title">
+	    <i class="material-icons search">&#xE8B6;</i>
+	</a>
+	<form method="get" action="//www.geewiz.co.za/search" class="search-widget popup-content">
+		<input type="hidden" name="controller" value="search">
+		<input type="text" name="s" value="" placeholder="Search our catalogue" aria-label="Search">
+		<button type="submit">
+			<i class="material-icons search">&#xE8B6;</i>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+
+    </div>            </div>
+    <script language="javascript" type="text/javascript">
+    var token_askaquotemodule = "cb10f35b125ba39ec248ed8303ca83c1";
+    var option_show_captcha = "0";
+    var check_id_customer = "0";
+    var ss_id = "317af9c25bca54b227d38be04d381736";
+    var url_php = "https://www.geewiz.co.za/";
+    var sign_currency = "R";
+    var option_addtocart = "0";
+    var success = "Su solicitud de cotización está completa, Gracias.";
+    var quote_l = "Quotes";
+    var empty_l = "(empty)";
+    var product_l = "product";
+    var products_l = "products";
+    var cart_total_l = "Cart total:";
+    var table_header_sku = "SKU:";
+    var table_header_Total_2 = "Total:";
+    var x_l = "x";
+    var success_message = "Your message has been successfully sent to our team.";
+    var click_ask_success = "Product successfully added to your quote cart!";
+    var no_product_in_quote = "No product in your quote";
+    var check_vs = "1";
+</script>
+<style type="text/css">@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/cyrillic/600/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/vietnamese/600/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/greek/600/normal.woff2);unicode-range:U+0370-03FF;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/greek-ext/600/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/latin/600/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/cyrillic-ext/600/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/hebrew/600/normal.woff2);unicode-range:U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:Open Sans;font-style:normal;font-weight:600;src:url(/cf-fonts/s/open-sans/5.0.20/latin-ext/600/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+<link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+
+<div class="ask_quote td_quote_top  hookdisplayTop">
+	<div class = "td_ask_quote">
+		<div class = "quotes" >
+			<a  href = "https://www.geewiz.co.za/module/askforaquotemodul/quotes" style = "font-size:17px;cursor:pointer;" class="td_cart_quote" >
+				<i id="bag" class="ion-bag"></i>
+			</a>
+								<span style = "font-size:11px;cursor:pointer;" class = "number_product_dbboo td_number_product_dbboo" id= "0">0</span>
+					
+		</div>
+	<span class = "block_quotes td_block_quotes">
+		<div class="quotes_cart_block td_quotes_cart_block" id="box-body"  style="display:none"  >
+    		<div class = "quote_body td_quote_body">
+    							
+    								<div class="td_quotes-cart-prices quotes-cart-prices">
+						<span class="td_total" style="float: left;width: 50px;font-weight: 700;">Total: </span>
+						<span class="quotes-cart-total td_total" style = "float:right;">
+							R0.00
+						</span>
+					</div>
+	                				
+    		</div>
+    		<div class = "quote_button check_box td_quote_button">
+				<div class = "btn_quote check_box td_btn_quote">
+					<a class = "btn btn-default_mine td_view_list" href= "https://www.geewiz.co.za/module/askforaquotemodul/quotes" >
+						View list
+					</a>
+				</div>
+			</div>
+    	</div>
+		
+    </span>
+	</div>
+</div>
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+ <div class="td_dp_popup" id="dp_popup">
+        <div class="clearfix">
+            <div class="td_content_popup content_popup">
+            <div class="td_popup-header popup-header">
+                <h3 class="modal-title h6 text-xs-center" id="myModalLabel">
+                    <i class="fa fa-check"></i>
+                    Product successfully added to quote!
+                </h3>
+                <button id="close" class="td_close" >
+                    <span aria-hidden="true">×</span>
+                </button>
+              </div>
+                
+                <div class="div_button" >
+                    <div class="td_infor_product infor_product">
+                        
+                    </div>
+                    <div class="td_ppooppuupp">
+                        <p  class = "td_right_popup" >There are
+                            <span class="td_number_items"></span>
+                            items in your quote.
+                        </p>
+                                                    <p class="quotes-cart-total col-xs-12 col-lg-6 td_right_popup td_total td_total_popup" style = "text-align:left;width:43%;display:block;float:left;">Total Prices: 
+                                <span class="td_price_popup"></span>
+                            </p>
+                                            </div>
+                    <div class="td_button_popup">
+                        <span class="back_shopping btn btn-secondary button_cancel_popup td_button_cancel_popup">
+                            <span class="continue">
+                                Continue shopping
+                            </span>
+                        </span>
+                        <a class="btn btn-primary button_detail_quote td_button_detail_quote" href="https://www.geewiz.co.za/module/askforaquotemodul/quotes" rel="nofollow"><span class="go_to">
+                                <i class="fa fa-check"></i> Go to quote detail
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="td_background_popup background_popup"></div>
+
+<div class="ets_solo_social_wrapper hover slw_and_alw slw pos_right mobile">
+                <div class="ets_solo_slide_widget">
+            <span class="ets_solo_title">
+                            <i class="material-icons">perm_identity</i>
+            <br/>
+            Sign In</span>
+        </div>
+        <style type="text/css">
+            
+            .ets_solo_slide_widget:not(.active){
+                background-color:#2fb5d2;
+                color:#ffffff;
+            }
+            
+            .ets_solo_slide_widget:not(.active):hover{
+                background-color:#2592a9;
+            }
+        </style>
+                        <span class="ets_solo_account_close button" title="">
+                <span class="text_close">Close</span>
+            </span>
+            <span class="ets_solo_account_close overlay">
+
+            </span>
+            <div class="ets_solo_wrapper_content slw_and_alw slw">
+
+                                <h3 class="ets_solo_social_title">
+                Log in with social account
+            </h3>
+                    
+                <ul class="ets_solo_social">
+                                                                                        <li class="ets_solo_social_item item_type_custom facebook active google_new_desginer"  data-auth="Facebook">
+
+                        <span class="ets_solo_social_btn medium rounded custom">
+
+                                                                                
+                                <i title="Facebook"
+                                   class="">
+
+                                                                            <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z"/></svg>
+                                                                    </i>
+                                                                                                                                                                                                                Login with Facebook                                            </span>
+                    </li>
+                                                                                <li class="ets_solo_social_item item_type_custom google active google_new_desginer"  data-auth="Google">
+
+                        <span class="ets_solo_social_btn medium rounded custom">
+
+                                                                                                                <i class="svg_gl">
+                                <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="96px" height="96px">
+                                <path fill="#FFC107" d="M43.611,20.083H42V20H24v8h11.303c-1.649,4.657-6.08,8-11.303,8c-6.627,0-12-5.373-12-12c0-6.627,5.373-12,12-12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C12.955,4,4,12.955,4,24c0,11.045,8.955,20,20,20c11.045,0,20-8.955,20-20C44,22.659,43.862,21.35,43.611,20.083z"/>
+                                <path fill="#FF3D00" d="M6.306,14.691l6.571,4.819C14.655,15.108,18.961,12,24,12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C16.318,4,9.656,8.337,6.306,14.691z"/>
+                                <path fill="#4CAF50" d="M24,44c5.166,0,9.86-1.977,13.409-5.192l-6.19-5.238C29.211,35.091,26.715,36,24,36c-5.202,0-9.619-3.317-11.283-7.946l-6.522,5.025C9.505,39.556,16.227,44,24,44z"/>
+                                <path fill="#1976D2" d="M43.611,20.083H42V20H24v8h11.303c-0.792,2.237-2.231,4.166-4.087,5.571c0.001-0.001,0.002-0.001,0.003-0.002l6.19,5.238C36.971,39.205,44,34,44,24C44,22.659,43.862,21.35,43.611,20.083z"/>
+                                </svg>
+                                </i>
+                                                                                                                                                                                                                Login with Google                                            </span>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                    
+                            <div class="ets_solo_or"><span>Or</span></div>
+            <section class="solo-login-form">
+                <form class="solo-login-form-slw" data-hook="slw" action="https://www.geewiz.co.za/module/ets_sociallogin/oauth" method="post">
+                    <section>
+                        <div class="form-group row ">
+                            <div class="col-md-12">
+                                <input class="form-control" name="email" value="" placeholder="Enter your email..." required="" type="email">
+                            </div>
+                        </div>
+                        <div class="form-group row ">
+                            <div class="col-md-12">
+                                <input class="form-control js-child-focus js-visible-password" placeholder="Enter your password..." name="password" value="" pattern=".{5,}" required="" type="password">
+                            </div>
+                        </div>
+                    </section>
+                    <footer class="form-footer text-sm-center clearfix">
+                                                <input name="ajax" value="1" type="hidden">
+                        <input name="solo_submitLogin" value="1" type="hidden">
+                                                <button class="solo-submit-login-slw btn btn-primary" data-link-action="sign-in" type="submit">Login</button>
+                        <div class="forgot-password">
+                            <a href="https://www.geewiz.co.za/forgot-your-password" rel="nofollow">Forgot your password?</a>
+                        </div>
+                        <div class="no-account">
+                            <a href="https://www.geewiz.co.za/authentication?create_account=1" data-link-action="display-register-form">No account? Create one here</a>
+                        </div>
+                    </footer>
+                </form>
+            </section>
+                            </div>
+    </div>
+
+</div>
+          </div>
+  
+
+          
+        </div>
+      </header>
+      
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+      <section id="wrapper">
+        
+                  <div class="row">
+            
+
+            
+  <div id="content-wrapper" class="col-lg-12 col-xs-12">
+  	
+      <nav data-depth="1" class="breadcrumb">
+  <ol  >
+  
+                      
+            <li   >
+              <a  href="https://www.geewiz.co.za/">
+                <span >Home</span>
+              </a>
+              <meta  content="1">
+            </li>
+          
+              
+  </ol>
+</nav>
+    
+    
+
+  <section id="main">
+
+    
+      
+        <header class="page-header">
+          <h1>
+  The page you are looking for was not found.
+</h1>
+        </header>
+      
+    
+
+    
+  <section id="content" class="page-content page-not-found">
+  
+  
+          <h4>Sorry for the inconvenience, but the Web address you&#039;ve entered is no longer available.</h4>
+    
+    <p>No search results found. Please try a new search below:</p>
+    
+    
+      <!-- Block search module TOP -->
+<div id="search_widget" class="search-widget popup-over" data-search-controller-url="//www.geewiz.co.za/search">
+	<a data-target="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="float-xs-right hidden-xl-up popup-title">
+	    <i class="material-icons search">&#xE8B6;</i>
+	</a>
+	<form method="get" action="//www.geewiz.co.za/search" class="search-widget popup-content">
+		<input type="hidden" name="controller" value="search">
+		<input type="text" name="s" value="" placeholder="Search our catalogue" aria-label="Search">
+		<button type="submit">
+			<i class="material-icons search">&#xE8B6;</i>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+
+    
+
+    <a href="https://www.geewiz.co.za/" class="back-to-home" title="Back to home"><span>Back to home</span><i class="fa fa-arrow-circle-right"></i></a>
+
+    
+      
+    
+
+  
+</section>
+
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+    
+  </div>
+
+
+            
+          </div>
+        	      
+      </section>
+
+      <footer id="footer" class="footer-container">
+        
+          
+  <div class="footer-top">
+          <div class="inner"><!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+    <div        class="row box-top-footer ApRow  has-bg bg-boxed"
+                            style="background: no-repeat;"        data-bg_data=" no-repeat"        >
+                                            <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-4 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-sp-12 left-top-footer ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+<div class="block_newsletter block">
+  <div class="box-title">
+    <h3 id="block-newsletter-label" class="title_block">Get Newsletter</h3>
+          <p class="sub-title">Subscribe to be the first to receive exclusive promotions, specials and our best deals</p>
+      </div>
+  <div class="block_content">
+    <div class="row">
+      <div class="col-xs-12">
+        <form action="https://www.geewiz.co.za/#footer" method="post">
+          <div class="input-wrapper">
+            <input
+              name="email"
+              type="email"
+              value=""
+              placeholder="Your email address"
+	      aria-labelledby="block-newsletter-label"
+            >
+          </div>
+          <button
+            class="btn btn-outline float-xs-right"
+            name="submitNewsletter"
+            type="submit"
+            value="Subscribe"
+          >
+            <i class="fa fa-envelope"></i><span>Subscribe</span>
+          </button>
+          <input type="hidden" name="action" value="0">
+        </form>
+                          <div id="gdpr_consent" class="gdpr_module_17">
+    <span class="custom-checkbox">
+        <label class="psgdpr_consent_message">
+            <input id="psgdpr_consent_checkbox_17" name="psgdpr_consent_checkbox" type="checkbox" value="1" class="psgdpr_consent_checkboxes_17">
+            <span><i class="material-icons rtl-no-flip checkbox-checked psgdpr_consent_icon"></i></span>
+            <span>I understand and agree to GeeWiz's <a href="https://www.geewiz.co.za/content/10-privacy-policy">privacy policy</a></span>        </label>
+    </span>
+</div>
+
+<script type="text/javascript">
+    var psgdpr_front_controller = "https://www.geewiz.co.za/module/psgdpr/FrontAjaxGdpr";
+    psgdpr_front_controller = psgdpr_front_controller.replace(/\amp;/g,'');
+    var psgdpr_id_customer = "0";
+    var psgdpr_customer_token = "da39a3ee5e6b4b0d3255bfef95601890afd80709";
+    var psgdpr_id_guest = "0";
+    var psgdpr_guest_token = "4d6b39145c77ef8243c89984695a2fc788633e7e";
+
+    document.addEventListener('DOMContentLoaded', function() {
+        let psgdpr_id_module = "17";
+        let parentForm = $('.gdpr_module_' + psgdpr_id_module).closest('form');
+
+        let toggleFormActive = function() {
+            let parentForm = $('.gdpr_module_' + psgdpr_id_module).closest('form');
+            let checkbox = $('#psgdpr_consent_checkbox_' + psgdpr_id_module);
+            let element = $('.gdpr_module_' + psgdpr_id_module);
+            let iLoopLimit = 0;
+
+            // by default forms submit will be disabled, only will enable if agreement checkbox is checked
+            if (element.prop('checked') != true) {
+                element.closest('form').find('[type="submit"]').attr('disabled', 'disabled');
+            }
+            $(document).on("change" ,'.psgdpr_consent_checkboxes_' + psgdpr_id_module, function() {
+                if ($(this).prop('checked') == true) {
+                    $(this).closest('form').find('[type="submit"]').removeAttr('disabled');
+                } else {
+                    $(this).closest('form').find('[type="submit"]').attr('disabled', 'disabled');
+                }
+
+            });
+        }
+
+        // Triggered on page loading
+        toggleFormActive();
+
+        $(document).on('submit', parentForm, function(event) {
+            $.ajax({
+                data: 'POST',
+                url: psgdpr_front_controller,
+                data: {
+                    ajax: true,
+                    action: 'AddLog',
+                    id_customer: psgdpr_id_customer,
+                    customer_token: psgdpr_customer_token,
+                    id_guest: psgdpr_id_guest,
+                    guest_token: psgdpr_guest_token,
+                    id_module: psgdpr_id_module,
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+            });
+        });
+    });
+</script>
+
+
+              </div>
+    </div>
+  </div>
+</div>
+
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-4 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-sp-12 right-top-footer ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApModule -->
+
+  <div class="block-social block">
+  	<h3 class="title_block">Follow us</h3>
+    <ul>
+              <li class="facebook"><a href="https://www.facebook.com/geewizsa" target="_blank">Facebook</a></li>
+              <li class="twitter"><a href="https://twitter.com/geewizsa" target="_blank">Twitter</a></li>
+              <li class="pinterest"><a href="https://za.pinterest.com/geewizsa/" target="_blank">Pinterest</a></li>
+              <li class="instagram"><a href="https://www.instagram.com/geewiz_sa/" target="_blank">Instagram</a></li>
+          </ul>
+  </div>
+
+
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-2 col-lg-3 col-md-12 col-sm-12 col-xs-12 col-sp-12 text-xs-center mb-2 ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
+<div id="image-form_7510660775145410" class="block logo-payment ApImage">
+	
+                            <a href="https://g.page/r/Cc2DOJZ6qkCREAg/review" target=&quot;_blank&quot;>
+                <img src="/themes/leo_bicmart/assets/img/modules/appagebuilder/images/Google Geewiz web elements_final copy.png" class="img-fluid "
+                                    title=""
+            alt=""
+	    style=" width:250px; 
+			height:auto" />
+
+                </a>
+            	        </div>
+
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-2 col-lg-3 col-md-12 col-sm-12 col-xs-12 col-sp-12 text-xs-center mb-2 ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
+<div id="image-form_6608274857732306" class="block logo-payment ApImage">
+	
+                            <a href="https://www.hellopeter.com/geewiz" target=&quot;_blank&quot;>
+                <img src="/themes/leo_bicmart/assets/img/modules/appagebuilder/images/Hellopeter Geewiz web elements_final2 copy.png" class="img-fluid "
+                                    title=""
+            alt=""
+	    style=" width:250px; 
+			height:auto" />
+
+                </a>
+            	        </div>
+
+    </div>            </div>
+    </div>
+      </div>
+
+
+  <div class="footer-center">
+          <div class="inner"><!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+    <div        class="row box-center-footer ApRow  has-bg bg-boxed"
+                            style="background: no-repeat;"        data-bg_data=" no-repeat"        >
+                                            <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-2 col-lg-2 col-md-4 col-sm-12 col-xs-12 col-sp-12  ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApBlockLink -->
+            <div class="block block-toggler ApLink ApBlockLink accordion_small_screen">
+                            <div class="title clearfix" data-target="#footer-link-form_8307734562808371" data-toggle="collapse">
+                    <h4 class="title_block">
+	                Information
+                    </h4>
+                    <span class="float-xs-right">
+                      <span class="navbar-toggler collapse-icons">
+                        <i class="material-icons add">&#xE313;</i>
+                        <i class="material-icons remove">&#xE316;</i>
+                      </span>
+                    </span>
+                </div>
+                                                    <ul class="collapse" id="footer-link-form_8307734562808371">
+                                                                        <li><a href="https://www.geewiz.co.za/1938-bargain-bin" target="_self">Bargain Bin Specials</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/index.php?controller=pricesdrop" target="_self">Specials</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/blog.html" target="_self">News &amp; Press</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/content/3-terms-and-conditions" target="_self">Terms and Conditions</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/content/1-delivery" target="_self">Shipping Info</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/content/10-privacy-policy" target="_self">Privacy Policy</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/content/7-returns-and-warranty" target="_self">Returns and Warranty</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/content/4-about-us" target="_self">About us</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/sitemap" target="_self">Sitemap</a></li>
+                                                            </ul>
+                    </div>
+    
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-2 col-lg-2 col-md-4 col-sm-12 col-xs-12 col-sp-12  ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApBlockLink -->
+            <div class="block block-toggler ApLink ApBlockLink accordion_small_screen">
+                            <div class="title clearfix" data-target="#footer-link-form_3577409262" data-toggle="collapse">
+                    <h4 class="title_block">
+	                My Account
+                    </h4>
+                    <span class="float-xs-right">
+                      <span class="navbar-toggler collapse-icons">
+                        <i class="material-icons add">&#xE313;</i>
+                        <i class="material-icons remove">&#xE316;</i>
+                      </span>
+                    </span>
+                </div>
+                                                    <ul class="collapse" id="footer-link-form_3577409262">
+                                                                        <li><a href="https://www.geewiz.co.za/my-account" target="_self">My Account</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/order-history" target="_self">My Orders</a></li>
+                                                                                                <li><a href="https://www.geewiz.co.za/addresses" target="_self">My Addresses</a></li>
+                                                                                                <li><a href="/presta1764/credit-slip" target="_self">My Credit Slips</a></li>
+                                                                                                <li><a href="/presta1764/?mylogout" target="_self">Sign Out</a></li>
+                                                            </ul>
+                    </div>
+    
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-5 col-lg-3 col-md-12 col-sm-12 col-xs-12 col-sp-12  ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApGeneral -->
+<div     class="block ApRawHtml">
+	        <h4 class="title_block">Store Information</h4>
+                    <div class="row mb-1"><div class="col-12 col-sm-2 col-md-1"><i class="fa fa-map-marker"></i></div><div class="col-12 col-sm-10">GeeWiz, 28 Milkyway Ave, Frankenwald, Sandton, 2090 (Linbro Park)</div></div><div class="row mb-1"><div class="col-12 col-sm-2 col-md-1"><i class="fa fa-clock-o"></i></div><div class="col-12 col-sm-10">Business Hours: 8:30AM - 5:30PM (Monday - Friday)</div></div><div class="row mb-1"><div class="col-12 col-sm-2 col-md-1"><i class="fa fa-phone"></i></div><div class="col-12 col-sm-10">Call us: <a href="tel:+27115680191" style="color: #fff;">011 568 0191</a></div></div><div class="row mb-3"><div class="col-12 col-sm-2 col-md-1"><i class="fa fa-envelope"></i></div><div class="col-12 col-sm-10">Email: <a href="/cdn-cgi/l/email-protection#630a0d050c23040606140a194d000c4d1902" style="color: #fff;"><span class="__cf_email__" data-cfemail="e58c8b838aa5828080928c9fcb868acb9f84">[email&#160;protected]</span></a></div></div>    	</div>
+    </div>            </div>
+    <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+    <div        class="row ApRow  "
+                            style=""                >
+                                            <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12 col-sp-12 text-xs-center mb-2 ApColumn "
+	    >
+                    
+    </div><!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12 col-sp-12 text-xs-center mb-2 ApColumn "
+	    >
+                    
+    </div>            </div>
+        <style>
+        header.raindrop,header.raindrop .drip,header.raindrop .drip .drop,header.raindrop .drip .droplet,
+      	header.raindrop .drip .droplet2 {
+          background: rgba(13,48,102,0.9)
+        }</style>
+  </div>
+      </div>
+
+
+  <div class="footer-bottom">
+          <div class="inner"><!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
+    <div        class="row box-bottom-footer ApRow  has-bg bg-boxed"
+                            style="background: no-repeat;margin-bottom: 50px;"        data-bg_data=" no-repeat"        >
+                                            <!-- @file modules\appagebuilder\views\templates\hook\ApColumn -->
+<div    class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-sp-12  ApColumn "
+	    >
+                    <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
+<div id="image-form_7845126016674225" class="block logo-payment ApImage">
+	
+                            <a href="https://www.peachpayments.com/#secured-by-peach" >
+                <img src="/themes/leo_bicmart/assets/img/modules/appagebuilder/images/footer_geewiz2.jpg" class="img-fluid "
+                                    title=""
+            alt=""
+	    style=" width:auto; 
+			height:auto" />
+
+                </a>
+            	        </div>
+<!-- @file modules\appagebuilder\views\templates\hook\ApGeneral -->
+<div     class="block ApHtml">
+	                    <div class="block_content"><div><p>Hosted by</p></div></div>
+    	</div><!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
+<div id="image-form_1900172385192051" class="block ApImage">
+	
+                            <a href="https://www.rackzar.com" >
+                <img src="/themes/leo_bicmart/assets/img/modules/appagebuilder/images/hostedbyrackzar.png" class="img-fluid "
+                                    title=""
+            alt=""
+	    style=" width:125px; 
+			height:auto" />
+
+                </a>
+            	        </div>
+<!-- @file modules\appagebuilder\views\templates\hook\ApGeneral -->
+<div     class="block ApRawHtml">
+	                    <br><div class="copyright">Copyright 2024 - GeeWiz - All rights reserved.</div>    	</div>
+    </div>            </div>
+    </div>
+      </div>
+
+<!-- // MOD IE -->
+<div id="ie-notifier" style="display: none;">
+	<div id="ie-notifier-modal">
+		<h5 class="heading">We have detected that you are browsing our online shop with Internet Explorer.</h3>
+		<div class="alert alert-danger">
+			<span>
+				The GeeWiz online shop was updated to more modern technologies. In doing so we've made the decision to drop support
+				for <i>legacy</i> "Microsoft Internet Explorer" browsers. <br />
+				Items will not add to cart and ordering will not work.
+			</span>
+		</div>
+		<p class="body">
+			For a better, faster and more modern GeeWiz browsing experience the team recommends the below browsers as alternatives to Internet Explorer:
+			<br /><br />
+			<a href="https://www.microsoft.com/en-us/edge" target="_blank" class="btn btn-primary mr-1">Microsoft Edge</a>
+			<a href="https://www.google.com/chrome/" target="_blank" class="btn btn-primary">Google Chrome</a>
+		</p>
+		<div class="actions">
+			<!--<button type="button" class="cancel-button btn btn-default button exclusive-medium" onclick="$( '#ie-notifier' ).remove();">
+				I don't want to change my browser
+			</button>-->
+		</div>
+	</div>
+	<div id="ie-notifier-panel"></div>
+</div>
+<style type="text/css">
+	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+		#ie-notifier {
+			display: block !important;
+		}
+	}
+
+	#ie-notifier {
+		position: fixed;
+		display: none;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: 9999;
+	}
+
+	#ie-notifier-panel {
+		position: fixed;
+		top: 0;
+		z-index: 9999;
+		background-color: #000;
+		opacity: 0.8;
+		filter: alpha(opacity=90);
+		width: 100%;
+		height: 100%;
+	}
+
+	#ie-notifier-modal {
+		position: relative;
+		z-index: 99999;
+		background: #fff;
+		max-width: 700px;
+		width: 100%;
+		padding: 30px;
+		margin: 10% auto 0;
+	}
+
+	#ie-notifier-modal > .alert {
+		display: flex;
+	}
+
+	#ie-notifier-modal > .heading,
+	#ie-notifier-modal > .body {
+		color: #333e48;
+	}
+
+	#ie-notifier-modal button {
+		font-size: 14px;
+		line-height: 16px;
+	}
+</style>
+<!-- // MOD IE END -->
+        
+      </footer>
+                      <div id="back-top"><a href="#" class="fa fa-angle-up"></a></div>
+      
+    </main>
+
+    
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.geewiz.co.za/themes/core.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/geewizfrontend/views/front/js/product-confirmations.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/js/jquery/ui/i18n/jquery.ui.datepicker-en.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/themes/leo_bicmart/assets/js/theme.js" ></script>
+  <script type="text/javascript" src="https://sfdr.co/sfdr.js?platform=prestashop" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/autoproductcart//views/js/autoproductcart.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/autoproductcart//views/js/vendor/busy-load/app.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/pccookieconsent/views/js/cookieconsent.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ps_facebook/views/js/front/conversion-api.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leoslideshow/views/js/iView/raphael-min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leoslideshow/views/js/iView/iview.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leoslideshow/views/js/leoslideshow.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/themes/leo_bicmart/modules/leofeature/views/js/leofeature_cart.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leofeature/views/js/jquery.mousewheel.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leofeature/views/js/jquery.mCustomScrollbar.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leofeature/views/js/leofeature_wishlist.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/popuppro/js/popup-scripts.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/popuppro/js/popup-events.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/popuppro/js/jquery.joverlay.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/loyaltyeditpoints/views/js/loyaltyeditpoints.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/showquotedetail.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/checkoptcategory.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/showdetails.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/updownbtn.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/handviewlist.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/emailadminsetting.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/languagesaveform.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/searchajax.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/addproduct.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/delproductstore.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/delmes.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/dateFormat.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/jquery.dateFormat.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/checkmess.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/askforaquotemodul/views/js/checkoptadm.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/codegenerator//views/js/front.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/separatepackages/views/js/front.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/gsnippetsreviews/views/js/module.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/gsnippetsreviews/views/js/jquery.star-rating.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/gsnippetsreviews/views/js/init.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ets_sociallogin/views/js/front.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/productdiscountinfo/views/js/productdiscountinfo.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ets_abandonedcart/views/js/jquery.countdown.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ets_abandonedcart/views/js/abancart.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ets_abandonedcart/views/js/jquery.growl.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ets_abandonedcart/views/js/captcha.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/criteo/views/js/criteo.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/agerestriction//views/js/fo.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/PayFlex//views/js/front.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/floatpayment//views/js/front/floatpayment.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/countdown.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/jprestaspeedpack/views/js/lazysizes.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/js/jquery/ui/jquery-ui.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/js/jquery/plugins/fancybox/jquery.fancybox.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/js/jquery/plugins/jquery.scrollTo.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/js/jquery/plugins/jquery.serialScroll.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/ps_searchbar/ps_searchbar.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/leobootstrapmenu/views/js/leobootstrapmenu.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/themes/leo_bicmart/modules/ps_shoppingcart/ps_shoppingcart.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/an_productfields/views/js/front.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/js/jquery/plugins/timepicker/jquery-ui-timepicker-addon.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/geewizfrontend/views/front/js/script.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/themes/leo_bicmart/assets/js/custom.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/waypoints.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/instafeed.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/jquery.stellar.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/owl.carousel.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/imagesloaded.pkgd.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/slick.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/modules/appagebuilder/views/js/jquery.elevateZoom-3.0.8.min.js" ></script>
+  <script type="text/javascript" src="https://www.geewiz.co.za/themes/leo_bicmart/modules/appagebuilder/views/js/script.js" ></script>
+
+
+<script type="text/javascript">
+	var choosefile_text = "Choose file";
+	var turnoff_popup_text = "Do not show this popup again";
+
+	var size_item_quickview = 81;
+	var style_scroll_quickview = 'horizontal';
+	
+	var size_item_page = 105;
+	var style_scroll_page = 'horizontal';
+	
+	var size_item_quickview_attr = 81;	
+	var style_scroll_quickview_attr = 'horizontal';
+	
+	var size_item_popup = 150;
+	var style_scroll_popup = 'vertical';
+</script>
+    
+
+    
+      	<div class="leo-fly-cart-mask"></div>
+
+<div class="leo-fly-cart-slidebar slidebar_right">
+	
+	<div class="leo-fly-cart disable-dropdown">
+		<div class="leo-fly-cart-wrapper">
+			<div class="leo-fly-cart-icon-wrapper">
+				<a href="javascript:void(0)" class="leo-fly-cart-icon"><i class="material-icons">&#xE8CC;</i></a>
+				<span class="leo-fly-cart-total"></span>
+			</div>
+						<div class="leo-fly-cart-cssload-loader"></div>
+		</div>
+	</div>
+
+</div><div id="js-rcpgtm-tracking-data" hidden data-tracking-data="%7B%22detail_products_list%22%3A%5B%5D%2C%22order_products_list%22%3A%5B%5D%2C%22order_complete_data%22%3A%5B%5D%2C%22order_context_user_data%22%3A%5B%5D%7D"></div>
+    
+  </body>
+
+</html>

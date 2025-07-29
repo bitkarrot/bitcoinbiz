@@ -30,7 +30,8 @@ export function parseCSVData(csvText: string): Business[] {
       metaDescription: metaDescription || undefined,
       lightning: lightning,
       category: 'Bitcoin Business',
-      image: website ? `${website.replace(/\/$/, '')}/favicon.ico` : undefined
+      // Use locally cached favicons instead of loading directly from websites
+      image: website ? getFaviconPath(website) : undefined
     };
     
     businesses.push(business);
@@ -64,6 +65,28 @@ function parseCSVLine(line: string): string[] {
 function parseLightningSupport(value: string): boolean {
   const normalized = value.toLowerCase().trim();
   return normalized === 'yes' || normalized === 'true' || normalized === '1';
+}
+
+/**
+ * Get the path to the locally cached favicon for a website
+ * @param website The website URL
+ * @returns Path to the favicon
+ */
+function getFaviconPath(website: string): string {
+  try {
+    // Extract domain from URL
+    let domain = website.replace(/^https?:\/\//, '').replace(/^www\./, '');
+    // Remove path
+    domain = domain.split('/')[0].toLowerCase();
+    // Create a safe filename
+    const safeFilename = domain.replace(/[^a-z0-9]/gi, '_');
+    
+    // Return path to locally cached favicon
+    return `/favicons/${safeFilename}.ico`;
+  } catch (error) {
+    console.error('Error extracting domain for favicon:', error);
+    return '/bitcoin-logo.svg'; // Fallback to default
+  }
 }
 
 function getCountryCode(country: string): string {
