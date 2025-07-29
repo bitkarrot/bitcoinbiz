@@ -1,6 +1,5 @@
 import { ExternalLink, Zap } from 'lucide-react';
 import type { Business } from '../types/business';
-import { cn } from '../lib/utils';
 
 interface BusinessCardProps {
   business: Business;
@@ -20,34 +19,23 @@ export function BusinessCard({ business }: BusinessCardProps) {
 
   return (
     <div className="group relative overflow-hidden rounded-lg border bg-card text-card-foreground shadow-sm transition-all hover:shadow-md">
-      {/* Image Section */}
-      <div className="aspect-video w-full overflow-hidden bg-muted">
-        {business.image ? (
-          <img
-            src={business.image}
-            alt={`${business.name} logo`}
-            className="h-full w-full object-cover transition-transform group-hover:scale-105"
-            onError={(e) => {
-              const target = e.target as HTMLImageElement;
-              target.style.display = 'none';
-              target.nextElementSibling?.classList.remove('hidden');
-            }}
-          />
-        ) : null}
-        <div className={cn(
-          "flex h-full w-full items-center justify-center bg-gradient-to-br from-primary/10 to-primary/5",
-          business.image && "hidden"
-        )}>
-          <span className="text-2xl font-bold text-muted-foreground">
-            {business.name.charAt(0)}
-          </span>
-        </div>
-      </div>
 
       {/* Content Section */}
       <div className="p-4">
         <div className="mb-2 flex items-start justify-between">
-          <h3 className="font-semibold text-lg leading-tight">{business.name}</h3>
+          <div className="flex items-center gap-2">
+            {business.image && (
+              <img
+                src={business.image}
+                alt=""
+                className="h-5 w-5 object-contain"
+                onError={(e) => {
+                  (e.target as HTMLImageElement).style.display = 'none';
+                }}
+              />
+            )}
+            <h3 className="font-semibold text-lg leading-tight">{business.name}</h3>
+          </div>
           {business.lightning && (
             <div className="flex-shrink-0 rounded-full bg-yellow-100 p-1.5 dark:bg-yellow-900/20">
               <Zap className="h-4 w-4 text-yellow-600 dark:text-yellow-400" fill="currentColor" />
