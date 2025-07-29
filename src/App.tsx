@@ -3,9 +3,11 @@ import { Bitcoin, Zap } from 'lucide-react';
 import { BusinessCard } from './components/BusinessCard';
 import { SearchFilters } from './components/SearchFilters';
 import { loadBusinessesFromCSV } from './data/csvLoader';
+import { ThemeProvider } from './components/ThemeProvider';
+import { ThemeToggle } from './components/ThemeToggle';
 import type { SearchFilters as SearchFiltersType, Business } from './types/business';
 
-function App() {
+function AppContent() {
   const [businesses, setBusinesses] = useState<Business[]>([]);
   const [countries, setCountries] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
@@ -72,6 +74,9 @@ function App() {
                 Bitcoin Business Directory
               </h1>
             </div>
+            <div className="ml-auto">
+              <ThemeToggle />
+            </div>
           </div>
           <p className="text-muted-foreground mb-6">
             Discover Bitcoin-accepting businesses worldwide. Find companies that support Lightning Network payments.
@@ -129,6 +134,14 @@ function App() {
         </div>
       </footer>
     </div>
+  );
+}
+
+function App() {
+  return (
+    <ThemeProvider>
+      <AppContent />
+    </ThemeProvider>
   );
 }
 
