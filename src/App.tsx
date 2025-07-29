@@ -125,6 +125,7 @@ function App() {
       <footer className="border-t bg-card/50 mt-12">
         <div className="container mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
           <p>Discover and support Bitcoin businesses worldwide 🧡</p>
+          <p> Vibe coded by Bitkarrot - <a href="https://github.com/bitkarrot/bitcoinbiz">Source</a></p>
         </div>
       </footer>
     </div>
