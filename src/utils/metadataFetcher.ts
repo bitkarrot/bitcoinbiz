@@ -7,50 +7,162 @@
  * This is a simple solution to avoid CORS issues with fetching metadata directly
  */
 const websiteDescriptions: Record<string, string> = {
-  'arnzenarms.com': 'Firearms dealer accepting Bitcoin and Lightning payments',
-  'gafiringline.com': 'Shooting range and gun store that accepts Bitcoin',
-  'fenixammunition.com': 'Ammunition manufacturer with Bitcoin and Lightning payment options',
-  'yoursole.com': 'Custom insoles and footwear retailer accepting Bitcoin payments',
-  'bitrefill.com': 'Buy gift cards, mobile refills and pay bills with Bitcoin',
-  'coincards.com': 'Gift cards for Bitcoin - spend crypto at major retailers',
-  'travala.com': 'Blockchain-based travel booking platform accepting cryptocurrencies',
-  'protonmail.com': 'Secure email service with Bitcoin payment option',
-  'namecheap.com': 'Domain registrar and web hosting with Bitcoin acceptance',
-  'nordvpn.com': 'VPN service provider accepting Bitcoin payments',
-  'overstock.com': 'Online retailer accepting Bitcoin for home goods and furniture',
-  'newegg.com': 'Electronics retailer with Bitcoin payment option',
-  'shopinbit.com': 'Online marketplace for Bitcoin shoppers',
-  'keys4coins.com': 'Game keys and gift cards for Bitcoin and other cryptocurrencies',
-  'bitcoinshirt.co': 'Bitcoin-themed apparel and merchandise',
-  'blockstream.com': 'Bitcoin infrastructure and technology company',
-  'btcpayserver.org': 'Self-hosted Bitcoin payment processor',
-  'purse.io': 'Marketplace to spend Bitcoin on Amazon with discounts',
-  'amagimetals.com': 'Precious metals dealer accepting Bitcoin',
-  'jmbullion.com': 'Gold and silver bullion retailer with Bitcoin payments'
+  'arnzenarms.com': 'Want to get better at mid and long-range rifle shooting? Or improve your ability to get into stab... - Accepts Bitcoin payments',
+  'shop.gafiringline.com': 'GA Firing Line - Accepts Bitcoin payments',
+  'fenixammunition.com': 'Fenix Ammunition is a Michigan company dedicated to providing high quality ammunition for competi... - Accepts Bitcoin payments',
+  'yoursole.com': 'SOLE insoles and footwear. Arch support shoe inserts for sore feet. Supportive sustainable footwear. - Accepts Bitcoin payments',
+  'daylightcomputer.com': 'Daylight Computer (DC1) is a new kind of calm computer, designed for deep work and health. - Accepts Bitcoin payments',
+  'soapminer.com': 'A RETURN TO NATURE Handmade Tallow Soap This is the soap your great grandma used to make. Gentle,... - Accepts Bitcoin payments',
+  'delgadosfuego.com': 'Don&#x27;t wait any longer - GET FUEGO! - Accepts Bitcoin payments',
+  'peonylanewine.com': 'Peony Lane wine has just one ingredient: grapes. Unlike many wines, even “natural” and “organic,”... - Accepts Bitcoin payments',
+  'anageninc.com': 'Best Pharma-grade Quality RU58841 &amp; Pyrilutamide powder and pre-made solutions | Free Shippin... - Accepts Bitcoin payments',
+  'farfetch.com': 'Bitcoin accepting website',
+  'wyomingbased.com': 'WB is an outdoor and lifestyle apparel company based in Wyoming, USA. The only ideology we push i... - Accepts Bitcoin payments',
+  'uncute.com': 'We make products to celebrate our differences and do good - Accepts Bitcoin payments',
+  'pay.zaprite.com': 'Zaprite - Pay - Bitcoin accepting website',
+  'farmerbillsprovisions.com': 'Farmer Bill&#39;s. Regenerative grass-fed beef and bison biltong. Grass-fed tallows. Magnesium ta... - Accepts Bitcoin payments',
+  'meileaf.com': 'Mei Leaf was established in London in 2006 (previously called chinalife) to represent true tea cu... - Accepts Bitcoin payments',
+  'smithpastures.com': 'Pasture Raised Poultry - Accepts Bitcoin payments',
+  'based.getchroma.co': 'Take control of your health and mind with purpuse built devices designed to restore your connecti... - Accepts Bitcoin payments',
+  'mushmoresupplements.com': 'MushMore has a mission: and it is to create a sustainably sourced product line that combines mode... - Accepts Bitcoin payments',
+  'lmtdsupply.co': 'LMTD is a surf-inspired Bitcoin lifestyle clothing brand that creates durable, stylish t-shirts a...',
+  'acmeacres.us': 'Farm to table, grass fed, pasture raised, no hormones, no antibiotics, no vaccines. Buy beef onli... - Accepts Bitcoin payments',
+  'seedvault.market': 'We provide high-quality vegetable and produce seeds through the Bitcoin network, we promote a sel...',
+  'privato.ca': 'Item was successfully added to your cart - Accepts Bitcoin payments',
+  'theleathermint.com': 'Sorry, this product is unavailable. Please choose a different combination. - Accepts Bitcoin payments',
+  'shopinbit.de': 'Bitcoin accepting website',
+  'drink-bob.com': 'Welcome to our website! Discover Bitcoin Only Brewery, specialized in craft beers. Order online a...',
+  'buybitart.com': 'This website is using a security service to protect itself from online attacks. The action you ju... - Accepts Bitcoin payments',
+  'miningwholesale.eu': 'Welcome to Mining Wholesale. At Mining Wholesale we are specialists in reselling ASIC hardware fo... - Accepts Bitcoin payments',
+  'bitcoinapexart.com': 'bitcoinapexart.com offers unique bitcoin-art worldwide. Bitcoin pencil art.',
+  'gobrrr.me': '3D prints for sovereign individuals! We offer Bitcoin nodes, SeedSigner kits &amp; parts, cold st...',
+  'driveczech.com': 'English-speaking local drivers. - Accepts Bitcoin payments',
+  'm.alza.cz': 'Just a moment... - Bitcoin accepting website',
+  'stackuj.cz': 'Bitcoin',
+  'onlinevis.nl': 'Online vis kopen doet u eenvoudig bij Onlinevis.nl. Een mooi assortiment aan online vis beschikba... - Accepts Bitcoin payments',
+  'bitcoinbottles.nl': 'all the way up&#8230; - Accepts Bitcoin payments',
+  'bitcoindebuut.nl': 'Welkom bij Bitcoin Debuut: dé bitcoin webshop voor Bitcoiners. Leer veilig bitcoin kopen en ontde...',
+  'bitcoinfocus.nl': 'De Nederlandse nieuwsbrief met 100% focus op bitcoin en lightning, drie keer per week in je digit...',
+  'bitcoinstuffstore.com': 'Ontdek unieke Bitcoin merchandise voor de ultieme fan. Bezoek onze webshop en profiteer van exclu...',
+  'bitcointaps.com': 'RENT for your event Show Bitcoin Taps Revolutionizing Drinks with Bitcoin At BitcoinTaps, we&#039...',
+  'cafeweltschmerz.nl': 'Kies een bedrag: - Accepts Bitcoin payments',
+  'fuelingyou.nl': 'Bitcoin accepting website',
+  'stemlp.nl': 'Bitcoin accepting website',
+  'terschellingbricks.nl': 'Terschelling Bricks: LEGO® huren op Terschelling. Bouwplezier voor jong en oud, bij slecht én moo... - Accepts Bitcoin payments',
+  'bvnl.nl': 'BVNL is de enige partij die bij elke keuze altijd het belang van Nederland voorop zet. Alles word... - Accepts Bitcoin payments',
+  'gamekings.tv': 'Elke dag verse video&#039;s over de nieuwste games en het laatste gaming nieuws omtrent de PS4, P... - Accepts Bitcoin payments',
+  'voorlopig.fly.dev': 'Kassa - Bitcoin accepting website',
+  'palingshop.nl': 'Paling kopen bij Palingshop.nl. Eenvoudig online verse en gerookte paling kopen. Ook andere heerl... - Accepts Bitcoin payments',
+  'phoodfarm.org': 'Phood Farm is dé urban farm die de stad inspireert om regeneratief, zorgzaam en community based t... - Accepts Bitcoin payments',
+  'combipower.nl': 'Bitcoin accepting website',
+  'hummingbird.amsterdam': 'Explore the world&#039;s finest coffee brews in our online shop or visit our bar in Amsterdam. Ou... - Accepts Bitcoin payments',
+  'filmweb.pl': 'Filmweb.pl - Filmy takie jak Ty Filmweb to największy i najczęściej odwiedzany polski serwis film... - Accepts Bitcoin payments',
+  'cremitacbd.com': 'You don\'t have permission to access this resource. - Accepts Bitcoin payments',
+  'megatechnica.ge': 'Megatechnica -  საყოფაცხოვრებო ტექნიკა,  ტელევიზორები, კომპიუტერები, მობილურები, მაცივრები და სხვ... - Accepts Bitcoin payments',
+  'supta.ge': 'გაიმარტივე ბიზნესის მომარაგება სუფთასთან ერთად! ჩვენი პლატფორმა 700-მდე დასახელების პროდუქტს უყრი... - Accepts Bitcoin payments',
+  'nlstore.ge': 'NLSTORE - წონის დაკლება უმარტივესად Energy Diet ფრანგული ხარისხი № 1 ფუნქციური საკვები მსოფლიოში!... - Accepts Bitcoin payments',
+  'tmcgeorgia.com': 'Tax Management &amp; Consulting | Audit Company TMC | Georgia Tax Management &amp; Consulting (TM... - Accepts Bitcoin payments',
+  'primestore.ge': 'Primestore.ge-ზე ფართო არჩევანია, თქვენ შეგიძლიათ შეიძინოთ ტექნიკა ყველაზე დაბალ ფასად! მიიღეთ სა... - Accepts Bitcoin payments',
+  'greenlab.ge': 'Bitcoin accepting website',
+  'growlab.ge': 'გროულაბი • growlab &#039; ჩვენ გთავაზობთ ყველაფერს, რაც მცენარის გასაზრდელად გჭირდებათ: გროუ ტენტ... - Accepts Bitcoin payments',
+  'keylocker.ge': 'გასაღების შემნახველი სეიფები, კარის ჭკვიანი საკეტები ონლაინ მაღაზია. უფასო მიწოდების მომსახურება ... - Accepts Bitcoin payments',
+  'ciel.ge': 'შეიძინე ორიგინალი სუნამოების ონლაინ მაღაზია სიელში პარფიუმერია და მიიღე საჩუქრად სუნამოს ნაკრები ... - Accepts Bitcoin payments',
+  'isari.store': 'ISARI.store არის ქართული ონლაინ სავაჭრო პლატფორმა, რომელიც სთავაზობს მომხმარებლებს ხარისხიან პროდ... - Accepts Bitcoin payments',
+  'isolabellart.it.com': 'Original oil paintings - Accepts Bitcoin payments',
+  'konzum.hr': 'Sve informacije o Konzumu na jednom mjestu - o prodavaonicama, proizvodima, akcijama, nagradnim i... - Accepts Bitcoin payments',
+  'qualidoc.com.br': 'Entrega garantida 365 dias por ano! - Accepts Bitcoin payments',
+  'ecclesiae.com.br': 'O site &eacute; protegido por um servi&ccedil;o de seguran&ccedil;a online que o protege contra a... - Accepts Bitcoin payments',
+  'minebit.com.br': 'Os melhores hardwares de Bitcoin para mineração, carteiras frias e nodes no Brasil!',
+  'marketplace.kriptonmarket.com': 'Dejanos tus datos para contactarte. - Accepts Bitcoin payments',
+  'totalplay.com.mx': 'Error 404 - Bitcoin accepting website',
+  'elektra.mx': 'Bitcoin accepting website',
+  'thegoodbeans.com': 'Single origin specialty coffees roasted at origin shipping directly from El Salvador to your door... - Accepts Bitcoin payments',
+  'bitdriver.taxi': 'Sorry, this product is unavailable. Please choose a different combination. - Accepts Bitcoin payments',
+  'beefbackbetter.com': 'Discover our sin additivo, GMO-free, regenerative agriculture practices in El Salvador. Taste the... - Accepts Bitcoin payments',
+  'app.marketandmorecr.com': 'Bitcoin accepting website',
+  'campoapicola.com': 'Miel de abejas 100 % natural, polen, y propóleo directamente de nuestros apiarios en Santander, d... - Accepts Bitcoin payments',
+  'sweethomeparaguay.com': 'We provide services for expats, including a Paraguay mailbox with street address, mail scanning, ... - Accepts Bitcoin payments',
+  'inet.se': 'Just a moment... - Bitcoin accepting website',
+  'kaffebox.no': 'Kaffeabonnement med den beste kaffen fra Skandinavias topp mikrobrennerier. Velg hvor mye kaffe d... - Accepts Bitcoin payments',
+  'bitcoinbonden.no': 'Velkommmen til gårdsbutikken på Øvre Lier! Har kan du kjøpe kjøtt og ved med Bitcoin.',
+  'greatnorthairambulance.co.uk': 'We are now accepting Bitcoin as a form of payment from those who choose to donate to our life-sav...',
+  'bonjourwines.co.uk': 'Sorry, this product is unavailable. Please choose a different combination. - Accepts Bitcoin payments',
+  'leedsgin.com': 'Leeds Gin Leeds Gin - Premium gin hand crafted in small batches A beautiful selection of gins bro... - Accepts Bitcoin payments',
+  'castlehillgin.com': 'BORN AND BRED IN YORKSHIRE With over 4000 years of history there&#039;s plenty to discover about ... - Accepts Bitcoin payments',
+  'spyequipmentuk.co.uk': 'Welcome to Spy Equipment UK. The Ultimate Spy Shop. Surveillance Equipment, Spy Cameras, Listenin... - Accepts Bitcoin payments',
+  'purpleheartstudios.co.uk': 'Luxury residential recording and podcast studio in Surrey. - Accepts Bitcoin payments',
+  'motrhome.com': 'Motrhome.com are motorhome and camper specialists. From electrical accessories, servicing &amp; o... - Accepts Bitcoin payments',
+  'pumphreys-coffee.co.uk': 'Partner with Pumphreys Coffee Distributors for premium quality coffee beans and products. Offerin... - Accepts Bitcoin payments',
+  'missprint.co.uk': 'Buy now from a family business producing striking modern wallpaper designs, fabrics and accessori... - Accepts Bitcoin payments',
+  'lightningbazaar.com': '100% Pure, Raw, Australian honey direct from the beekeeper to you. - Accepts Bitcoin payments',
+  'orangepages.nz': 'Market - Orange Pages - The bitcoin marketplace - OrangePages.nz - Bitcoin accepting website',
+  'lightningbase.jp': 'Lightning Base は、ビットコイン関連商品がライトニング決済と匿名配送で買えるオンラインショップです。ハードウェアウォレットをはじめ、オリジナルグッズやアパレルなど、ここでしか買えな... - Accepts Bitcoin payments',
+  'chavda.com': 'You don\'t have permission to access this resource. - Accepts Bitcoin payments',
+  'bramleigh.co.za': 'Bitcoin Accepted Here',
+  'stk.co.za': 'Sorry, this product is unavailable. Please choose a different combination. - Accepts Bitcoin payments',
+  'butlers.co.za': 'Butler - Accepts Bitcoin payments',
+  'ticketpro.co.za': 'Bitcoin accepting website',
+  'dailymaverick.co.za': 'Daily Maverick is a leading South African source of news, opinion and investigations. - Accepts Bitcoin payments',
+  'geewiz.co.za': 'Just a moment... - Bitcoin accepting website',
+  'lightingwarehouse.co.za': 'Bitcoin accepting website',
+  'skoonskin.com': 'Discover SKOON. Customisable, Non-Toxic Skincare Infused with African Beauty Wisdom. Inclusive, S... - Accepts Bitcoin payments',
+  'wizmed.co.za': 'Shop at WiZmed for Littmann stethoscopes and the best-value scrubs in Africa. Enjoy quick service... - Accepts Bitcoin payments',
+  'furniturespot.co.za': 'Furniture made in South Africa from durable, premium materials. With our online-first policy, we ... - Accepts Bitcoin payments',
+  'epicdeals.co.za': 'SA’s trusted online retailer of pre-loved technology. Free shipping on all orders across SA. Prio... - Accepts Bitcoin payments',
+  'flook.co.za': 'Just a moment... - Bitcoin accepting website',
+  'columbiasportswear.co.za': 'Discover high-performance sportswear at Columbia. Elevate your outdoor adventures with our premiu... - Accepts Bitcoin payments',
+  'brights.co.za': 'Brights Hardware Store is a multi-faceted outlet for all one’s building material &amp; hardware n... - Accepts Bitcoin payments',
+  'btgames.co.za': 'BT Games is the South Africa&#039;s leading games retailer with great deals on video games, conso... - Accepts Bitcoin payments',
+  'bootlegger.coffee': 'Bootlegger Coffee Company was created in 2012 by 3 best friends, Pieter Bloem, De Waal Basson &am... - Accepts Bitcoin payments',
+  'brutech.co.za': 'Brutech is South Africa’s trusted high-performance custom PC builder. Premium prebuilt PCs, upgra... - Accepts Bitcoin payments',
+  'lugtolug.co.za': 'Bitcoin accepting website',
+  'thebabyempireltd.co.za': 'Baby and Toddler Clothing and Accessories - Accepts Bitcoin payments',
+  'getdu.ae': 'GetDu is here to help you acquire the best Du internet connection packages in a smooth &amp; hass... - Accepts Bitcoin payments',
+  'namecheap.com': 'Just a moment... - Bitcoin accepting website',
+  'twentyonesolutions.com': 'TwentyOne Solutions is the best website designer for small business in San Clemente. Free website... - Accepts Bitcoin payments',
+  'fmphost.com': 'Fully managed FileMaker hosting keeps your databases safely in the cloud providing FileMaker Pro ... - Accepts Bitcoin payments',
+  'mega.io': 'Secure and private cloud storage for everyone. Store and share files, chat, meet, back up, sync, ... - Accepts Bitcoin payments',
+  'mynymbox.io': 'Anonymous hosting solutions, domain registrations and dns parking. No personal data needed. Pay w... - Accepts Bitcoin payments',
+  'racknation.cr': 'DataCenter in Costa Rica with two locations in San José, CR1 San Pedro &amp; CR2 Curridabat, Ra... - Accepts Bitcoin payments',
+  'sovransystems.com': 'Sovereign Computing - Run Your Own Bitcoin Node, BTCPayserver, Matrix Chat, Nextcloud, and Wordpr...',
+  'lunanode.com': 'LunaNode: Cloud Virtualization Platform - Bitcoin accepting website',
+  'dynadot.com': 'Register domains at low prices with Dynadot! Get free privacy, 24/7 support & powerful tools. Cho... - Accepts Bitcoin payments',
+  'planetexpress.com': 'Bitcoin accepting website',
+  'satosphere21.com': 'The Satosphere is a rotating bitcoin globe designed to inspire, educate and spark curiosity for p...',
+  'blockhuntersgame.com': 'Blockhunters is a fast-paced Bitcoin board game of strategy and competition. Stack sats, outsmart...',
+  'geyser.fund': 'A Bitcoin crowdfunding platform where creators raise funds for causes, sell products, manage camp...',
+  'izindlovu.org': 'Izindlovu Fund is a Belgian non-profit organisation dedicated to supporting local field projects ... - Accepts Bitcoin payments',
+  'cypherflow.ai': 'Bitcoin accepting website',
+  'sats.coffee': 'Our beans are high-quality and are purchased using bitcoin on the Lightning Network or on-chain. ...',
+  'lightningkoffee.com': 'Colombian coffee, with a shopping experience in Bitcoin Lightning Network',
+  'mobimatter.com': 'Buy travel eSIMs from MobiMatter for 200+ destinations. Enjoy instant eSIM delivery and seamless ... - Accepts Bitcoin payments',
+  'silent.link': 'Experience borderless connectivity in 160+ countries with no KYC, data limits, or expirations - j... - Accepts Bitcoin payments',
+  'obscura.net': 'Available for Mac. Download today. - Accepts Bitcoin payments',
+  'mullvad.net': 'Free the internet from mass surveillance and censorship. Fight for privacy with Mullvad VPN and M... - Accepts Bitcoin payments',
+  'joltfun.com': 'Buy games with Bitcoin/Lightning for Steam, Battle.net, Bethesda, Epic Store, Origin, GOG.com, Pl...',
+  'g2a.com': 'https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;8ef4d517&#46;1753829533&#46;cb42e72 - Accepts Bitcoin payments',
+  'travala.com': 'Bitcoin accepting website',
+  'airbtc.online': 'Choose one of the available destinations and spend your dream vacation in one of the most attract... - Accepts Bitcoin payments',
+  'bitcointravel.com': 'Book your travel with exclusive Bitcoin payments using our web3 platform services. Find your flig...',
+  'honey.hivetalk.org': 'HiveTalk Honey - Nostr + Lightning Enabled Video Conferencing - Accepts Bitcoin payments',
 };
 
 /**
- * Gets a description for a website based on its URL
+ * Get website description by URL
  * @param url The website URL
- * @returns A description of the website or null if not found
+ * @returns The description or null if not found
  */
 export function getWebsiteDescription(url: string): string | null {
-  if (!url) return null;
-  
+  // Extract domain from URL
   try {
-    // Extract domain from URL
-    const domain = new URL(url).hostname.replace('www.', '');
+    // Remove protocol and www
+    let domain = url.replace(/^https?:\/\//, '').replace(/^www\./, '');
+    // Remove path
+    domain = domain.split('/')[0].toLowerCase();
     
-    // Check if we have a description for this domain
-    for (const [key, description] of Object.entries(websiteDescriptions)) {
-      if (domain.includes(key)) {
-        return description;
-      }
-    }
-    
-    return null;
+    return websiteDescriptions[domain] || null;
   } catch (error) {
-    console.error(`Error parsing URL ${url}:`, error);
+    console.error('Error extracting domain:', error);
     return null;
   }
 }
