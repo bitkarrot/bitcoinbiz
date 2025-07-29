@@ -5,6 +5,7 @@ export interface Business {
   country: string;
   countryCode: string;
   description: string;
+  metaDescription?: string; // Website metadata description
   lightning: boolean;
   category?: string;
   image?: string;

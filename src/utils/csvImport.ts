@@ -1,4 +1,5 @@
 import type { Business } from '../types/business';
+import { getWebsiteDescription } from './metadataFetcher';
 
 export function parseCSVData(csvText: string): Business[] {
   const lines = csvText.trim().split('\n');
@@ -16,6 +17,9 @@ export function parseCSVData(csvText: string): Business[] {
     const website = values[2] || '';
     const lightning = values.length > 3 ? parseLightningSupport(values[3]) : false;
     
+    // Get website metadata description
+    const metaDescription = website ? getWebsiteDescription(website) : null;
+    
     const business: Business = {
       id: i.toString(),
       name: name,
@@ -23,6 +27,7 @@ export function parseCSVData(csvText: string): Business[] {
       country: country,
       countryCode: getCountryCode(country),
       description: `Bitcoin-accepting business in ${country}`,
+      metaDescription: metaDescription || undefined,
       lightning: lightning,
       category: 'Bitcoin Business',
       image: website ? `${website.replace(/\/$/, '')}/favicon.ico` : undefined

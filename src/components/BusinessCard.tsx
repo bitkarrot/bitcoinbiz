@@ -43,8 +43,16 @@ export function BusinessCard({ business }: BusinessCardProps) {
           )}
         </div>
 
-        <p className="mb-3 text-sm text-muted-foreground line-clamp-2">
-          {business.description}
+        <p className="mb-3 text-sm text-muted-foreground line-clamp-3">
+          {business.metaDescription ? (
+            <>
+              <span className="font-medium">{business.metaDescription}</span>
+              <br />
+              <span className="text-xs opacity-75">{business.description}</span>
+            </>
+          ) : (
+            business.description
+          )}
         </p>
 
         <div className="flex items-center justify-between">
