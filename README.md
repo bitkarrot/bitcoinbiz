@@ -27,10 +27,11 @@ pnpm dev
 Download your csv file and place it in the root directory of the project, 
 Name it bitcoinlinks.csv.
 
-Get the metadata for the project
+Get the metadata and favicons for the project and store locally to load faster
 
 ```bash
 node scripts/fetch_metadata.js
+node fetch_favicons.js
 ```
 
 Build the project
