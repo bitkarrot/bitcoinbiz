@@ -1,4 +1,10 @@
-# Bitcoin Businesses 
+# Bitcoin Businesses Directory Worldwide
+
+Have a new entry? Edit this file and Make a Pull Request 
+
+https://github.com/bitkarrot/bitcoinbiz/blob/main/bitcoinlinks.csv
+
+## What
 
 A React + TypeScript + Vite application to display Bitcoin businesses.
 
