@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react';
-import { Bitcoin, Zap } from 'lucide-react';
+import { Bitcoin, Zap, PlusCircle, Eye } from 'lucide-react';
 import { BusinessCard } from './components/BusinessCard';
 import { SearchFilters } from './components/SearchFilters';
 import { loadBusinessesFromCSV } from './data/csvLoader';
@@ -74,7 +74,25 @@ function AppContent() {
                 Bitcoin Business Directory
               </h1>
             </div>
-            <div className="ml-auto">
+            <div className="ml-auto flex items-center gap-3">
+              <a 
+                href="https://formstr.app/f/naddr1qvzqqqr4mqpzqwuesmkx5v6lwfsmsqcgvxamg2n7x9l2094jnqr4p786j6k63u4mqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qqx29thsempxsg77cqc?viewKey=65fe57f356a8495090f2c2dcd6152af25f81844cbe7c62d93b0aeee436d66282" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="flex items-center gap-1 px-3 py-1.5 rounded-md bg-orange-500 hover:bg-orange-600 text-white text-sm font-medium transition-colors"
+              >
+                <PlusCircle className="h-4 w-4" />
+                <span>Add an Entry</span>
+              </a>
+              <a 
+                href="https://formstr.app/s/ad3e91eaa8ceca734f1c01a26e62cae718ddf11da7e0f444ecf33cdc562c936f/QWxga4?relay=wss%3A%2F%2Frelay.damus.io%2F&viewKey=65fe57f356a8495090f2c2dcd6152af25f81844cbe7c62d93b0aeee436d66282" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="flex items-center gap-1 px-3 py-1.5 rounded-md bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-800 dark:text-gray-200 text-sm font-medium transition-colors"
+              >
+                <Eye className="h-4 w-4" />
+                <span>View Responses</span>
+              </a>
               <ThemeToggle />
             </div>
           </div>
