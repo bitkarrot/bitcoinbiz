@@ -1,4 +1,4 @@
-import { Search, Filter, Zap, X } from 'lucide-react';
+import { Search, Filter, Zap, X, ArrowUpDown } from 'lucide-react';
 import type { SearchFilters } from '../types/business';
 
 interface SearchFiltersProps {
@@ -17,6 +17,7 @@ export function SearchFilters({ filters, onFiltersChange, countries = [] }: Sear
       country: '',
       lightning: null,
       searchTerm: '',
+      sortDirection: '',
     });
   };
 
@@ -79,6 +80,20 @@ export function SearchFilters({ filters, onFiltersChange, countries = [] }: Sear
             <option value="">All Businesses</option>
             <option value="true">Lightning Enabled</option>
             <option value="false">No Lightning</option>
+          </select>
+        </div>
+
+        {/* Sort Direction */}
+        <div className="flex items-center gap-2">
+          <ArrowUpDown className="h-4 w-4 text-muted-foreground" />
+          <select
+            value={filters.sortDirection}
+            onChange={(e) => updateFilters({ sortDirection: e.target.value as '' | 'asc' | 'desc' })}
+            className="rounded-md border border-input bg-background px-3 py-1.5 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+          >
+            <option value="">Default Order</option>
+            <option value="asc">Sort A-Z</option>
+            <option value="desc">Sort Z-A</option>
           </select>
         </div>
 

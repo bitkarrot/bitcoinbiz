@@ -15,6 +15,7 @@ function AppContent() {
     country: '',
     lightning: null,
     searchTerm: '',
+    sortDirection: '',
   });
 
   useEffect(() => {
@@ -34,7 +35,7 @@ function AppContent() {
   }, []);
 
   const filteredBusinesses = useMemo(() => {
-    return businesses.filter((business) => {
+    let filtered = businesses.filter((business) => {
       // Search term filter
       if (filters.searchTerm) {
         const searchLower = filters.searchTerm.toLowerCase();
@@ -58,6 +59,22 @@ function AppContent() {
 
       return true;
     });
+    
+    // Apply sorting if sortDirection is set
+    if (filters.sortDirection) {
+      filtered = [...filtered].sort((a, b) => {
+        const nameA = a.name.toLowerCase();
+        const nameB = b.name.toLowerCase();
+        
+        if (filters.sortDirection === 'asc') {
+          return nameA.localeCompare(nameB);
+        } else {
+          return nameB.localeCompare(nameA);
+        }
+      });
+    }
+    
+    return filtered;
   }, [filters, businesses]);
 
   const lightningCount = businesses.filter((b: Business) => b.lightning).length;

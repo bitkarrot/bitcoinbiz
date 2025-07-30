@@ -11,8 +11,11 @@ export interface Business {
   image?: string;
 }
 
+export type SortDirection = 'asc' | 'desc' | '';
+
 export interface SearchFilters {
   country: string;
   lightning: boolean | null;
   searchTerm: string;
+  sortDirection: SortDirection;
 }
