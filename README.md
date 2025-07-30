@@ -1,6 +1,6 @@
 # Bitcoin Businesses Directory Worldwide
 
-Have a new entry? Edit this file and Make a Pull Request 
+## Want to add a new entry? Edit this file and Make a Pull Request 
 
 https://github.com/bitkarrot/bitcoinbiz/blob/main/bitcoinlinks.csv
 
