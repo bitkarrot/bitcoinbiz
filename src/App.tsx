@@ -18,11 +18,24 @@ function AppContent() {
     sortDirection: '',
   });
 
+  // Fisher-Yates shuffle algorithm
+  const shuffleArray = <T,>(array: T[]): T[] => {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  };
+
   useEffect(() => {
     async function fetchData() {
       setLoading(true);
       const data = await loadBusinessesFromCSV();
-      setBusinesses(data);
+      
+      // Shuffle the businesses randomly on load
+      const shuffledData = shuffleArray(data);
+      setBusinesses(shuffledData);
       
       // Extract unique countries from the loaded data
       const uniqueCountries = Array.from(new Set(data.map(b => b.country))).sort();
