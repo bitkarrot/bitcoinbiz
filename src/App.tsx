@@ -32,7 +32,7 @@ function AppContent() {
     async function fetchData() {
       setLoading(true);
       const data = await loadBusinessesFromCSV();
-      
+
       // Shuffle the businesses randomly on load
       const shuffledData = shuffleArray(data);
       setBusinesses(shuffledData);
